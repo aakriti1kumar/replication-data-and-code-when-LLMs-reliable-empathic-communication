@@ -18,7 +18,7 @@ Each of the four datasets has its own subdirectory containing individual rating 
 - `lend_an_ear/` - Contains ratings from expert1, expert2, expert3, crowd, gpt, claude, and gemini annotators
 
 
-### Download the Dataset
+#### Download the Dataset
 You can find the combined annotations for all four datasets in `annotations/combined_annotations_across_methods_and_datasets.csv`. This file contains annotations from three experts, crowds, and LLMs (GPT-4o, Gemini 2.5 Pro, Claude3.7 Sonnet) for each of the 21 dimensions.
 
 The original data for each 50 conversation sample is stored in the `original_data/` directory. You can find the conversations and annotations in the following files:

@@ -1,0 +1,127 @@
+Dataset,Dimension,Annotator Pair,Weighted Cohen's Kappa,Kappa P-value
+Lend an Ear,advice_giving,"('expert1', 'expert2')",0.70,0.000
+Lend an Ear,demonstrating_understanding,"('expert1', 'expert2')",0.47,0.000
+Lend an Ear,dismissing_emotions,"('expert1', 'expert2')",0.35,0.024
+Empathetic Dialogues,empathy,"('expert1', 'expert2')",0.51,0.000
+Lend an Ear,encouraging_elaboration,"('expert1', 'expert2')",0.69,0.000
+Empathetic Dialogues,fluency,"('expert1', 'expert2')",0.28,0.149
+EPITOME,level_emotional_reactions,"('expert1', 'expert2')",0.35,0.004
+EPITOME,level_explorations,"('expert1', 'expert2')",0.76,0.000
+EPITOME,level_interpretations,"('expert1', 'expert2')",0.26,0.004
+Perceived Empathy,m_accepted,"('expert1', 'expert2')",0.43,0.000
+Perceived Empathy,m_affirmed,"('expert1', 'expert2')",0.49,0.000
+Perceived Empathy,m_caredfor,"('expert1', 'expert2')",0.55,0.000
+Perceived Empathy,m_emotional,"('expert1', 'expert2')",0.74,0.000
+Perceived Empathy,m_motivation,"('expert1', 'expert2')",0.66,0.000
+Perceived Empathy,m_practical,"('expert1', 'expert2')",0.77,0.000
+Perceived Empathy,m_seen,"('expert1', 'expert2')",0.55,0.000
+Perceived Empathy,m_understood,"('expert1', 'expert2')",0.60,0.000
+Perceived Empathy,m_validated,"('expert1', 'expert2')",0.59,0.000
+Empathetic Dialogues,relevance,"('expert1', 'expert2')",0.44,0.031
+Lend an Ear,self_oriented,"('expert1', 'expert2')",0.82,0.000
+Lend an Ear,validating_emotions,"('expert1', 'expert2')",0.25,0.001
+Lend an Ear,advice_giving,"('expert2', 'expert3')",0.69,0.000
+Lend an Ear,demonstrating_understanding,"('expert2', 'expert3')",0.43,0.010
+Lend an Ear,dismissing_emotions,"('expert2', 'expert3')",0.51,0.006
+Empathetic Dialogues,empathy,"('expert2', 'expert3')",0.62,0.000
+Lend an Ear,encouraging_elaboration,"('expert2', 'expert3')",0.73,0.000
+Empathetic Dialogues,fluency,"('expert2', 'expert3')",0.11,0.515
+EPITOME,level_emotional_reactions,"('expert2', 'expert3')",0.56,0.000
+EPITOME,level_explorations,"('expert2', 'expert3')",0.84,0.000
+EPITOME,level_interpretations,"('expert2', 'expert3')",0.62,0.000
+Perceived Empathy,m_accepted,"('expert2', 'expert3')",0.58,0.000
+Perceived Empathy,m_affirmed,"('expert2', 'expert3')",0.65,0.000
+Perceived Empathy,m_caredfor,"('expert2', 'expert3')",0.60,0.000
+Perceived Empathy,m_emotional,"('expert2', 'expert3')",0.59,0.000
+Perceived Empathy,m_motivation,"('expert2', 'expert3')",0.64,0.000
+Perceived Empathy,m_practical,"('expert2', 'expert3')",0.69,0.000
+Perceived Empathy,m_seen,"('expert2', 'expert3')",0.56,0.000
+Perceived Empathy,m_understood,"('expert2', 'expert3')",0.62,0.000
+Perceived Empathy,m_validated,"('expert2', 'expert3')",0.69,0.000
+Empathetic Dialogues,relevance,"('expert2', 'expert3')",0.58,0.003
+Lend an Ear,self_oriented,"('expert2', 'expert3')",0.52,0.000
+Lend an Ear,validating_emotions,"('expert2', 'expert3')",0.58,0.000
+Lend an Ear,advice_giving,"('expert3', 'expert1')",0.54,0.000
+Lend an Ear,demonstrating_understanding,"('expert3', 'expert1')",0.37,0.101
+Lend an Ear,dismissing_emotions,"('expert3', 'expert1')",0.49,0.003
+Empathetic Dialogues,empathy,"('expert3', 'expert1')",0.53,0.000
+Lend an Ear,encouraging_elaboration,"('expert3', 'expert1')",0.62,0.000
+Empathetic Dialogues,fluency,"('expert3', 'expert1')",0.41,0.000
+EPITOME,level_emotional_reactions,"('expert3', 'expert1')",0.53,0.000
+EPITOME,level_explorations,"('expert3', 'expert1')",0.74,0.000
+EPITOME,level_interpretations,"('expert3', 'expert1')",0.29,0.000
+Perceived Empathy,m_accepted,"('expert3', 'expert1')",0.57,0.000
+Perceived Empathy,m_affirmed,"('expert3', 'expert1')",0.60,0.000
+Perceived Empathy,m_caredfor,"('expert3', 'expert1')",0.39,0.000
+Perceived Empathy,m_emotional,"('expert3', 'expert1')",0.59,0.000
+Perceived Empathy,m_motivation,"('expert3', 'expert1')",0.78,0.000
+Perceived Empathy,m_practical,"('expert3', 'expert1')",0.81,0.000
+Perceived Empathy,m_seen,"('expert3', 'expert1')",0.54,0.000
+Perceived Empathy,m_understood,"('expert3', 'expert1')",0.51,0.000
+Perceived Empathy,m_validated,"('expert3', 'expert1')",0.65,0.000
+Empathetic Dialogues,relevance,"('expert3', 'expert1')",0.49,0.005
+Lend an Ear,self_oriented,"('expert3', 'expert1')",0.70,0.000
+Lend an Ear,validating_emotions,"('expert3', 'expert1')",0.39,0.000
+Lend an Ear,advice_giving,"('experts', 'crowd')",0.33,0.003
+Lend an Ear,demonstrating_understanding,"('experts', 'crowd')",0.14,0.024
+Lend an Ear,dismissing_emotions,"('experts', 'crowd')",0.12,0.194
+Empathetic Dialogues,empathy,"('experts', 'crowd')",0.15,0.048
+Lend an Ear,encouraging_elaboration,"('experts', 'crowd')",0.43,0.000
+Empathetic Dialogues,fluency,"('experts', 'crowd')",0.35,0.048
+EPITOME,level_emotional_reactions,"('experts', 'crowd')",0.70,0.000
+EPITOME,level_explorations,"('experts', 'crowd')",0.51,0.000
+EPITOME,level_interpretations,"('experts', 'crowd')",0.37,0.001
+Perceived Empathy,m_accepted,"('experts', 'crowd')",0.18,0.002
+Perceived Empathy,m_affirmed,"('experts', 'crowd')",0.18,0.013
+Perceived Empathy,m_caredfor,"('experts', 'crowd')",0.14,0.044
+Perceived Empathy,m_emotional,"('experts', 'crowd')",0.33,0.000
+Perceived Empathy,m_motivation,"('experts', 'crowd')",0.34,0.004
+Perceived Empathy,m_practical,"('experts', 'crowd')",0.34,0.000
+Perceived Empathy,m_seen,"('experts', 'crowd')",0.14,0.062
+Perceived Empathy,m_understood,"('experts', 'crowd')",0.20,0.017
+Perceived Empathy,m_validated,"('experts', 'crowd')",0.19,0.011
+Empathetic Dialogues,relevance,"('experts', 'crowd')",0.56,0.000
+Lend an Ear,self_oriented,"('experts', 'crowd')",0.37,0.000
+Lend an Ear,validating_emotions,"('experts', 'crowd')",0.32,0.001
+Lend an Ear,advice_giving,"('experts', 'llm')",0.66,0.000
+Lend an Ear,demonstrating_understanding,"('experts', 'llm')",0.59,0.000
+Lend an Ear,dismissing_emotions,"('experts', 'llm')",0.17,0.007
+Empathetic Dialogues,empathy,"('experts', 'llm')",0.35,0.000
+Lend an Ear,encouraging_elaboration,"('experts', 'llm')",0.86,0.000
+Empathetic Dialogues,fluency,"('experts', 'llm')",0.27,0.062
+EPITOME,level_emotional_reactions,"('experts', 'llm')",0.64,0.000
+EPITOME,level_explorations,"('experts', 'llm')",0.76,0.000
+EPITOME,level_interpretations,"('experts', 'llm')",0.59,0.000
+Perceived Empathy,m_accepted,"('experts', 'llm')",0.45,0.000
+Perceived Empathy,m_affirmed,"('experts', 'llm')",0.63,0.000
+Perceived Empathy,m_caredfor,"('experts', 'llm')",0.60,0.000
+Perceived Empathy,m_emotional,"('experts', 'llm')",0.75,0.000
+Perceived Empathy,m_motivation,"('experts', 'llm')",0.70,0.000
+Perceived Empathy,m_practical,"('experts', 'llm')",0.74,0.000
+Perceived Empathy,m_seen,"('experts', 'llm')",0.60,0.000
+Perceived Empathy,m_understood,"('experts', 'llm')",0.53,0.000
+Perceived Empathy,m_validated,"('experts', 'llm')",0.60,0.000
+Empathetic Dialogues,relevance,"('experts', 'llm')",0.23,0.168
+Lend an Ear,self_oriented,"('experts', 'llm')",0.69,0.000
+Lend an Ear,validating_emotions,"('experts', 'llm')",0.63,0.000
+Lend an Ear,advice_giving,"('llm', 'crowd')",0.46,0.000
+Lend an Ear,demonstrating_understanding,"('llm', 'crowd')",0.16,0.002
+Lend an Ear,dismissing_emotions,"('llm', 'crowd')",0.10,0.383
+Empathetic Dialogues,empathy,"('llm', 'crowd')",0.00,0.873
+Lend an Ear,encouraging_elaboration,"('llm', 'crowd')",0.40,0.000
+Empathetic Dialogues,fluency,"('llm', 'crowd')",0.30,0.085
+EPITOME,level_emotional_reactions,"('llm', 'crowd')",0.63,0.000
+EPITOME,level_explorations,"('llm', 'crowd')",0.31,0.004
+EPITOME,level_interpretations,"('llm', 'crowd')",0.31,0.007
+Perceived Empathy,m_accepted,"('llm', 'crowd')",0.09,0.172
+Perceived Empathy,m_affirmed,"('llm', 'crowd')",0.13,0.075
+Perceived Empathy,m_caredfor,"('llm', 'crowd')",0.10,0.196
+Perceived Empathy,m_emotional,"('llm', 'crowd')",0.43,0.000
+Perceived Empathy,m_motivation,"('llm', 'crowd')",0.32,0.002
+Perceived Empathy,m_practical,"('llm', 'crowd')",0.45,0.000
+Perceived Empathy,m_seen,"('llm', 'crowd')",0.09,0.131
+Perceived Empathy,m_understood,"('llm', 'crowd')",0.06,0.385
+Perceived Empathy,m_validated,"('llm', 'crowd')",0.13,0.084
+Empathetic Dialogues,relevance,"('llm', 'crowd')",0.18,0.107
+Lend an Ear,self_oriented,"('llm', 'crowd')",0.46,0.000
+Lend an Ear,validating_emotions,"('llm', 'crowd')",0.42,0.000

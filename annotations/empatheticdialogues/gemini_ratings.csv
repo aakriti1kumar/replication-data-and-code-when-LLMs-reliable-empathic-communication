@@ -1,0 +1,303 @@
+conv_id,full_conversation,empathy,relevance,fluency
+hit:401_conv:803,"Seeker: The result of my final college exams was to be published the next day_comma_I could hardly sleep due to expectations 
+ Seeker: The night WS the longest to me back then_comma_eager to know my score! 
+ Supporter: Did you think you did well? 
+ Seeker: Sure_comma_I put in my best ! I was positive! 
+ Supporter: That's awesome! It can be nerve racking 
+",3,5,5
+hit:478_conv:956,"Seeker: when i was going for an interview i was so afraid as i could not tell the end results 
+ Seeker: it was just yesterday when i was going for an interview and personally i was so afraid because i did not know what were the end results 
+ Supporter: Yea I know how you feel_comma_ you just feel like you are in purgatory waiting for your demise. 
+ Seeker: actually i woke up early in the morning and prepared my self fully for the task ahead of me 
+ Supporter: Yea but i mean afterwards you dont know if you passed the interview 
+ Seeker: i just received a call that i did good in my interview and i qualified to work with them. this made me so happy 
+",4,5,4
+hit:887_conv:1775,"Seeker: I felt really left out when my friends went to a theme park without me. It really bothers me that they didn't even tell me they were going. I really wish I could have gone 
+ Seeker: My friends left me to go to the theme park. I feel really left out.  
+ Supporter: You still consider them your friends after that? 
+ Seeker: I've been friends with them for a long time_comma_ but I don't know they never even told me. 
+ Supporter: That's messed up. 
+",2,4,4
+hit:965_conv:1930,"Seeker: I saw a shark in the water last week. 
+ Seeker: I saw a shark in the water last week. 
+ Supporter: Were you afraid or thrilled or both? 
+ Seeker: I was afraid. 
+ Supporter: Were you in the water? 
+",2,5,5
+hit:3379_conv:6758,"Seeker: During a work meeting_comma_ I was presenting and then suddenly my pant dropped. I felt so bad. 
+ Seeker: During a work meeting_comma_ I was presenting and then suddenly my pant dropped. I felt so bad. 
+ Supporter: Oh my gosh. Why did your pants fall? 
+ Seeker: The pant button broke. After it felt. I was holding it up with my hands. 
+ Supporter: Were you able to laugh it off or were you so mortified you wanted to crawl out of the room? 
+",3,5,5
+hit:3636_conv:7272,"Seeker: I hate being in public by myself. It gets me super nervous and I turn bright red. 
+ Seeker: I hate being in public by myself. It gets me super nervous and I turn bright red. 
+ Supporter: Oh_comma_ that must be so stressful. Does it happen all the time - like even at the grocery store? 
+ Seeker: Sometimes_comma_ only when I am by myself. I am just an anxious person in general so there's that. 
+ Supporter: Do you have someone to go places with you? Or do you just have to power through it? 
+",4,5,5
+hit:7112_conv:14224,"Seeker: When my mom was in the ER 
+ Seeker: Last week my mom was in the ER_comma_ it was a horrible feeling 
+ Supporter: wow thats so horrible 
+ Seeker: Yes_comma_ and I don't know how it will all pay out 
+ Supporter: hopefully well 
+ Seeker: I gues so 
+",2,3,5
+hit:8681_conv:17362,"Seeker: I farted at work today. I never have been mortified in my life. 
+ Seeker: I let out a moist_comma_ warm fart today in front of all of my co-workers today. 
+ Supporter: You must be very comfortable in your office! How did they react? 
+ Seeker: Some ran away in terror. Others in disgust. I think I sent one to the ER even. At any rate_comma_ I was mortified and I am sure I won't ever live this tragedy down. 
+ Supporter: I am sorry that you now live in infamy. Maybe_comma_ with time_comma_ they can learn to forgive you. 
+",2,4,5
+hit:11447_conv:22894,"Seeker: When I was in middle school my sister left for college. I visited her dorm room and it was so cool. I wanted to be in college too. 
+ Seeker: When I was in middle school_comma_ my older sister went to college_comma_ and I saw her dorm after she moved in. 
+ Supporter: What was it like I have always wanted to live in a dorm and go to colledge? 
+ Seeker: It was so cool. I really wanted to go to college just like her. 
+ Supporter: Well you should have why didn't you? 
+ Seeker: I was still in middle school! I wasn't old enough_comma_ but I really wished I could be there. 
+",1,2,3
+hit:12057_conv:24115,"Seeker: I accidentally dropped a dumbell on my toe at the gym. I felt so stupid. 
+ Seeker: I accidentally droped a dumbell on my toe at the gym. I felt so freaking stupid. 
+ Supporter: Did it hurt though 
+ Seeker: Yeah it hurt and I was listening to music so I might have yelled a cuss word loudly. 
+ Supporter: I am sorry_comma_ I would cuss too if it happened to me 
+ Seeker: It hurt my pride more though lol 
+",2,4,5
+hit:529_conv:1059,"Seeker: I ate the last one of my wife's favorite cookies. 
+ Seeker: I ate the last one of my wife's favorite cookies. 
+ Supporter: hahah yea i have done that more than once. 
+ Seeker: She was not happy after she told me to save her some. I could not resist. 
+ Supporter: what flavor was the cookie? 
+ Seeker: White chocolate macadamia. 
+",1,5,5
+hit:1670_conv:3341,"Seeker: I was terrified when I heard a knock at my door late at night 
+ Seeker: I was terrified when I heard a knock at my door late at night 
+ Supporter: Who was it? 
+ Seeker: It was my neighbor letting me know I left the garage open 
+ Supporter: That was nice of them. 
+",1,3,5
+hit:2088_conv:4177,"Seeker: I was at the store the other day and I bumped in to a wine rack and knocked over a bunch of bottles_comma_ and people were staring which was so embarrassing.  
+ Seeker: I was shopping at the store the other day and I bumped into a rack and spilled wine bottles everywhere. Everyone was staring.  
+ Supporter: Oh geez_comma_ that sounds pretty embarrassing. Did any of the bottles break? 
+ Seeker: No luckily haha but it made me blush for sure. 
+ Supporter: That's a shame. If they did_comma_ you could've reversed the situation and summoned everybody over to throw down and have a supremo wine fest. 
+",3,4,4
+hit:3735_conv:7470,"Seeker: Yesterday my pet hamster died. He just turned two and was not moving very much. I was tearful when I felt his body and it was cold. 
+ Seeker: Yesterday my hamster passed away. He was barely two years old :(. 
+ Supporter: What was your hamster's name? 
+ Seeker: His name was Sparky. I reached into his cage to pick him up because he was not moving. His poor body was cold. I was so tearful. 
+ Supporter: Do you know what it was that happened to kill him? 
+",1,4,5
+hit:4103_conv:8207,"Seeker: I walked around my office with my dress shoved in my underwear! 
+ Seeker: I can't believe I'm even sharing this with anyone because I want to forget it but earlier I was walking around the office with my dress shoved in my underwear! 
+ Supporter: Oh man! I've been there. That is hard. I hope it wasn't too long! 
+ Seeker: I have no idea! I don't even know if anyone noticed because they didn't tell me! I figured it out myself when I went to the bathroom again. 
+ Supporter: Don't you hate that when people don't tell you? Well now you know your co-workers can't be trusted! But maybe they were busy and just didn't notice- which is goo! 
+ Seeker: You have a way of making me feel a little better_comma_ thank you! 
+ Supporter: Aw so sweet! Your very welcome. We've all been there! I completely understand. I don't think anyone saw :) 
+",5,5,5
+hit:7797_conv:15594,"Seeker: Young children need to stay far away from me! 
+ Seeker: Kids need to stay away from me_comma_ they are too loud! 
+ Supporter: That's funny! I agree and it's worse when they aren't your kids. 
+ Seeker: I dont even want my own kids. 
+ Supporter: To each their own. I have 3 and to be honest_comma_ I'm glad they are getting older. Babies suck.",2,5,5
+hit:8986_conv:17972,"Seeker: I saw someone throw trash from a moving car yesterday. 
+ Seeker: I saw someone throw some trash from a moving car yesterday. I was so angry. 
+ Supporter: That is infuriating. I dont see how some people are so unaware. 
+ Seeker: I know_comma_ right? I wish I got their license plate. I would've reported them. 
+ Supporter: I feel you. Some people just suck. 
+",5,5,5
+hit:9116_conv:18233,"Seeker: I ate my son's birthday ice cream cake.  I feel so guilty for my behavior. 
+ Seeker: I ate my son's birthday ice cream cake. 
+ Supporter: I love ice cream cake_comma_ did you enjoy it? 
+ Seeker: Yes_comma_ but I feel so guilty for my behavior.  
+ Supporter: Its just cake_comma_ there will always be another cake 
+",1,2,5
+hit:9349_conv:18698,"Seeker: I had a huge mustard stain on my shirt all day at work. And none of my coworkers let me know about it! 
+ Seeker: I felt so bad when I got home from work because I saw a huge mustard stain on my shirt! 
+ Supporter: Aw that's the worst_comma_ especially when the clothes are new! 
+ Seeker: Yes! I couldn't believe that none of my coworkers were willing to let me know about it. 
+ Supporter: That's pretty annoying that nobody told you! 
+",3,5,5
+hit:9988_conv:19976,"Seeker: I was so scared to go on my first roller coaster. I am deathly afraid of heights. 
+ Seeker: I was so afraid to go on my first roller coaster this year.  
+ Supporter: Did you have fun? It's always great to face your fears! 
+ Seeker: I did! But it was so hard overcoming my fear of heights. I thought I was going to die on the way up! 
+ Supporter: Yay! I always find myself really nervous before the ride_comma_ but once I'm off of it_comma_ I want to go again!  
+",2,3,5
+hit:1490_conv:2981,"Seeker: I felt bad when I lied to a cousin about missing his wedding. I made up an excuse 
+ Seeker: I felt bad when I lied to my cousin. I mad up an excuse when I missed his wedding 
+ Supporter: Dang_comma_ that's kinda hurtful. Why did you miss the wedding? 
+ Seeker: I was hungover and sick 
+ Supporter: I've had those days before. I would just take it as a lesson and try to control your drinking next time when important events are in the near future. 
+",Answer: 2,3,4
+hit:1502_conv:3005,"Seeker: I saw a piece of dried poop in my closet that I had no clue about. My dog sure is sneaky. 
+ Seeker: I saw a piece of dried poop in my closet that I had no clue about. My dog sure is sneaky 
+ Supporter: I have a pesky_comma_ sneaky little dog like that too! Did you clean it up? 
+ Seeker: Of course_comma_ I picked it up and sprayed some disinfectant in the area. 
+ Supporter: That's good. Was she guilty when she saw you cleaning it up? 
+",2,5,5
+hit:2097_conv:4194,"Seeker: My husband's sister was living with us. She was acting rude_comma_ and we ended up kicking her out.  
+ Seeker: My husband's sister was living with us. She was acting rude so we had to kick her out. 
+ Supporter: Oh no that is terrible. Are you guys still talking now? 
+ Seeker: No not at all it's a little tense. 
+ Supporter: Well that is not good. What did she do that was so bad? 
+ Seeker: She wanted to try to use all of the money she had saved up (only a few hundred after two months) to go visit a friend in California even though she was supposed to be saving up for her own place or school_comma_ and when we said no she started insulting us.  
+",2,5,5
+hit:3104_conv:6209,"Seeker: My cat threw up a hairball on my bed yesterday. I was so peeved at her. 
+ Seeker: My cat threw up a hairball on bed yesterday. I was so peeved! 
+ Supporter: Those are so gross. 
+ Seeker: I know! I was almost too afraid to pick it to throw it away. 
+ Supporter: Did you put the cat in time out? 
+",2,3,5
+hit:3931_conv:7863,"Seeker: I stole alcohol from my dad and got caught_comma_ I'm ashamed. 
+ Seeker: I stole alcohol from my dad and was caught and decided to lie instead of confessing. I'm ashamed. 
+ Supporter: Hey it's ok. We all do stupid things when we are young.  
+ Seeker: Yeah but I don't know if he's ever gonna talk to me again. 
+ Supporter: Give it time. I'm sure he will come around.  
+",2,3,5
+hit:3961_conv:7922,"Seeker: I lost my ipad the other day. I can't believe it. I think it was stolen 
+ Seeker: I lost my ipad the othe day 
+ Supporter: Have you found it? 
+ Seeker: No I think it was stolen. We went to the park and i dont know what happened. 
+ Supporter: It very well could have been. I'm sorry_comma_ that sucks. 
+ Seeker: IT does. I am wondering if it will turn up. Trying to be optimistic 
+",3,5,5
+hit:4090_conv:8181,"Seeker: I forgot my wallet in the car and took like 200 dollars worth of clothes to the counter at macys 
+ Seeker: I took like 200 dollars worth of clothes to the counter at macys 
+ Supporter: Wow_comma_ and you just walked out the store with them? 
+ Seeker: I left my wallet. I was so embarassed I didnt go back after I made it to the counter. 
+ Supporter: Oh_comma_ I thought you stole them_comma_ but I've done that before too. Not to that extent though. 
+ Seeker: Lol I didn't steal them... not this time",2,2,3
+hit:4233_conv:8466,"Seeker: I asked my brother to bring me a gift from his trip. He didn't bring anything. 
+ Seeker: I asked my brother to bring me a gift from his trip. He didn't bring anything. 
+ Supporter: I'm sorry to hear that.  Maybe next time? 
+ Seeker: I don't know. He disappointed me. 
+ Supporter: I hope you feel better about it. 
+",2,3,5
+hit:4345_conv:8691,"Seeker: My mom makes me babysit my nephew all the time. I am sick of it. He is a brat. 
+ Seeker: My mom makes me babysit my nephew all the time. 
+ Supporter: I would not want to be in your position it's ok to help but all the time it can be dreadful.  
+ Seeker: I am sick of it. He is a brat. 
+ Supporter: It will get better put your foot down and maybe say no in a nice way to not step on any ones toes. 
+",2,4,4
+hit:4722_conv:9445,"Seeker: Robin williams was my hero_comma_ still so sad he passed 
+ Seeker: i miss robin williams so much 
+ Supporter: I get that_comma_ he was a very funny fellow_comma_ sad story 
+ Seeker: i grew up watchim him 
+ Supporter: I did not really_comma_ so I see how you would be more attached 
+",2,4,5
+hit:4844_conv:9689,"Seeker: I found out that the vacation I planned for had to be cancelled. My friend got sick and is not able to go with me. 
+ Seeker: I found out that I had to cancel my vacation.  I am pretty bummed. 
+ Supporter: that is awful_comma_ hopefully you can plan another one soon 
+ Seeker: I hope so.  My friend had to back out at the last minute_comma_ so my plans had to change.  
+ Supporter: im sorry_comma_ thats the worst 
+",3,5,4
+hit:5323_conv:10646,"Seeker: I was ashamed that I failed my LSAT and couldn't get into law school so I had to rethink what I wanted to do.  
+ Seeker: I'm so upset and embarrassed that I failed my LSATs and now I can't get into law school.  
+ Supporter: Can you re-take the test? 
+ Seeker: I can but it's only given a few times a year and the next one isn't for another 4 months.  
+ Supporter: Ouch that's bad.  Study hard. I'm sure youll do better next time",2,2,5
+hit:5574_conv:11149,"Seeker: I should be helping chip in on a friend's birthday_comma_ but I only put in $5. 
+ Seeker: I should be helping chip in on a friend's birthday_comma_ but I only put in $5 
+ Supporter: Atleast you gave something it's the thought that counts right. 
+ Seeker: I wish I could give more.  
+ Supporter: As long as she knows where your intentions are the amount doesn't matter we all wish we can do more but we do what we can don't be down.",2,5,4
+hit:5579_conv:11158,"Seeker: came home to find my leftovers gone 
+ Seeker: i was thinking about my leftover Chinese food_comma_ came home and someone had eaten it 
+ Supporter: I hate it when that happens. You should get a lock for the fridge. 
+ Seeker: yeah i though about it 
+ Supporter: Some people just have no consideration. You deserve to eat your leftover Chinese. 
+",3,4,5
+hit:6053_conv:12106,"Seeker: I'm jealous of my friend's new house.  For his age_comma_ it's really nice! 
+ Seeker: I'm jealous of my friend's new house. For his age_comma_ it's really nice! 
+ Supporter: how old is he or she? 
+ Seeker: He's 25_comma_ and the house is at least 250k! 
+ Supporter: he must be a great achiever",1,3,5
+hit:6367_conv:12734,"Seeker: My daughter is at the age where she lies about everything 
+ Seeker: MY daughter lies about everything now 
+ Supporter: Raising children is hard_comma_ to say the least. What did she lie about most recently? 
+ Seeker: being asleep. The are also dumb lies lol 
+ Supporter: Well that's a relief. It actually sounds fairly amusing! 
+ Seeker: Sometimes I jst shake my head lol 
+",3,5,5
+hit:6613_conv:13226,"Seeker: I do not want my vacation to end. I would like to stay here forever 
+ Seeker: I do not want my vacation to end. 
+ Supporter: where are you vacationing 
+ Seeker: I am in Bali_comma_ I would like to stay here forever_comma_ I will shed some tears for sure. 
+ Supporter: OMG my dream vacation 
+",1,4,5
+hit:6759_conv:13519,"Seeker: When my father went into hospital_comma_ after he fell down the stairs_comma_ we had no idea he had cancer. 
+ Seeker: It was terminal_comma_ and the doctor said they caught it too late. 
+ Supporter: What?! Are you sick or your family member? 
+ Seeker: It was my father who was sick. He passed not too long ago. 
+ Supporter: Oh no_comma_ I'm so sorry to hear that_comma_ it must have been hard on you 
+",3,3,4
+hit:8012_conv:16024,"Seeker: I took a bus trip to Philadelphia today. It seemed like they hadn't ever remembered to actually clean the bus. The floors were all sticky and there was a bad smell permiating the entire bus. 
+ Seeker: I took a bus trip to Philadelphia today. The bus was totally gross. There was sticky stuff on the floors and there was a horrible smell too. 
+ Supporter: Oh that sounds horrible. I hope it wasn't a long ride on the bus.  
+ Seeker: It was about 4 hours lots of time to enjoy it. 
+ Supporter: Oh no_comma_ that is a long time to be sitting in trash basically.",4,5,5
+hit:8290_conv:16581,"Seeker: waiting for my new car to arrive 
+ Seeker: my new 2018 subaru WRX is going to be delivered today!! i CANT WAIT!! 
+ Supporter: Woohoo! That sounds like it'll be a blast to drive! 
+ Seeker: it is so much fun!  
+ Supporter: Just make sure you drive safely! :)",4,4,5
+hit:8311_conv:16622,"Seeker: I'm jealous with people who have a washer and dryer.  Going to the laundromat stinks! 
+ Seeker: I'm jealous with people who have a washer and dryer. Going to the laundromat stinks! 
+ Supporter: I know. I just went yesterday! 
+ Seeker: It's such a hassle_comma_ would be nice just to walk into the other room and do it! 
+ Supporter: I can't wait to move and have a hook up. 
+",2,5,5
+hit:9338_conv:18676,"Seeker: I met this girl on Tinder this one time. She was really into me but then she randomly denied the hell outta me. 
+ Seeker: I met this girl on Tinder one time and she gave me such mixed signals. 
+ Supporter: haha_comma_ welcome to Tinder! It's the app of mixed signals. Did things work out finally? 
+ Seeker: Not really_comma_ but I got used to it ahaha. 
+ Supporter: Yeah_comma_ usually you just move on. There are plenty more fish in the sea! 
+",2,4,4
+hit:9772_conv:19545,"Seeker: Amusement park this weekend 
+ Seeker: Man this weekend might be weird 
+ Supporter: Why weird 
+ Seeker: We're taking the kids to the amusement park and I'm scared of the coasters haha 
+ Supporter: Oh haha well that'll be interesting...at least the kids will feel good that they were braver than Mommy hahaha 
+ Seeker: I guess I just need to try one.  I still haven't rode on one. 
+",1,5,5
+hit:10145_conv:20290,"Seeker: About a year ago_comma_ I was about to run my first 50 mile race.  I had broken my toe a few weeks prior and was very nervous that it wasn't going to hold up through the race. 
+ Seeker: Last year I was about to run my first 50 mile race.  I had broken my toes a few weeks before and wasn't sure I was going to make it. 
+ Supporter: Ouch_comma_ that's unfortunate. Hopefully it turned out okay though? 
+ Seeker: It did_comma_ thankfully I had listened to my doctor's recommendations and it healed up just enough.  It was still a pretty nerve wracking start though. 
+ Supporter: I can imagine_comma_ talk about bad timing injuring your toes!",3,5,5
+hit:10264_conv:20529,"Seeker: I remember when I was younger_comma_ our teachers would provide us with pancakes every Tuesday. I miss those days. 
+ Seeker: I miss the good old days when we would be given pancakes on Tuesdays at school. I loved pancake Tuesdays.  
+ Supporter: Mmm that sounds delicious. There is always time to make pancake Tuesdays at home! 
+ Seeker: Haha yeah_comma_ but it doesn't feel the same because I miss being able to enjoy it with all my classmates. It was always a great time full of laughter and chatter 
+ Supporter: I see_comma_ memories will always stay_comma_ sometimes good old days just can't come back. 
+",2,5,5
+hit:11090_conv:22181,"Seeker: Back in the school_comma_ I got zero in one of the important exam. Everyone expected that I would at least pass. I was embarrassed at that time 
+ Seeker: Back in the school_comma_ I got zero marks in one of the important exam 
+ Supporter: Oh no sorry to hear that _comma_ were you able to retake it? 
+ Seeker: Yes_comma_ but at that time everyone expected that I would at least pass. I was very embarrassed at that time 
+ Supporter: I can only imagine. Its one of those things that would embarass anyone but it happens to us all at some time 
+",4,4,5
+hit:11786_conv:23572,"Seeker: I kept thinking I had left the front door unlocked whilst I was on vacation 
+ Seeker: I kept thinking I had left the front door unlocked whilst I was on vacation! 
+ Supporter: That is a terrible feeling. I saw a movie where a family actually left their kid at home. That would be the worst. 
+ Seeker: Sounds like Home Alone! Yes I was so anxious the entire time that I could not even enjoy myself. 
+ Supporter: Well I hope everything turned out ok. Maybe you can send a friend to check your door. 
+",2,3,5
+hit:11794_conv:23589,"Seeker: I am not happy with how the Eagles played yesterday_comma_ they lost to the browns of all teams 
+ Seeker: 5 
+ Supporter: Interesting...lol 
+ Seeker: I am not happy with how the Eagles played yesterday_comma_ they lost to the browns of all teams- by 5 points_comma_ 5-0_comma_ what a lame game 
+ Supporter: I can't believe i made this much money with bitcoin.",1,1,1
+hit:12267_conv:24535,"Seeker: I am expecting a very big settlement. I can not wait 
+ Seeker: I am expecting a settlement i cant wait 
+ Supporter: Nice!  Hope something horrible didn't happen to you just to get it.  You getting a lot? 
+ Seeker: it is supposed to be half a million_comma_ a sewage pipe busted over me while i was in a store 
+ Supporter: Wow!  That seems worth it!!!!  Wish it had happened to me! ha ha.  Hope you're healthy still and congratulations! 
+",2,3,5
+hit:12276_conv:24553,"Seeker: Our little chihuahua was diagnosed with an auto-immune disease.  She got pancreatitis last August and then passed away in February. 
+ Seeker: Our little chihuahua was diagnosed with an auto-immune disease when she was just a puppy. 
+ Supporter: Oh no!  Were you able to take care of him with medicine or treatments? 
+ Seeker: Yes_comma_ for about 6 years.  Then she got pancreatitis and kinda went downhill from there.  We just lost her in February. 
+ Supporter: I'm so sorry!  I know how hard it is to lose a pet!  I hope you are not sad for too long.  It sounds like you did everything you could to give it a great life.",3,4,4

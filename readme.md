@@ -24,7 +24,7 @@ You can find the combined annotations for all four datasets in `annotations/comb
 The original data for each 50 conversation sample is stored in the `original_data/` directory. You can find the conversations and annotations in the following files:
 - EmpatheticDialogues: `sample_empatheticdialogues.csv`
 - EPITOME: `sample_epitome.csv`
-- Perceived Empathy: `sample_perceived_empathy_annotations.csv` (conversations available upon request to the authors of the associated paper)
+- Perceived Empathy: `sample_perceived_empathy_annotations.csv` (conversations available upon request to the authors of the associated paper); `perceived_empathy_self_ratings.csv` support-seeker's perceived empathy ratings for the 50 conversations
 - Lend an Ear: `sample_lend_an_ear_conversations.csv` and `sample_lend_an_ear_annotations.csv`
 
 

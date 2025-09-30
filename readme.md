@@ -1,4 +1,8 @@
 # Data and Replication Code for When LLMs are Reliable for Judging Empathic Communication
+
+
+[![DOI](https://zenodo.org/badge/998972343.svg)](https://doi.org/10.5281/zenodo.17230987)
+
 We compare how experts, crowdworkers, and LLMs annotate empathic communication across four evaluative frameworks applied to 200 real-world conversations where one speaker shares a personal problem and the other offers support. 
 
 

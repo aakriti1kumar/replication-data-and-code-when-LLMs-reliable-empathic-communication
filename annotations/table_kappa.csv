@@ -86,7 +86,7 @@ Lend an Ear,validating_emotions,"('experts', 'crowd')",0.32,0.001
 Lend an Ear,advice_giving,"('experts', 'llm')",0.66,0.000
 Lend an Ear,demonstrating_understanding,"('experts', 'llm')",0.59,0.000
 Lend an Ear,dismissing_emotions,"('experts', 'llm')",0.17,0.007
-Empathetic Dialogues,empathy,"('experts', 'llm')",0.35,0.000
+Empathetic Dialogues,empathy,"('experts', 'llm')",0.34,0.000
 Lend an Ear,encouraging_elaboration,"('experts', 'llm')",0.86,0.000
 Empathetic Dialogues,fluency,"('experts', 'llm')",0.27,0.062
 EPITOME,level_emotional_reactions,"('experts', 'llm')",0.64,0.000
@@ -107,21 +107,21 @@ Lend an Ear,validating_emotions,"('experts', 'llm')",0.63,0.000
 Lend an Ear,advice_giving,"('llm', 'crowd')",0.46,0.000
 Lend an Ear,demonstrating_understanding,"('llm', 'crowd')",0.16,0.002
 Lend an Ear,dismissing_emotions,"('llm', 'crowd')",0.10,0.383
-Empathetic Dialogues,empathy,"('llm', 'crowd')",0.00,0.873
+Empathetic Dialogues,empathy,"('llm', 'crowd')",0.00,0.866
 Lend an Ear,encouraging_elaboration,"('llm', 'crowd')",0.40,0.000
 Empathetic Dialogues,fluency,"('llm', 'crowd')",0.30,0.085
 EPITOME,level_emotional_reactions,"('llm', 'crowd')",0.63,0.000
 EPITOME,level_explorations,"('llm', 'crowd')",0.31,0.004
 EPITOME,level_interpretations,"('llm', 'crowd')",0.31,0.007
-Perceived Empathy,m_accepted,"('llm', 'crowd')",0.09,0.172
-Perceived Empathy,m_affirmed,"('llm', 'crowd')",0.13,0.075
+Perceived Empathy,m_accepted,"('llm', 'crowd')",0.09,0.167
+Perceived Empathy,m_affirmed,"('llm', 'crowd')",0.12,0.088
 Perceived Empathy,m_caredfor,"('llm', 'crowd')",0.10,0.196
 Perceived Empathy,m_emotional,"('llm', 'crowd')",0.43,0.000
 Perceived Empathy,m_motivation,"('llm', 'crowd')",0.32,0.002
 Perceived Empathy,m_practical,"('llm', 'crowd')",0.45,0.000
 Perceived Empathy,m_seen,"('llm', 'crowd')",0.09,0.131
 Perceived Empathy,m_understood,"('llm', 'crowd')",0.06,0.385
-Perceived Empathy,m_validated,"('llm', 'crowd')",0.13,0.084
+Perceived Empathy,m_validated,"('llm', 'crowd')",0.12,0.106
 Empathetic Dialogues,relevance,"('llm', 'crowd')",0.18,0.107
 Lend an Ear,self_oriented,"('llm', 'crowd')",0.46,0.000
 Lend an Ear,validating_emotions,"('llm', 'crowd')",0.42,0.000

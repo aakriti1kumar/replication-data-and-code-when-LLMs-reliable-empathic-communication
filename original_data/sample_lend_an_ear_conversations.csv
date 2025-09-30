@@ -1,4 +1,4 @@
-conversation_id,full_conversation
+conversation_id,full_conversation,response_length
 20241031145103738386,"Seeker: I'm feeling so discouraged.. I just got passed over for the promotion I was working hard for
 Supporter: Oh no! I'm sorry to hear that. What position was it?
 Seeker: It was for the Product Marketing Manager role. I really thought I had a good shot at it, considering all the extra work and ideas I’ve been putting in. It just feels like such a letdown.
@@ -10,7 +10,7 @@ Supporter: Do you like your current position? what do you currently do for a liv
 
 Seeker: I do like my current position in marketing, especially when I get to be creative and see my ideas come to life. But lately, it’s been hard to stay motivated when it feels like my efforts aren’t being valued. I just want to feel excited about my work again.
 Supporter: And you think the promotion would have given you that sense of fulfillment again?
-Seeker: Yeah, I think it would have. It felt like a natural next step and a way to see my hard work pay off. Now, I'm just trying to figure out how to regain that sense of purpose without it."
+Seeker: Yeah, I think it would have. It felt like a natural next step and a way to see my hard work pay off. Now, I'm just trying to figure out how to regain that sense of purpose without it.",86
 20241031145050008738,"Seeker: I've been feeling so detached from everything lately, like I'm just going through the motions without really being there.
 Supporter: The fake it till you make it approach?
 Seeker: Yeah, kind of like that, but it feels more like I'm just stuck in a loop. I keep pushing forward, hoping things will change, but it’s like I’m on autopilot. It’s hard to shake off this feeling of being disconnected from everything that used to matter to me.
@@ -25,7 +25,7 @@ Supporter: well what matters to you? is it a work life balance issue?
 
 Seeker: It's definitely a work-life balance issue. I miss spending quality time with my family and taking care of myself. It feels like I'm always choosing work over everything else, and it's starting to take a toll on me.
 Supporter: well, unless your family is going to pay the bills this might just be be a temporary dynamic that had to continue until you can get a job that will allow for a better work/life balance. 
-Seeker: I understand that work is important for providing for my family, but I can't help feeling like I'm missing out on precious moments with them. It's hard to accept that this might just be how things are for now. I just wish there was a way to find some balance without feeling like I'm sacrificing one for the other."
+Seeker: I understand that work is important for providing for my family, but I can't help feeling like I'm missing out on precious moments with them. It's hard to accept that this might just be how things are for now. I just wish there was a way to find some balance without feeling like I'm sacrificing one for the other.",167
 20241031143614621777,"Seeker: So, I just lost my job today. I had a sense this was coming, but it's still a shock..
 Supporter: Wow, I am so sorry to hear that. Do you want to talk about it?
 Seeker: Yeah, it's just been a whirlwind of emotions. I mean, I knew the signs were there, but actually getting that email was like a punch to the gut. It's hard not to feel a bit lost right now.
@@ -38,7 +38,7 @@ Seeker: I think I do need a bit more time to just sit with everything that's hap
 Supporter: I think it is very smart to make sure to take the time to mourn something that was so important to you. I am here whenever you need me. 
 Seeker: Thank you, that means a lot. It's comforting to know I have someone to lean on while I figure things out. I guess I just need to take it one day at a time and see where it leads.
 Supporter: That sounds like a great idea. And if you want to vent more about it, I am here.
-Seeker: I really appreciate that offer. Sometimes just talking it out helps me make sense of everything. I'll definitely take you up on that when I need to clear my head."
+Seeker: I really appreciate that offer. Sometimes just talking it out helps me make sense of everything. I'll definitely take you up on that when I need to clear my head.",138
 20241031131104204354,"Seeker: I'm feeling so discouraged.. I just got passed over for the promotion I was working hard for
 Supporter: Oh I'm sorry to hear that. Is there anything I can do?
 Seeker: Honestly, just having someone to talk to about it helps. It's been tough to process, especially when I put so much into my work. I just feel like all my effort went unnoticed, and it's hard not to take it personally.
@@ -51,7 +51,7 @@ Seeker: Thank you for being there for me. I hope you're right, but it's hard to 
 Supporter: Take some time for yourself and hopefully you will feel better
 Seeker: I think taking some time might help clear my head a bit. It's just tough to not let this affect my motivation at work. I really appreciate you listening and being supportive.
 Supporter: If you need me for anything llet me know
-Seeker: Thanks, I will. Just knowing I have someone to talk to makes a big difference. I'll definitely reach out if I need to vent or get some advice."
+Seeker: Thanks, I will. Just knowing I have someone to talk to makes a big difference. I'll definitely reach out if I need to vent or get some advice.",58
 20241031150235217462,"Seeker: So, I just lost my job today. I had a sense this was coming, but it's still a shock..
 Supporter: Yes I can understand how you feel. It's always shocking when you lose your job. Would you like to talk more about it?
 Seeker: It's just a lot to process right now. I mean, I knew the signs were there, but actually getting that email was like a punch to the gut. I'm trying to wrap my head around what to do next, but it's hard not to feel overwhelmed.
@@ -72,7 +72,7 @@ Seeker: I guess it's just that nagging feeling of needing to be productive all t
 Supporter: I'm glad you agree with me and if you don't take care of yourself, who will? Even if there's other people who depend on you, still have to take care of yourself so that you don't get burnt out,?
 Seeker: That's a good point. I guess I've always been the one to take care of others, so it's a bit of a shift to focus on myself. But I know it's necessary, and I appreciate the reminder that it's okay to prioritize my own well-being.
 Supporter: Yes sometimes prioritizing your own well-being has to come first. I agree, even if you feel shocked and disoriented right now, give yourself time to process what is happening you will feel better I'm sure.
-Seeker: I hope so. It's reassuring to hear that it's okay to take this time for myself. I just need to keep reminding myself that it's a process and that it's okay to not have all the answers right now."
+Seeker: I hope so. It's reassuring to hear that it's okay to take this time for myself. I just need to keep reminding myself that it's a process and that it's okay to not have all the answers right now.",305
 20241031145619979111,"Seeker: I'm feeling so discouraged.. I just got passed over for the promotion I was working hard for
 Supporter: I am so sorry to hear this. I understand how devastating this can be. Do you want a listening ear?
 Seeker: Yeah, I could really use someone to talk to. It's just been so frustrating, you know? I put in all this effort, and it feels like it just doesn't matter.
@@ -85,7 +85,7 @@ Seeker: I appreciate you saying that. It's just hard to see the bigger picture r
 Supporter: Do you want suggestions to ease your mind?
 Seeker: I think that could be helpful. I'm open to hearing any ideas you might have. Maybe something to help me refocus or just feel a bit more positive about things.
 Supporter: Do you think taking a walk, journaling or meditation could help?
-Seeker: I think those could be good options. Maybe starting with a walk could help clear my head a bit. I haven't tried journaling in a while, so that might be worth giving a shot too."
+Seeker: I think those could be good options. Maybe starting with a walk could help clear my head a bit. I haven't tried journaling in a while, so that might be worth giving a shot too.",123
 20241031144618187410,"Seeker: I've been feeling so detached from everything lately, like I'm just going through the motions without really being there.
 Supporter: did you go through something or did it suddenly start feeling this way
 
@@ -107,7 +107,7 @@ Supporter: i understand. does talking make it feel better
 Seeker: Yeah, it does help a bit. Just being able to share what I'm going through without feeling judged makes a difference. It's nice to have someone listen and not just try to fix things right away.
 Supporter: how was this week for you 
 
-Seeker: This week was a bit of a blur, honestly. Work was hectic, and I barely had time to catch my breath. But having this conversation is a small relief, like a reminder that I'm not completely alone in this."
+Seeker: This week was a bit of a blur, honestly. Work was hectic, and I barely had time to catch my breath. But having this conversation is a small relief, like a reminder that I'm not completely alone in this.",73
 20241031144237228364,"Seeker: I'm feeling so discouraged.. I just got passed over for the promotion I was working hard for
 Supporter: I'm so sorry to hear that.
 Seeker: Thanks, I appreciate you saying that. It's just really tough to put in so much effort and not see it pay off. I can't help but wonder if there's something more I could have done or if it's something beyond my control.
@@ -122,7 +122,7 @@ Seeker: I appreciate that offer. It might help to talk it through and see if the
 Supporter: You probably are making progress, but you just can't see it right now. You are an awesome person, and I know you break through on one of these promotions. I'm here to help you stay positive!
 Seeker: Thanks for saying that. It's nice to hear some encouragement, even when things feel so uncertain. I guess I just need to keep pushing forward and hope that things will eventually fall into place.
 Supporter: Timing is always a finicky thing. 
-Seeker: Yeah, it really is. Sometimes it feels like everything has to align perfectly, and that's frustrating. I just hope that all this effort will eventually lead to something worthwhile."
+Seeker: Yeah, it really is. Sometimes it feels like everything has to align perfectly, and that's frustrating. I just hope that all this effort will eventually lead to something worthwhile.",114
 20241031144410053256,"Seeker: I've been feeling so detached from everything lately, like I'm just going through the motions without really being there.
 Supporter: Oh dear, I'm sorry to hear that you've been feeling isolated.
 Seeker: Thank you for saying that. It's been tough trying to balance everything, and I feel like I'm losing touch with what really matters to me. Sometimes I just wish I could pause everything and catch my breath.
@@ -140,7 +140,7 @@ Seeker: It's reassuring to know that you understand. Sometimes I feel like I'm j
 Supporter: You got that promotion you wanted but now you feel overwhelmed, is that it?
 Seeker: Yeah, that's pretty much it. I thought the promotion would be a step forward, but it feels like I'm stuck in a cycle of stress and exhaustion. I just want to find a way to enjoy my work and my family without feeling like I'm constantly failing at both.
 Supporter: Have you tried reaching out to your family for more help at home?
-Seeker: I have, but I feel guilty asking for more when I already feel like I'm not giving them enough of my time. It's hard to shake the feeling that I should be able to handle it all on my own. I guess I'm just not sure how to ask for help without feeling like I'm letting everyone down."
+Seeker: I have, but I feel guilty asking for more when I already feel like I'm not giving them enough of my time. It's hard to shake the feeling that I should be able to handle it all on my own. I guess I'm just not sure how to ask for help without feeling like I'm letting everyone down.",98
 20241031124050492385,"Seeker: I'm feeling so discouraged.. I just got passed over for the promotion I was working hard for
 Supporter: Don't be discouraged. Maybe the universe has plans to offer up something better for you. 
 Seeker: I appreciate the thought, but it's hard to see the silver lining right now. I put in so much effort, and it feels like it just went unnoticed. It's frustrating to think that all my hard work might not be enough.
@@ -153,7 +153,7 @@ Seeker: I understand the idea of staying motivated for future opportunities, but
 Supporter: I think everyone feels that way about their job. That's why we set high standards for ourselves. Because even if others don't notice our hard work we notice it ourselves. 
 Seeker: I get that, and I do try to hold myself to high standards. But sometimes it feels like I'm just running in circles without any real progress. I just wish there was more acknowledgment from those who have the power to make a difference in my career.
 Supporter: Maybe you should find a different work environment. 
-Seeker: I’ve thought about that, but it’s not an easy decision to make. I’ve invested a lot in this company, and I really believed in the work we were doing. It’s just hard to know if leaving is the right move or if I should keep trying to make it work here."
+Seeker: I’ve thought about that, but it’s not an easy decision to make. I’ve invested a lot in this company, and I really believed in the work we were doing. It’s just hard to know if leaving is the right move or if I should keep trying to make it work here.",98
 20241031142025401692,"Seeker: I'm feeling so discouraged.. I just got passed over for the promotion I was working hard for
 Supporter: I'm sorry, I've had that happen to me too. 
 Seeker: It's tough, right? You put in all this effort and it feels like it just goes unnoticed. I just can't shake the feeling that maybe there's something more to it, you know?
@@ -164,7 +164,7 @@ Seeker: Yeah, maybe you're right. I guess I'm just scared of hearing something t
 Supporter: Well, if you know you've been putting in the work and they truly don't see your value, perhaps this place isn't the right fit. worst case scenario, you see them for what type of company they are & you can move on to bigger & better things! am i right? 
 Seeker: Yeah, I get what you're saying. It's just hard to think about starting over somewhere else when I've put so much into this place. But maybe you're right, and it's time to consider other options if things don't change.
 Supporter: I understand. It might not even be the case though! 
-Seeker: I hope you're right. I guess I just need to gather the courage to have that conversation and see where it leads. It's just tough to stay motivated when you're not sure if your efforts are being valued."
+Seeker: I hope you're right. I guess I just need to gather the courage to have that conversation and see where it leads. It's just tough to stay motivated when you're not sure if your efforts are being valued.",100
 20241031143941950562,"Seeker: I've been feeling so detached from everything lately, like I'm just going through the motions without really being there.
 Supporter: is there anything you enjoy or think you might want to do?
 Seeker: Honestly, I used to love doing yoga and spending time with my family, but lately, even the thought of those things feels overwhelming. It's like I can't find the energy or time for anything outside of work. I just wish I could feel more present and connected again.
@@ -175,7 +175,7 @@ Seeker: It's comforting to know I'm not alone in feeling this way. Sometimes it 
 Supporter: I figure it is probably better to be alive than to be dead, so everything you can do is probably better than being dead so I just do things as they come.
 Seeker: I get what you're saying, and I try to remind myself of that too. But sometimes, it feels like just getting through the day is a struggle. I wish I could find a way to feel more alive and less like I'm just existing.
 Supporter: I wish I had the answer
-Seeker: I appreciate your honesty. It's tough when there doesn't seem to be a clear solution. Sometimes, just having someone to talk to who understands can make a difference."
+Seeker: I appreciate your honesty. It's tough when there doesn't seem to be a clear solution. Sometimes, just having someone to talk to who understands can make a difference.",62
 20241031145640298594,"Seeker: I've been feeling so detached from everything lately, like I'm just going through the motions without really being there.
 Supporter: I've gone through this before and know that it can be a difficult situation to navigate. Do you feel that this has come on for any specific reason, or have you just not been feeling yourself lately? 
 Seeker: I think it's a mix of both. The promotion at work has been a big change, and while it's supposed to be a good thing, it's just added more pressure. I feel like I'm constantly juggling and not really succeeding at anything.
@@ -190,7 +190,7 @@ Seeker: Not directly, but I can see it in their eyes, especially my kids. They a
 Supporter: That sounds like a really tough thing to have to go through and only compounds with your stress about work, I'm really sorry to hear that. 
 Seeker: Thank you for understanding. It's just been a lot to handle, and sometimes I feel like I'm failing on all fronts. I just wish I could find a way to be present for both my work and my family without feeling so torn.
 Supporter: Would you like to elaborate on why you feel failure? 
-Seeker: I guess it's because I set such high expectations for myself in both areas. At work, I want to prove that I deserve the promotion, and at home, I want to be the best parent and partner I can be. When I fall short in either, it feels like I'm letting everyone down, including myself."
+Seeker: I guess it's because I set such high expectations for myself in both areas. At work, I want to prove that I deserve the promotion, and at home, I want to be the best parent and partner I can be. When I fall short in either, it feels like I'm letting everyone down, including myself.",200
 20241031142631374406,"Seeker: I'm feeling so discouraged.. I just got passed over for the promotion I was working hard for
 Supporter: That’s alright. You’ll have more opportunities in the future, you obviously have the vigor and motivation to keep making efforts to eventually get to a position you deserve to be in.
 Seeker: I appreciate the encouragement, but right now it just feels like all my hard work was for nothing. It's tough to keep pushing when it seems like my efforts aren't being recognized. I just wish someone would acknowledge how frustrating and unfair this feels.
@@ -201,7 +201,7 @@ Seeker: I hear you, and I know that setbacks are part of life, but it doesn't ma
 Supporter: Thats good to take time to process things. I think you should do exactly as you outlined and everything will be okay.
 Seeker: Thanks for understanding. I just need to let myself feel this for a bit before I can move forward. Hopefully, with some time, I'll figure out the best way to handle this.
 Supporter: Yay! I’m glad I can help. Just know better days are coming.
-Seeker: I appreciate your optimism. I'm hoping that with some time, things will start to look up. For now, I just need to focus on getting through this rough patch."
+Seeker: I appreciate your optimism. I'm hoping that with some time, things will start to look up. For now, I just need to focus on getting through this rough patch.",177
 20241031144657019855,"Seeker: I've been feeling so detached from everything lately, like I'm just going through the motions without really being there.
 Supporter: whats going my friend am here for you
 
@@ -213,7 +213,7 @@ Seeker: I think it's the constant pressure to perform at work and the fear of le
 Supporter: do you have any idea or way you think you can work this out
 Seeker: Honestly, I'm not sure where to start. I feel like I've tried everything, but nothing seems to stick. Maybe I just need to find a way to slow down and really prioritize what's important, but it's hard to see how to do that right now.
 Supporter: i understand how you feel and i really think you should take it easy on yourself, trust me you doing great. its also a good thing to feel this way because it helps you to get yourself a way out and be strong to face any other challenges 
-Seeker: I appreciate you saying that. It's just hard to see the positives when I'm in the thick of it. I guess I just need to remind myself that it's okay to feel this way and that it's part of the process."
+Seeker: I appreciate you saying that. It's just hard to see the positives when I'm in the thick of it. I guess I just need to remind myself that it's okay to feel this way and that it's part of the process.",81
 20241031142911674809,"Seeker: I've been feeling so detached from everything lately, like I'm just going through the motions without really being there.
 Supporter: I'm so sorry you're feeling that way. Do you want to talk more about it?
 Seeker: It's just been really overwhelming. I thought the promotion would be a good thing, but now it feels like I'm losing touch with everything that matters to me. I don't even know where to start fixing it.
@@ -228,7 +228,7 @@ Seeker: I think talking about how I'm feeling might help for now. It's just been
 Supporter: I totally understand. Sometimes you just need a moment to feel those emotions and give yourself the grace to be upset.
 Seeker: It's reassuring to hear that. I guess I've been so focused on keeping everything together that I haven't allowed myself to just feel. Maybe acknowledging that it's okay to not be okay is a step in the right direction.
 Supporter: I think it definitely is. I am so proud of you for getting to this point. I think you are really strong.
-Seeker: Thank you for saying that. It means a lot to hear that someone believes in me. I guess I just need to remind myself that it's okay to take things one step at a time."
+Seeker: Thank you for saying that. It means a lot to hear that someone believes in me. I guess I just need to remind myself that it's okay to take things one step at a time.",116
 20241031125810052721,"Seeker: I'm feeling so discouraged.. I just got passed over for the promotion I was working hard for
 Supporter: aaww that is very sad to know
 
@@ -238,7 +238,7 @@ Seeker: It really is. I just can't shake the feeling that maybe my hard work isn
 Supporter: be strong for yourself ok
 Seeker: I appreciate that, but it's tough to stay strong when it feels like I'm not being seen for my efforts. I just wish there was a way to know that all this hard work is actually leading somewhere. It's hard to keep pushing when you're not sure if it even makes a difference.
 Supporter: do you have family to talk to?
-Seeker: I do, but sometimes it's hard to explain how I'm feeling to them. They try to be supportive, but I don't think they fully understand the work environment and the challenges I face. It's just nice to have someone who gets it, you know?"
+Seeker: I do, but sometimes it's hard to explain how I'm feeling to them. They try to be supportive, but I don't think they fully understand the work environment and the challenges I face. It's just nice to have someone who gets it, you know?",27
 20241031145710438129,"Seeker: So, I just lost my job today. I had a sense this was coming, but it's still a shock..
 Supporter: Wow, and how do you feel right now
 Seeker: Honestly, I'm feeling a mix of emotions. There's a part of me that's relieved because I don't have to deal with the stress of waiting for the other shoe to drop, but I'm also really scared about what comes next. It's just a lot to process all at once.
@@ -251,7 +251,7 @@ Seeker: I guess that's something I'm worried about too. If I hit a setback, I ho
 Supporter: Exactly. You are. The setback doesn't define you. So what do you intend doing right away
 Seeker: I think the first step is to update my resume and start reaching out to my network. It feels like a daunting task, but I know it's necessary. Maybe I'll also take a little time to reflect on what I really want in my next role.
 Supporter: There you go. I agree with you that you need to reflect on what you want in your next role so its way better than this one. Do you mind sharing what you look forward to in your next role?
-Seeker: I think I'd like to find a role where I feel more valued and where there's a positive work culture. It would be great to work somewhere that appreciates experience and offers opportunities for growth. I'm also hoping for a bit more work-life balance this time around."
+Seeker: I think I'd like to find a role where I feel more valued and where there's a positive work culture. It would be great to work somewhere that appreciates experience and offers opportunities for growth. I'm also hoping for a bit more work-life balance this time around.",108
 20241031124638971163,"Seeker: I've been feeling so detached from everything lately, like I'm just going through the motions without really being there.
 Supporter: I feel that way everyday myself. 
 Seeker: It's tough, isn't it? Sometimes it feels like we're just on autopilot, and it's hard to find a way back to feeling present. Do you ever find yourself wondering how to break out of that cycle?
@@ -270,7 +270,7 @@ Seeker: Thank you for saying that. It helps to know that others are navigating s
 Supporter: Everyone's life experience is subjective. Just follow what matters to you. 
 Seeker: That's true, and I appreciate the reminder. It's just hard sometimes to figure out what truly matters when everything feels so urgent. I guess it's a journey of figuring it out as we go along.
 Supporter: That's the fun part 
-Seeker: I suppose it can be, though it doesn't always feel that way in the moment. Maybe it's about finding those small moments of joy and clarity amidst the chaos. It's reassuring to think that even in the struggle, there's room for growth and discovery."
+Seeker: I suppose it can be, though it doesn't always feel that way in the moment. Maybe it's about finding those small moments of joy and clarity amidst the chaos. It's reassuring to think that even in the struggle, there's room for growth and discovery.",70
 20241031145848519908,"Seeker: I'm feeling so discouraged.. I just got passed over for the promotion I was working hard for
 Supporter: I'm so sorry, I know how hard you worked for this and it must feel crushing
 Seeker: Yeah, it really does. I put in so much effort and it just feels like it was all for nothing. It's hard not to wonder if there's something else going on, you know?
@@ -283,7 +283,7 @@ Seeker: I really hope so. It's just hard to see the opportunities right now when
 Supporter: Feeling uncertain about the future is always stressful, so you're not alone in this
 Seeker: Thanks for saying that. It helps to know I'm not the only one who feels this way sometimes. I just need to remind myself that it's okay to take a step back and regroup.
 Supporter: That can be helpful, and I'll always be here if you want to talk more
-Seeker: I really appreciate that. It’s comforting to know I have someone to lean on while I sort through all of this. I might take you up on that offer to talk more as I figure things out."
+Seeker: I really appreciate that. It’s comforting to know I have someone to lean on while I sort through all of this. I might take you up on that offer to talk more as I figure things out.",107
 20241031143012041613,"Seeker: I'm feeling so discouraged.. I just got passed over for the promotion I was working hard for
 Supporter: any reason given?
 Seeker: They didn't really give me a clear reason, just some vague feedback about ""fit"" and ""timing."" It feels like all my hard work and late nights didn't even matter. It's just really frustrating and disheartening.
@@ -302,7 +302,7 @@ Seeker: Yeah, a long weekend sounds like a good idea. I think stepping away for 
 Supporter: hold yourself to it!
 Seeker: I will definitely try to make it happen. I think it could really help me reset and refocus. Thanks for the encouragement—it's nice to have someone in my corner.
 Supporter: no problem. glad to help, if even in a small way
-Seeker: It really does help, more than you might realize. Just having someone to talk to and who gets it makes a big difference. Thanks again for being there and listening."
+Seeker: It really does help, more than you might realize. Just having someone to talk to and who gets it makes a big difference. Thanks again for being there and listening.",76
 20241031144011171565,"Seeker: I've been feeling so detached from everything lately, like I'm just going through the motions without really being there.
 Supporter: Is there anything that made you feel this way in particular? I’m so sorry you’re feeling like this.
 Seeker: It's hard to pinpoint just one thing, but I think it's a mix of work pressures and feeling like I'm missing out on important moments with my family. The promotion was supposed to be a good thing, but it feels like it's come with a lot more stress than I anticipated. I just feel like I'm constantly juggling and not really succeeding at anything.
@@ -313,7 +313,7 @@ Seeker: Thank you for understanding. It's comforting to hear that it's okay to n
 Supporter: You will, and I’ll help you through this as well, whatever it takes to get you to feel normal again. 
 Seeker: That means a lot to me. Just having someone to talk to about this makes it feel a little less daunting. I really hope I can find a way to make things better soon.
 Supporter: I’m glad I can help, hopefully everything will sort itself out.
-Seeker: I really hope so too. It's nice to have someone who listens and doesn't just try to fix things right away. Thank you for being here for me."
+Seeker: I really hope so too. It's nice to have someone who listens and doesn't just try to fix things right away. Thank you for being here for me.",132
 20241031145659196118,"Seeker: So, I just lost my job today. I had a sense this was coming, but it's still a shock..
 Supporter: Oh no. I'm sorry to hear that! What happened?
 Seeker: Well, there were all these signs, like leadership changes and budget cuts, and I guess I should have been more prepared. But when I got the email, it still felt like a punch to the gut. The Zoom call with my boss was awkward, and it just made everything feel so final.
@@ -326,7 +326,7 @@ Supporter: Of course they'd consider you, regardless of your age! Do you have an
 
 Seeker: Well, I do enjoy gardening and reading, but I haven't really thought about turning those into anything more than hobbies. They've always been my way to unwind after work. Right now, it's hard to imagine them as anything more than just that.
 Supporter: That's understandable. But to look on the bright side, it seems that company was having a rough time if there were budget cuts. It's an opportunity to start fresh at a more stable workplace
-Seeker: I guess you're right. It's just hard to see the silver lining when everything feels so uncertain. I know I need to start looking forward, but it's tough to shake off the fear of the unknown."
+Seeker: I guess you're right. It's just hard to see the silver lining when everything feels so uncertain. I know I need to start looking forward, but it's tough to shake off the fear of the unknown.",106
 20241031125849757353,"Seeker: So, I just lost my job today. I had a sense this was coming, but it's still a shock..
 Supporter: I am sorry to hear that. Losing a job can be a bad experience
 Seeker: Yeah, it really is. Even though I kind of expected it, actually getting the news was like a punch to the gut. I'm just trying to wrap my head around what to do next and how to start over at this point in my life.
@@ -337,7 +337,7 @@ Seeker: Yeah, you're right. I think I need to take it one step at a time and not
 Supporter: Are there some positive things you can do outside of the job hunt that can help take your mind off it?
 Seeker: I suppose I could try to focus on some hobbies or things I've always wanted to do but never had the time for. Maybe getting back into painting or taking some long walks could help clear my head. It's just a bit tough to shift my mindset from work to personal time right now.
 Supporter: I understand. clearing your head is important though and can help you focus better on the job hunt.
-Seeker: Yeah, I think you're right. Maybe if I can find a way to enjoy some downtime, it'll help me feel more grounded and ready to tackle the job search. It's just a matter of giving myself permission to take that break without feeling guilty."
+Seeker: Yeah, I think you're right. Maybe if I can find a way to enjoy some downtime, it'll help me feel more grounded and ready to tackle the job search. It's just a matter of giving myself permission to take that break without feeling guilty.",90
 20241031145117414259,"Seeker: I'm feeling so discouraged.. I just got passed over for the promotion I was working hard for
 Supporter: Oh, no.  I'm so sorry.  What was the promotion for?  I just got passed up on a promotion last year...  It felt pretty painful, too.  Tell me more.
 Seeker: It was for the Product Marketing Manager position. I really thought I had a good shot because I've been putting in so much effort and coming up with ideas that have been well-received. It's just tough to see someone else get it when I know how much I've put into this.
@@ -352,7 +352,7 @@ Seeker: Thanks, I really appreciate your support. It's just tough to feel like I
 Supporter: Yeah, take some time to think about it.  You can call me or text me any time.  I feel like I'm going through this with you. 
 Seeker: Thanks, that means a lot to me. It's comforting to know I have someone who understands and is there for me. I'll definitely reach out if I need to talk more.
 Supporter: Love you
-Seeker: Love you too. Thanks for being there for me. It really helps to have someone who gets it."
+Seeker: Love you too. Thanks for being there for me. It really helps to have someone who gets it.",194
 20241031143721849193,"Seeker: I'm feeling so discouraged.. I just got passed over for the promotion I was working hard for
 Supporter: No worries, you can try again. Keep your head up and you'll be rewarded eventually for your hard work. 
 
@@ -364,7 +364,7 @@ Seeker: I appreciate you saying that, but right now it just feels like a setback
 Supporter: Yea, we all wish things were different. Life just isnt fair that way. The only thing we can control is how we react to these feelings. You either let it keep you down or you move on. Theres no other choice. 
 Seeker: I hear you, and I know I need to find a way to move forward. It's just tough to figure out how to do that when I'm feeling so stuck. I guess I just need some time to process everything.
 Supporter: Take all the time you need to process it and also think about other goals and options you have to look forward too and work towards, a promotion isnt your highest thing to work towards. 
-Seeker: I appreciate that perspective. Maybe I do need to take a step back and think about what else I want to achieve. It's just hard to shift focus when this was something I was so invested in."
+Seeker: I appreciate that perspective. Maybe I do need to take a step back and think about what else I want to achieve. It's just hard to shift focus when this was something I was so invested in.",181
 20241031130310482335,"Seeker: So, I just lost my job today. I had a sense this was coming, but it's still a shock..
 Supporter: Wow Im sorry to hear that. Are you ok?
 Seeker: Honestly, I'm not sure how I feel right now. It's a mix of relief and fear, I guess. It's just hard to wrap my head around starting over at this point in my life.
@@ -377,7 +377,7 @@ Seeker: I think the idea of updating my resume and figuring out how to present m
 Supporter: I am here and can help you with that
 Seeker: I really appreciate that. It makes me feel a bit more at ease knowing I have someone to lean on. Maybe once I get started, it won't feel as intimidating as it does right now.
 Supporter: You got this!
-Seeker: Thank you for the encouragement. It means a lot to hear that right now. I'll try to take it one step at a time and see where it leads."
+Seeker: Thank you for the encouragement. It means a lot to hear that right now. I'll try to take it one step at a time and see where it leads.",58
 20241031142326744348,"Seeker: I've been feeling so detached from everything lately, like I'm just going through the motions without really being there.
 Supporter: Sounds like you lack purpose.
 
@@ -397,7 +397,7 @@ Supporter: You seem to always put people first over yourself.
 
 Seeker: It's true, I do tend to prioritize others, but it's hard not to when so many people rely on me. I guess I've always felt responsible for making sure everything runs smoothly, both at work and at home. Sometimes I wonder if I've forgotten how to take care of myself in the process.
 Supporter: Quit
-Seeker: Quitting feels like such a drastic step, and I'm not sure I'm ready for that. I need to find a way to manage things better without making such a big leap. Maybe there's a middle ground I haven't considered yet."
+Seeker: Quitting feels like such a drastic step, and I'm not sure I'm ready for that. I need to find a way to manage things better without making such a big leap. Maybe there's a middle ground I haven't considered yet.",60
 20241031143107374365,"Seeker: So, I just lost my job today. I had a sense this was coming, but it's still a shock..
 Supporter: I am so sorry to hear that. Did you get any severance?
 
@@ -418,7 +418,7 @@ Seeker: That sounds really nice, thank you. I love that little Italian place dow
 Supporter: I'll get some reservations. In the meantime, I'll start looking at job ads for you.
 Seeker: That's really kind of you, thank you. I think just knowing that someone is in my corner makes a big difference. I'm trying to take things one step at a time, and having support like this helps a lot.
 Supporter: I'm on it!
-Seeker: I really appreciate it. It's comforting to know I'm not going through this alone. Let's keep in touch, and I'll let you know if I need anything else."
+Seeker: I really appreciate it. It's comforting to know I'm not going through this alone. Let's keep in touch, and I'll let you know if I need anything else.",127
 20241031150257546670,"Seeker: I've been feeling so detached from everything lately, like I'm just going through the motions without really being there.
 Supporter: whats been going on?
 
@@ -432,7 +432,7 @@ Seeker: I appreciate that, but finding balance feels like such a distant goal ri
 Supporter: Don't worry, it's normal to feel like you may never find a balance during times like this, but rest assured you will
 Seeker: I hope so. It's just hard to see the light at the end of the tunnel when everything feels so overwhelming. I guess I just need to find a way to take it one step at a time.
 Supporter: Yep, one step at a time, one day at a time :)
-Seeker: Thank you for saying that. I think I need to remind myself that it's okay to take things slowly and not have everything figured out right away. It helps to know that I'm not alone in feeling this way."
+Seeker: Thank you for saying that. I think I need to remind myself that it's okay to take things slowly and not have everything figured out right away. It helps to know that I'm not alone in feeling this way.",88
 20241031142343248156,"Seeker: I've been feeling so detached from everything lately, like I'm just going through the motions without really being there.
 Supporter: I'm sorry, has something changed or happened?
 Seeker: It's hard to pinpoint one thing. I think it's just the accumulation of stress and responsibilities, both at work and at home. It feels like I'm constantly juggling too much, and I'm afraid of dropping something important.
@@ -447,7 +447,7 @@ Seeker: That's really kind of you to offer. I think I need to take that step mys
 Supporter: I am always an open ear, especially for mental health because I get it. Just a heads up, once you take the first step and go to the doctor, they will recommend a therapist. Don't be anxious about it, they are great and virtual now too so you can do it from anywhere
 Seeker: Thank you for being so understanding and supportive. It's comforting to know that there are options that can fit into my hectic schedule. I'll definitely keep that in mind as I figure out my next steps.
 Supporter: And please let me know if you have any questions about any of it, or just need someone to come sit on the couch with you to watch TV and drink wine because sometimes that is what is needed!
-Seeker: That sounds really nice, actually. Sometimes just having a low-key evening with someone who gets it can make a world of difference. I'll definitely keep that in mind, and I really appreciate your offer."
+Seeker: That sounds really nice, actually. Sometimes just having a low-key evening with someone who gets it can make a world of difference. I'll definitely keep that in mind, and I really appreciate your offer.",215
 20241031143420587455,"Seeker: So, I just lost my job today. I had a sense this was coming, but it's still a shock..
 Supporter: Wow, thats horrible. What happened?
 Seeker: I got an email this morning saying my position was being cut, and then I had a Zoom call with my boss. It was awkward, and he barely looked me in the eye. Even though I kind of expected it, it still feels like everything I've worked for just vanished.
@@ -458,7 +458,7 @@ Seeker: Honestly, I'm not sure yet. I'm trying to take it one step at a time, bu
 Supporter: I can help you with your resume and the job search, but make sure you take time to yourself to figure things out and what you want to do.
 Seeker: I really appreciate that offer, thank you. I think taking some time to reflect on what I truly want is important, but it's hard not to feel pressured to jump back into something quickly. It's just a lot to process right now, and I'm trying to find a balance between giving myself space and staying proactive.
 Supporter: Thats a really good idea to keep looking for that balance, hopefully things work out for you eventually and you get your life back on track again. But please recognize you do need at least a little time to figure things out, even if you feel pressure.
-Seeker: Thank you for understanding. It's comforting to hear that it's okay to take some time, even though it feels like the clock is ticking. I guess I just need to remind myself that it's a process and that it's okay to not have all the answers right now."
+Seeker: Thank you for understanding. It's comforting to hear that it's okay to take some time, even though it feels like the clock is ticking. I guess I just need to remind myself that it's a process and that it's okay to not have all the answers right now.",121
 20241031144350174874,"Seeker: I've been feeling so detached from everything lately, like I'm just going through the motions without really being there.
 Supporter: You, too?  I'm sorry.  I know what you mean.  What's that all about?  It's like I'm on autopilot.  
 Seeker: It's hard to pinpoint exactly, but I think it's a mix of work stress and feeling like I'm missing out on important moments with my family. I thought the promotion would be a good thing, but it's just added more pressure. It's like I'm constantly torn between two worlds and not fully present in either.
@@ -474,7 +474,7 @@ Seeker: I'm glad I reached out, too. It's nice to talk to someone who gets it an
 Supporter: YES!  Let's help each other through this.  I feel like we feel the exact same. 
 Seeker: That sounds like a great plan. Having someone to share this journey with makes it feel a bit more manageable. Let's check in with each other regularly and see how we're doing with those boundaries.
 Supporter: What else can I do? 
-Seeker: Just being there to listen and understand means a lot. Sometimes, just having someone to talk to who really gets it is enough. If you're up for it, maybe we can brainstorm some small steps to start setting those boundaries."
+Seeker: Just being there to listen and understand means a lot. Sometimes, just having someone to talk to who really gets it is enough. If you're up for it, maybe we can brainstorm some small steps to start setting those boundaries.",144
 20241031141852450492,"Seeker: I'm feeling so discouraged.. I just got passed over for the promotion I was working hard for
 Supporter: ugh i'm so sorry, you were working so hard to get that
 Seeker: Thanks, I really appreciate you saying that. It's just tough because I put in so much effort and it feels like it didn't matter. I'm starting to question if all my hard work is even being noticed.
@@ -493,7 +493,7 @@ Seeker: I really appreciate that. Sometimes just having someone to listen makes 
 Supporter: It's like when you want to send a mean, rude email and you just have to type it out, come back to it later and make it nicer and professional to send haha
 Seeker: Haha, exactly! Sometimes you just need to get it all out before you can move forward. It's nice to have someone who gets it and can share a laugh about these things.
 Supporter: We gotta stick together in this crazy world!
-Seeker: Absolutely, having each other's backs makes it a bit easier to navigate through all the ups and downs. Thanks for being such a good friend. Let's keep supporting each other through whatever comes our way."
+Seeker: Absolutely, having each other's backs makes it a bit easier to navigate through all the ups and downs. Thanks for being such a good friend. Let's keep supporting each other through whatever comes our way.",177
 20241031142939150275,"Seeker: I'm feeling so discouraged.. I just got passed over for the promotion I was working hard for
 Supporter: You feel discouraged, why?
 
@@ -511,7 +511,7 @@ Supporter: Be honest, can you change your race, if not then this job may not be 
 Seeker: I understand what you're saying, but it's not just about changing jobs. It's about wanting to be recognized for my hard work and contributions, regardless of my race. I just wish I knew how to navigate this situation better without feeling like I have to change who I am.
 Supporter: IF you left, where would you go
 
-Seeker: Honestly, I'm not sure where I would go. I haven't really thought about leaving yet because I still believe in the work I'm doing here. I just wish I could find a way to feel more valued and appreciated for my efforts."
+Seeker: Honestly, I'm not sure where I would go. I haven't really thought about leaving yet because I still believe in the work I'm doing here. I just wish I could find a way to feel more valued and appreciated for my efforts.",53
 20241031144856903579,"Seeker: So, I just lost my job today. I had a sense this was coming, but it's still a shock..
 Supporter: im so sorry to hear about that. Do you wanna talk about what happened?
 Seeker: Yeah, I guess talking about it might help. I mean, I knew there were rumors and signs, but when I got the email, it just felt so final. It's like all those years of hard work just vanished, and now I'm left wondering what to do next.
@@ -526,7 +526,7 @@ Seeker: Yeah, I think taking a step back might be what I need right now. It's ju
 Supporter: I'm sure you will. Youre smart and amazing. You'll figure everything out
 Seeker: Thank you for saying that. It's nice to hear some encouragement, even if it's hard to believe right now. I just hope I can find a path that feels right for me.
 Supporter: Dont worry too much you will. Just spend some time thinking about what you wanna do, make lists, write in a journal
-Seeker: That's a good idea. Maybe writing things down will help me sort through all these thoughts and emotions. I just need to find a way to focus on what I truly want moving forward."
+Seeker: That's a good idea. Maybe writing things down will help me sort through all these thoughts and emotions. I just need to find a way to focus on what I truly want moving forward.",117
 20241031144401095945,"Seeker: I'm feeling so discouraged.. I just got passed over for the promotion I was working hard for
 Supporter: So what are you planning on doing next?
 Seeker: Honestly, I'm not sure what to do next. Part of me wants to just keep my head down and do the bare minimum, but another part of me feels like I should keep pushing to prove myself. It's just hard to stay motivated when it feels like my efforts aren't being recognized.
@@ -537,7 +537,7 @@ Seeker: Yeah, I guess that's true. It's just hard to make that choice when I'm f
 Supporter: Maybe just do the bare minimum until you aren't disheartened anymore then make the decision after considering all of the factors involved.
 Seeker: I see what you're saying, and maybe taking a step back could help me clear my head. It's just tough to shake off this feeling of being undervalued. I really hope things start to make more sense soon.
 Supporter: If you feel you're being undervalued then maybe you are. You might just need to accept that fact.
-Seeker: It's hard to accept that, though, because I really believed in the work I was doing and thought it mattered. I just wish there was a way to know if it's worth sticking it out or if I should start looking for opportunities where I might be more appreciated. It's a lot to think about, and I just want to make the right choice for myself."
+Seeker: It's hard to accept that, though, because I really believed in the work I was doing and thought it mattered. I just wish there was a way to know if it's worth sticking it out or if I should start looking for opportunities where I might be more appreciated. It's a lot to think about, and I just want to make the right choice for myself.",103
 20241031145139367719,"Seeker: So, I just lost my job today. I had a sense this was coming, but it's still a shock..
 Supporter: Oh no, I am so sorry to hear that. Is it something you had started to plan for?
 
@@ -555,7 +555,7 @@ Seeker: I really hope so. It's just hard to see the light at the end of the tunn
 Supporter: Of course, I am so happy to help in any way that I can. 
 Seeker: It means a lot to hear that. Just having someone to talk to without feeling rushed or judged makes a big difference. I guess I just need to take things one day at a time.
 Supporter: Yes definitely tak ethings one day at a time and get back into the swing of thigs when you are ready
-Seeker: That's exactly what I need to do. It's reassuring to know that I don't have to rush into anything and can take my time to figure things out. Thanks for being so understanding and patient with me."
+Seeker: That's exactly what I need to do. It's reassuring to know that I don't have to rush into anything and can take my time to figure things out. Thanks for being so understanding and patient with me.",149
 20241031144740239368,"Seeker: I've been feeling so detached from everything lately, like I'm just going through the motions without really being there.
 Supporter: yeah, life can be like that sometimes
 
@@ -574,7 +574,7 @@ Supporter: I always take some time to pause and pray when I feel overwhemed. The
 Seeker: I appreciate the suggestion, and I know that works for a lot of people. I guess I'm just struggling to find what would help me feel more grounded right now. It's hard to know where to start when everything feels so overwhelming.
 Supporter: Maybe make a list of everything that's going on and it will help you see what's actually in your control and what deserves your worry and what doesn't.
 
-Seeker: That might be a good idea. I think writing things down could help me see things more clearly. It's just hard to find the time and energy to even start that list."
+Seeker: That might be a good idea. I think writing things down could help me see things more clearly. It's just hard to find the time and energy to even start that list.",103
 20241031144225966527,"Seeker: I've been feeling so detached from everything lately, like I'm just going through the motions without really being there.
 Supporter: I hate to hear this. Do you need me to just listen right now?
 Seeker: Honestly, that would be really nice. It's been hard to find someone who can just listen without jumping to solutions. I just feel so overwhelmed and stuck in this cycle.
@@ -589,7 +589,7 @@ Seeker: I appreciate you saying that. It's just hard to shake the feeling that I
 Supporter: Please be kind to yourself and give yourself grace. I know it does not seem like things will be okay, but they definitely will get better. Prioritizing yourself can be hard but, take one step at a time. Take a walk and clear your mind, maybe that would be a good start?
 Seeker: I appreciate the suggestion. Maybe a walk could help clear my head a bit, even if it's just a small step. It's nice to have someone remind me that it's okay to take things slowly.
 Supporter: Every small step is a milestone, remember that. You are loved, seen and heard
-Seeker: Thank you for reminding me of that. It's comforting to know that I'm not alone in this, even when it feels overwhelming. I'll try to keep that in mind as I navigate through everything."
+Seeker: Thank you for reminding me of that. It's comforting to know that I'm not alone in this, even when it feels overwhelming. I'll try to keep that in mind as I navigate through everything.",159
 20241031143714391442,"Seeker: I've been feeling so detached from everything lately, like I'm just going through the motions without really being there.
 Supporter: How long have you felt like this?
 Seeker: It's been building up for a while, but I think it really hit me after the promotion. I thought it would be a turning point, but instead, it feels like I'm just sinking deeper. It's like I'm constantly on autopilot, and I can't seem to find a way to switch it off.
@@ -606,7 +606,7 @@ Seeker: I've tried to bring it up with my spouse, but it often turns into a conv
 Supporter: Okay...let's keep talking and try to figure out what you need. 
 Seeker: Thank you for being willing to listen. I think just having someone to talk to without feeling judged or rushed is a good start. It feels like a relief to share what's been weighing on me.
 Supporter: What is one simple thing that would have made today better at work?
-Seeker: Having a moment to step away and clear my head without feeling guilty would have helped. Just a small break to breathe and reset might have made a difference. It's hard to find those moments when everything feels so urgent."
+Seeker: Having a moment to step away and clear my head without feeling guilty would have helped. Just a small break to breathe and reset might have made a difference. It's hard to find those moments when everything feels so urgent.",104
 20241031143623775499,"Seeker: So, I just lost my job today. I had a sense this was coming, but it's still a shock..
 Supporter: Damn.  I'm sorry to hear it.  Did they tell you why?
 
@@ -620,7 +620,7 @@ Seeker: That's a good point. I haven't really thought about what I truly want in
 Supporter: That's the spirit.  Look, I empathize with you.  I know it feels tough.  But just keep focusing on what you want to do next.  Then, let me know.  I'll do everything I can to help you look for a new position.  This will end up being a blessing in disguise.
 Seeker: Thank you, that means a lot. It's reassuring to know I have someone in my corner willing to help. I'll definitely take some time to think about what I really want and let you know.
 Supporter: How is everything else going?  Any good news?
-Seeker: Well, my family has been really supportive, which has been a huge relief. My daughter just got accepted into her first-choice college, so that's been a bright spot amidst all this. It's nice to have something positive to focus on right now."
+Seeker: Well, my family has been really supportive, which has been a huge relief. My daughter just got accepted into her first-choice college, so that's been a bright spot amidst all this. It's nice to have something positive to focus on right now.",157
 20241031150253617689,"Seeker: I'm feeling so discouraged.. I just got passed over for the promotion I was working hard for
 Supporter: i'm so sorry to hear about that, how are you feeling 
 Seeker: Honestly, I'm feeling pretty defeated. I put in so much effort, and it just feels like it was all for nothing. It's hard not to wonder if there's something else at play here, you know?
@@ -632,7 +632,7 @@ Supporter: yes i completely understand. have you considered
  talking to them to give you feedback  
 Seeker: I have thought about it, but I'm not sure how to approach the conversation without sounding bitter or upset. I just want to understand what I could have done differently or if there's something I'm missing. It's just hard to find the right words when I'm still feeling so disappointed.
 Supporter: i understand, maybe give it time to process your feelings then maybe you can approach them?
-Seeker: Yeah, maybe giving it some time could help. I just need to find a way to express myself without letting my emotions take over. It's just hard to wait when I feel like I need answers now."
+Seeker: Yeah, maybe giving it some time could help. I just need to find a way to express myself without letting my emotions take over. It's just hard to wait when I feel like I need answers now.",67
 20241031145838989513,"Seeker: I'm feeling so discouraged.. I just got passed over for the promotion I was working hard for
 Supporter: Ugh. that stinks. is the other person qualified?
 
@@ -651,7 +651,7 @@ Seeker: Yeah, I suppose that's all I can do right now. It's just tough to stay m
 Supporter: Hey I'm always here to encourage you or give you a swift kick of motivation as needed. hahaha
 Seeker: Thanks, I really appreciate that. It's good to know I have someone in my corner who gets it. Sometimes a little humor helps lighten the load, too.
 Supporter: gotta laugh or we'll cry and i only have so many tears
-Seeker: True, laughter can be a good remedy. It's nice to have someone who can share a laugh and help me see things from a different perspective. Thanks for being there—it means a lot."
+Seeker: True, laughter can be a good remedy. It's nice to have someone who can share a laugh and help me see things from a different perspective. Thanks for being there—it means a lot.",108
 20241031142922509539,"Seeker: So, I just lost my job today. I had a sense this was coming, but it's still a shock..
 Supporter: oh no! what happened?
 Seeker: I got an email this morning saying my position was being cut, and then I had a Zoom call with my boss. It was awkward, and he barely looked me in the eye. Even though I kind of expected it, it still feels like everything I've worked for just vanished.
@@ -668,7 +668,7 @@ Seeker: I really hope so. It's just tough to see that right now when everything 
 Supporter: just give yourself some time and grace
 Seeker: Thank you, I really need to remind myself of that. It's just hard to slow down when my mind is racing with all these worries. I appreciate you listening and being so understanding.
 Supporter: I really hope everything works out for you. 
-Seeker: Thank you, that means a lot to me. I'm grateful for your support and for just being here to listen. It helps to know I'm not alone in this."
+Seeker: Thank you, that means a lot to me. I'm grateful for your support and for just being here to listen. It helps to know I'm not alone in this.",94
 20241031143028878832,"Seeker: I've been feeling so detached from everything lately, like I'm just going through the motions without really being there.
 Supporter: Seems like this person need to find their way.
 Seeker: It's tough because I feel like I'm losing touch with what really matters to me. I want to be present for my family and enjoy my work, but right now, it all feels like a blur. It's like I'm stuck in this cycle and don't know how to break free.
@@ -677,7 +677,7 @@ Seeker: I appreciate the suggestion, but I think what I really need is to talk t
 Supporter: I’m here for you 
 Seeker: Thank you, that means a lot. It's just been so hard to open up about this because I feel like I should be able to handle it all. Sometimes, I just need someone to listen and help me sort through these feelings.
 Supporter: There ways to help you feel better such as reading or go to a park 
-Seeker: I appreciate the suggestions, but I think what I really need is to feel understood and not so alone in this. It's more about finding a way to reconnect with myself and my family, rather than just distracting myself. It's comforting to know you're here to listen."
+Seeker: I appreciate the suggestions, but I think what I really need is to feel understood and not so alone in this. It's more about finding a way to reconnect with myself and my family, rather than just distracting myself. It's comforting to know you're here to listen.",34
 20241031142002371691,"Seeker: I'm feeling so discouraged.. I just got passed over for the promotion I was working hard for
 Supporter: I'm so sorry about that.. when did this happen?
 
@@ -694,7 +694,7 @@ Supporter: exactly. trying to understand their perspective will definately help.
 Seeker: Yeah, I know I need to do it. It's just hard to shake off this feeling of being overlooked, you know? I just hope it doesn't end up being another disappointment.
 Supporter: I understand the feeling. it's pretty tough!
 
-Seeker: It really is. I just wish things were different, and that my efforts were seen and appreciated. It's just hard to keep pushing forward when it feels like I'm not getting anywhere."
+Seeker: It really is. I just wish things were different, and that my efforts were seen and appreciated. It's just hard to keep pushing forward when it feels like I'm not getting anywhere.",92
 20241031150832963315,"Seeker: I'm feeling so discouraged.. I just got passed over for the promotion I was working hard for
 Supporter: that must be devastating, did you ask why
 Seeker: I haven't asked yet. I'm worried about what they might say, and I'm not sure if I'm ready to hear it. It just feels like all my effort went unnoticed, and that's hard to deal with right now.
@@ -709,7 +709,7 @@ Supporter: you are the best to me and I want you to chest up and believe that to
 Seeker: Thanks, I appreciate that. It's just tough to keep believing in myself when it feels like I'm not being seen for what I bring to the table. I guess I just need to figure out how to move forward from here.
 Supporter: I understand how you feel 
 what is on your mind though?
-Seeker: I'm just trying to figure out if I should keep pushing myself as hard as I have been or if I need to take a step back and reassess. Part of me wonders if there's a better way to make sure my efforts are recognized. It's just a lot to think about, and I'm not sure what the right move is."
+Seeker: I'm just trying to figure out if I should keep pushing myself as hard as I have been or if I need to take a step back and reassess. Part of me wonders if there's a better way to make sure my efforts are recognized. It's just a lot to think about, and I'm not sure what the right move is.",82
 20241031143018571296,"Seeker: I've been feeling so detached from everything lately, like I'm just going through the motions without really being there.
 Supporter: I'm sorry. I know the feeling I have been there before. What is going on in your life?
 Seeker: It's been a lot lately. I just got promoted at work, which is great, but it's also overwhelming. I feel like I'm constantly juggling and dropping the ball on things that really matter to me, like spending time with my family.
@@ -721,7 +721,7 @@ Seeker: I appreciate the suggestion, but I've tried scheduling and it just feels
 Supporter: Have you tried exercise and dieting. It could be why you are not feeling energized.
 Seeker: I know exercise and diet are important, but it's hard to find the time or energy for them right now. I used to do yoga, and it helped, but I can't seem to fit it in anymore. I just feel stuck in this cycle of exhaustion and guilt.
 Supporter: I think you should see a doctor. They may be able to see if there is another problem with you physically.
-Seeker: I appreciate your concern. I think it's more about the emotional and mental toll everything is taking on me. I just need someone to really hear me out and understand how overwhelming this all feels."
+Seeker: I appreciate your concern. I think it's more about the emotional and mental toll everything is taking on me. I just need someone to really hear me out and understand how overwhelming this all feels.",83
 20241031142609584451,"Seeker: I've been feeling so detached from everything lately, like I'm just going through the motions without really being there.
 Supporter: can you tell me more about that?
 Seeker: It's like I'm on autopilot, just trying to get through each day. I used to find joy in my work and at home, but now everything feels like a chore. I miss feeling connected to my family and myself.
@@ -737,4 +737,4 @@ Seeker: I wish it were that simple. The thought of stepping back feels impossibl
 Supporter: I feel you should try mindfullness meditation. It will help to take a step back from everything
 Seeker: I appreciate the suggestion, but I've tried meditation before and it hasn't really worked for me. I think what I really need is to find a way to reconnect with what's important to me without feeling like I'm letting anyone down. It's just hard to see how to do that right now.
 Supporter: have you tried to actually talk to the people you care about?
-Seeker: I haven't really had a deep conversation with them about how I'm feeling. It's tough to find the right moment, and I'm worried about adding more stress to their lives. I guess I'm afraid of being vulnerable and admitting that I'm struggling."
+Seeker: I haven't really had a deep conversation with them about how I'm feeling. It's tough to find the right moment, and I'm worried about adding more stress to their lives. I guess I'm afraid of being vulnerable and admitting that I'm struggling.",77

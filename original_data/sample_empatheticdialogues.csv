@@ -1,213 +1,1294 @@
-conv_id,utterance_idx,context,prompt,speaker_idx,utterance,selfeval,tags,empathy1,relevance1,fluency1,empathy2,relevance2,fluency2
-hit:401_conv:803,1,anxious,The result of my final college exams was to be published the next day_comma_I could hardly sleep due to expectations,25,The night WS the longest to me back then_comma_eager to know my score!,4|3|4_2|4|3,,4.0,3.0,4.0,2.0,4.0,3.0
-hit:401_conv:803,2,anxious,The result of my final college exams was to be published the next day_comma_I could hardly sleep due to expectations,135,Did you think you did well?,4|3|4_2|4|3,,4.0,3.0,4.0,2.0,4.0,3.0
-hit:401_conv:803,3,anxious,The result of my final college exams was to be published the next day_comma_I could hardly sleep due to expectations,25,Sure_comma_I put in my best ! I was positive!,4|3|4_2|4|3,,4.0,3.0,4.0,2.0,4.0,3.0
-hit:401_conv:803,4,anxious,The result of my final college exams was to be published the next day_comma_I could hardly sleep due to expectations,135,That's awesome! It can be nerve racking,4|3|4_2|4|3,,4.0,3.0,4.0,2.0,4.0,3.0
-hit:478_conv:956,1,afraid,when i was going for an interview i was so afraid as i could not tell the end results,171,it was just yesterday when i was going for an interview and personally i was so afraid because i did not know what were the end results,3|4|5_4|4|3,,3.0,4.0,5.0,4.0,4.0,3.0
-hit:478_conv:956,2,afraid,when i was going for an interview i was so afraid as i could not tell the end results,63,Yea I know how you feel_comma_ you just feel like you are in purgatory waiting for your demise.,3|4|5_4|4|3,,3.0,4.0,5.0,4.0,4.0,3.0
-hit:478_conv:956,3,afraid,when i was going for an interview i was so afraid as i could not tell the end results,171,actually i woke up early in the morning and prepared my self fully for the task ahead of me,3|4|5_4|4|3,,3.0,4.0,5.0,4.0,4.0,3.0
-hit:478_conv:956,4,afraid,when i was going for an interview i was so afraid as i could not tell the end results,63,Yea but i mean afterwards you dont know if you passed the interview,3|4|5_4|4|3,,3.0,4.0,5.0,4.0,4.0,3.0
-hit:478_conv:956,5,afraid,when i was going for an interview i was so afraid as i could not tell the end results,171,i just received a call that i did good in my interview and i qualified to work with them. this made me so happy,3|4|5_4|4|3,,3.0,4.0,5.0,4.0,4.0,3.0
-hit:887_conv:1775,1,jealous,I felt really left out when my friends went to a theme park without me. It really bothers me that they didn't even tell me they were going. I really wish I could have gone,251,My friends left me to go to the theme park. I feel really left out. ,3|5|5_5|5|5,,3.0,5.0,5.0,5.0,5.0,5.0
-hit:887_conv:1775,2,jealous,I felt really left out when my friends went to a theme park without me. It really bothers me that they didn't even tell me they were going. I really wish I could have gone,250,You still consider them your friends after that?,3|5|5_5|5|5,,3.0,5.0,5.0,5.0,5.0,5.0
-hit:887_conv:1775,3,jealous,I felt really left out when my friends went to a theme park without me. It really bothers me that they didn't even tell me they were going. I really wish I could have gone,251,I've been friends with them for a long time_comma_ but I don't know they never even told me.,3|5|5_5|5|5,,3.0,5.0,5.0,5.0,5.0,5.0
-hit:887_conv:1775,4,jealous,I felt really left out when my friends went to a theme park without me. It really bothers me that they didn't even tell me they were going. I really wish I could have gone,250,That's messed up.,3|5|5_5|5|5,,3.0,5.0,5.0,5.0,5.0,5.0
-hit:965_conv:1930,1,afraid,I saw a shark in the water last week.,4,I saw a shark in the water last week.,5|5|5_3|4|4,,5.0,5.0,5.0,3.0,4.0,4.0
-hit:965_conv:1930,2,afraid,I saw a shark in the water last week.,226,Were you afraid or thrilled or both?,5|5|5_3|4|4,,5.0,5.0,5.0,3.0,4.0,4.0
-hit:965_conv:1930,3,afraid,I saw a shark in the water last week.,4,I was afraid.,5|5|5_3|4|4,,5.0,5.0,5.0,3.0,4.0,4.0
-hit:965_conv:1930,4,afraid,I saw a shark in the water last week.,226,Were you in the water?,5|5|5_3|4|4,,5.0,5.0,5.0,3.0,4.0,4.0
-hit:3379_conv:6758,1,ashamed,During a work meeting_comma_ I was presenting and then suddenly my pant dropped. I felt so bad.,7,During a work meeting_comma_ I was presenting and then suddenly my pant dropped. I felt so bad.,5|5|5_3|3|4,,5.0,5.0,5.0,3.0,3.0,4.0
-hit:3379_conv:6758,2,ashamed,During a work meeting_comma_ I was presenting and then suddenly my pant dropped. I felt so bad.,226,Oh my gosh. Why did your pants fall?,5|5|5_3|3|4,,5.0,5.0,5.0,3.0,3.0,4.0
-hit:3379_conv:6758,3,ashamed,During a work meeting_comma_ I was presenting and then suddenly my pant dropped. I felt so bad.,7,The pant button broke. After it felt. I was holding it up with my hands.,5|5|5_3|3|4,,5.0,5.0,5.0,3.0,3.0,4.0
-hit:3379_conv:6758,4,ashamed,During a work meeting_comma_ I was presenting and then suddenly my pant dropped. I felt so bad.,226,Were you able to laugh it off or were you so mortified you wanted to crawl out of the room?,5|5|5_3|3|4,,5.0,5.0,5.0,3.0,3.0,4.0
-hit:3636_conv:7272,1,anxious,I hate being in public by myself. It gets me super nervous and I turn bright red.,269,I hate being in public by myself. It gets me super nervous and I turn bright red.,5|5|5_2|4|5,,5.0,5.0,5.0,2.0,4.0,5.0
-hit:3636_conv:7272,2,anxious,I hate being in public by myself. It gets me super nervous and I turn bright red.,462,Oh_comma_ that must be so stressful. Does it happen all the time - like even at the grocery store?,5|5|5_2|4|5,,5.0,5.0,5.0,2.0,4.0,5.0
-hit:3636_conv:7272,3,anxious,I hate being in public by myself. It gets me super nervous and I turn bright red.,269,Sometimes_comma_ only when I am by myself. I am just an anxious person in general so there's that.,5|5|5_2|4|5,,5.0,5.0,5.0,2.0,4.0,5.0
-hit:3636_conv:7272,4,anxious,I hate being in public by myself. It gets me super nervous and I turn bright red.,462,Do you have someone to go places with you? Or do you just have to power through it?,5|5|5_2|4|5,,5.0,5.0,5.0,2.0,4.0,5.0
-hit:7112_conv:14224,1,afraid,When my mom was in the ER,516,Last week my mom was in the ER_comma_ it was a horrible feeling,3|4|5_5|5|5,,3.0,4.0,5.0,5.0,5.0,5.0
-hit:7112_conv:14224,2,afraid,When my mom was in the ER,63,wow thats so horrible,3|4|5_5|5|5,,3.0,4.0,5.0,5.0,5.0,5.0
-hit:7112_conv:14224,3,afraid,When my mom was in the ER,516,Yes_comma_ and I don't know how it will all pay out,3|4|5_5|5|5,,3.0,4.0,5.0,5.0,5.0,5.0
-hit:7112_conv:14224,4,afraid,When my mom was in the ER,63,hopefully well,3|4|5_5|5|5,,3.0,4.0,5.0,5.0,5.0,5.0
-hit:7112_conv:14224,5,afraid,When my mom was in the ER,516,I gues so,3|4|5_5|5|5,,3.0,4.0,5.0,5.0,5.0,5.0
-hit:8681_conv:17362,1,embarrassed,I farted at work today. I never have been mortified in my life.,209,I let out a moist_comma_ warm fart today in front of all of my co-workers today.,5|5|5_2|3|4,,5.0,5.0,5.0,2.0,3.0,4.0
-hit:8681_conv:17362,2,embarrassed,I farted at work today. I never have been mortified in my life.,117,You must be very comfortable in your office! How did they react?,5|5|5_2|3|4,,5.0,5.0,5.0,2.0,3.0,4.0
-hit:8681_conv:17362,3,embarrassed,I farted at work today. I never have been mortified in my life.,209,Some ran away in terror. Others in disgust. I think I sent one to the ER even. At any rate_comma_ I was mortified and I am sure I won't ever live this tragedy down.,5|5|5_2|3|4,,5.0,5.0,5.0,2.0,3.0,4.0
-hit:8681_conv:17362,4,embarrassed,I farted at work today. I never have been mortified in my life.,117,I am sorry that you now live in infamy. Maybe_comma_ with time_comma_ they can learn to forgive you.,5|5|5_2|3|4,,5.0,5.0,5.0,2.0,3.0,4.0
-hit:11447_conv:22894,1,jealous,When I was in middle school my sister left for college. I visited her dorm room and it was so cool. I wanted to be in college too.,652,When I was in middle school_comma_ my older sister went to college_comma_ and I saw her dorm after she moved in.,1|2|5_4|4|4,,1.0,2.0,5.0,4.0,4.0,4.0
-hit:11447_conv:22894,2,jealous,When I was in middle school my sister left for college. I visited her dorm room and it was so cool. I wanted to be in college too.,650,What was it like I have always wanted to live in a dorm and go to colledge?,1|2|5_4|4|4,,1.0,2.0,5.0,4.0,4.0,4.0
-hit:11447_conv:22894,3,jealous,When I was in middle school my sister left for college. I visited her dorm room and it was so cool. I wanted to be in college too.,652,It was so cool. I really wanted to go to college just like her.,1|2|5_4|4|4,,1.0,2.0,5.0,4.0,4.0,4.0
-hit:11447_conv:22894,4,jealous,When I was in middle school my sister left for college. I visited her dorm room and it was so cool. I wanted to be in college too.,650,Well you should have why didn't you?,1|2|5_4|4|4,,1.0,2.0,5.0,4.0,4.0,4.0
-hit:11447_conv:22894,5,jealous,When I was in middle school my sister left for college. I visited her dorm room and it was so cool. I wanted to be in college too.,652,I was still in middle school! I wasn't old enough_comma_ but I really wished I could be there.,1|2|5_4|4|4,,1.0,2.0,5.0,4.0,4.0,4.0
-hit:12057_conv:24115,1,embarrassed,I accidentally dropped a dumbell on my toe at the gym. I felt so stupid.,53,I accidentally droped a dumbell on my toe at the gym. I felt so freaking stupid.,5|5|5_3|3|4,,5.0,5.0,5.0,3.0,3.0,4.0
-hit:12057_conv:24115,2,embarrassed,I accidentally dropped a dumbell on my toe at the gym. I felt so stupid.,126,Did it hurt though,5|5|5_3|3|4,,5.0,5.0,5.0,3.0,3.0,4.0
-hit:12057_conv:24115,3,embarrassed,I accidentally dropped a dumbell on my toe at the gym. I felt so stupid.,53,Yeah it hurt and I was listening to music so I might have yelled a cuss word loudly.,5|5|5_3|3|4,,5.0,5.0,5.0,3.0,3.0,4.0
-hit:12057_conv:24115,4,embarrassed,I accidentally dropped a dumbell on my toe at the gym. I felt so stupid.,126,I am sorry_comma_ I would cuss too if it happened to me,5|5|5_3|3|4,,5.0,5.0,5.0,3.0,3.0,4.0
-hit:12057_conv:24115,5,embarrassed,I accidentally dropped a dumbell on my toe at the gym. I felt so stupid.,53,It hurt my pride more though lol,5|5|5_3|3|4,,5.0,5.0,5.0,3.0,3.0,4.0
-hit:529_conv:1059,1,guilty,I ate the last one of my wife's favorite cookies.,167,I ate the last one of my wife's favorite cookies.,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:529_conv:1059,2,guilty,I ate the last one of my wife's favorite cookies.,175,hahah yea i have done that more than once.,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:529_conv:1059,3,guilty,I ate the last one of my wife's favorite cookies.,167,She was not happy after she told me to save her some. I could not resist.,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:529_conv:1059,4,guilty,I ate the last one of my wife's favorite cookies.,175,what flavor was the cookie?,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:529_conv:1059,5,guilty,I ate the last one of my wife's favorite cookies.,167,White chocolate macadamia.,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:1670_conv:3341,1,terrified,I was terrified when I heard a knock at my door late at night,267,I was terrified when I heard a knock at my door late at night,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:1670_conv:3341,2,terrified,I was terrified when I heard a knock at my door late at night,4,Who was it?,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:1670_conv:3341,3,terrified,I was terrified when I heard a knock at my door late at night,267,It was my neighbor letting me know I left the garage open,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:1670_conv:3341,4,terrified,I was terrified when I heard a knock at my door late at night,4,That was nice of them.,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:2088_conv:4177,1,embarrassed,I was at the store the other day and I bumped in to a wine rack and knocked over a bunch of bottles_comma_ and people were staring which was so embarrassing. ,152,I was shopping at the store the other day and I bumped into a rack and spilled wine bottles everywhere. Everyone was staring. ,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:2088_conv:4177,2,embarrassed,I was at the store the other day and I bumped in to a wine rack and knocked over a bunch of bottles_comma_ and people were staring which was so embarrassing. ,209,Oh geez_comma_ that sounds pretty embarrassing. Did any of the bottles break?,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:2088_conv:4177,3,embarrassed,I was at the store the other day and I bumped in to a wine rack and knocked over a bunch of bottles_comma_ and people were staring which was so embarrassing. ,152,No luckily haha but it made me blush for sure.,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:2088_conv:4177,4,embarrassed,I was at the store the other day and I bumped in to a wine rack and knocked over a bunch of bottles_comma_ and people were staring which was so embarrassing. ,209,That's a shame. If they did_comma_ you could've reversed the situation and summoned everybody over to throw down and have a supremo wine fest.,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:3735_conv:7470,1,sad,Yesterday my pet hamster died. He just turned two and was not moving very much. I was tearful when I felt his body and it was cold.,139,Yesterday my hamster passed away. He was barely two years old :(.,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:3735_conv:7470,2,sad,Yesterday my pet hamster died. He just turned two and was not moving very much. I was tearful when I felt his body and it was cold.,291,What was your hamster's name?,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:3735_conv:7470,3,sad,Yesterday my pet hamster died. He just turned two and was not moving very much. I was tearful when I felt his body and it was cold.,139,His name was Sparky. I reached into his cage to pick him up because he was not moving. His poor body was cold. I was so tearful.,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:3735_conv:7470,4,sad,Yesterday my pet hamster died. He just turned two and was not moving very much. I was tearful when I felt his body and it was cold.,291,Do you know what it was that happened to kill him?,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:4103_conv:8207,1,embarrassed,I walked around my office with my dress shoved in my underwear!,220,I can't believe I'm even sharing this with anyone because I want to forget it but earlier I was walking around the office with my dress shoved in my underwear!,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:4103_conv:8207,2,embarrassed,I walked around my office with my dress shoved in my underwear!,296,Oh man! I've been there. That is hard. I hope it wasn't too long!,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:4103_conv:8207,3,embarrassed,I walked around my office with my dress shoved in my underwear!,220,I have no idea! I don't even know if anyone noticed because they didn't tell me! I figured it out myself when I went to the bathroom again.,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:4103_conv:8207,4,embarrassed,I walked around my office with my dress shoved in my underwear!,296,Don't you hate that when people don't tell you? Well now you know your co-workers can't be trusted! But maybe they were busy and just didn't notice- which is goo!,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:4103_conv:8207,5,embarrassed,I walked around my office with my dress shoved in my underwear!,220,You have a way of making me feel a little better_comma_ thank you!,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:4103_conv:8207,6,embarrassed,I walked around my office with my dress shoved in my underwear!,296,Aw so sweet! Your very welcome. We've all been there! I completely understand. I don't think anyone saw :),5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:7797_conv:15594,1,terrified,Young children need to stay far away from me!,9,Kids need to stay away from me_comma_ they are too loud!,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:7797_conv:15594,2,terrified,Young children need to stay far away from me!,53,That's funny! I agree and it's worse when they aren't your kids.,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:7797_conv:15594,3,terrified,Young children need to stay far away from me!,9,I dont even want my own kids.,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:7797_conv:15594,4,terrified,Young children need to stay far away from me!,53,To each their own. I have 3 and to be honest_comma_ I'm glad they are getting older. Babies suck.,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:8986_conv:17972,1,furious,I saw someone throw trash from a moving car yesterday.,332,I saw someone throw some trash from a moving car yesterday. I was so angry.,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:8986_conv:17972,2,furious,I saw someone throw trash from a moving car yesterday.,297,That is infuriating. I dont see how some people are so unaware.,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:8986_conv:17972,3,furious,I saw someone throw trash from a moving car yesterday.,332,I know_comma_ right? I wish I got their license plate. I would've reported them.,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:8986_conv:17972,4,furious,I saw someone throw trash from a moving car yesterday.,297,I feel you. Some people just suck.,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:9116_conv:18233,1,ashamed,I ate my son's birthday ice cream cake.  I feel so guilty for my behavior.,322,I ate my son's birthday ice cream cake.,4|4|5_4|5|5,,4.0,4.0,5.0,4.0,5.0,5.0
-hit:9116_conv:18233,2,ashamed,I ate my son's birthday ice cream cake.  I feel so guilty for my behavior.,126,I love ice cream cake_comma_ did you enjoy it?,4|4|5_4|5|5,,4.0,4.0,5.0,4.0,5.0,5.0
-hit:9116_conv:18233,3,ashamed,I ate my son's birthday ice cream cake.  I feel so guilty for my behavior.,322,Yes_comma_ but I feel so guilty for my behavior. ,4|4|5_4|5|5,,4.0,4.0,5.0,4.0,5.0,5.0
-hit:9116_conv:18233,4,ashamed,I ate my son's birthday ice cream cake.  I feel so guilty for my behavior.,126,Its just cake_comma_ there will always be another cake,4|4|5_4|5|5,,4.0,4.0,5.0,4.0,5.0,5.0
-hit:9349_conv:18698,1,embarrassed,I had a huge mustard stain on my shirt all day at work. And none of my coworkers let me know about it!,366,I felt so bad when I got home from work because I saw a huge mustard stain on my shirt!,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:9349_conv:18698,2,embarrassed,I had a huge mustard stain on my shirt all day at work. And none of my coworkers let me know about it!,55,Aw that's the worst_comma_ especially when the clothes are new!,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:9349_conv:18698,3,embarrassed,I had a huge mustard stain on my shirt all day at work. And none of my coworkers let me know about it!,366,Yes! I couldn't believe that none of my coworkers were willing to let me know about it.,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:9349_conv:18698,4,embarrassed,I had a huge mustard stain on my shirt all day at work. And none of my coworkers let me know about it!,55,That's pretty annoying that nobody told you!,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:9988_conv:19976,1,terrified,I was so scared to go on my first roller coaster. I am deathly afraid of heights.,209,I was so afraid to go on my first roller coaster this year. ,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:9988_conv:19976,2,terrified,I was so scared to go on my first roller coaster. I am deathly afraid of heights.,670,Did you have fun? It's always great to face your fears!,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:9988_conv:19976,3,terrified,I was so scared to go on my first roller coaster. I am deathly afraid of heights.,209,I did! But it was so hard overcoming my fear of heights. I thought I was going to die on the way up!,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:9988_conv:19976,4,terrified,I was so scared to go on my first roller coaster. I am deathly afraid of heights.,670,Yay! I always find myself really nervous before the ride_comma_ but once I'm off of it_comma_ I want to go again! ,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:1490_conv:2981,1,guilty,I felt bad when I lied to a cousin about missing his wedding. I made up an excuse,126,I felt bad when I lied to my cousin. I mad up an excuse when I missed his wedding,4|5|4_5|5|5,,4.0,5.0,4.0,5.0,5.0,5.0
-hit:1490_conv:2981,2,guilty,I felt bad when I lied to a cousin about missing his wedding. I made up an excuse,209,Dang_comma_ that's kinda hurtful. Why did you miss the wedding?,4|5|4_5|5|5,,4.0,5.0,4.0,5.0,5.0,5.0
-hit:1490_conv:2981,3,guilty,I felt bad when I lied to a cousin about missing his wedding. I made up an excuse,126,I was hungover and sick,4|5|4_5|5|5,,4.0,5.0,4.0,5.0,5.0,5.0
-hit:1490_conv:2981,4,guilty,I felt bad when I lied to a cousin about missing his wedding. I made up an excuse,209,I've had those days before. I would just take it as a lesson and try to control your drinking next time when important events are in the near future.,4|5|4_5|5|5,,4.0,5.0,4.0,5.0,5.0,5.0
-hit:1502_conv:3005,1,disgusted,I saw a piece of dried poop in my closet that I had no clue about. My dog sure is sneaky.,269,I saw a piece of dried poop in my closet that I had no clue about. My dog sure is sneaky,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:1502_conv:3005,2,disgusted,I saw a piece of dried poop in my closet that I had no clue about. My dog sure is sneaky.,209,I have a pesky_comma_ sneaky little dog like that too! Did you clean it up?,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:1502_conv:3005,3,disgusted,I saw a piece of dried poop in my closet that I had no clue about. My dog sure is sneaky.,269,Of course_comma_ I picked it up and sprayed some disinfectant in the area.,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:1502_conv:3005,4,disgusted,I saw a piece of dried poop in my closet that I had no clue about. My dog sure is sneaky.,209,That's good. Was she guilty when she saw you cleaning it up?,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:2097_conv:4194,1,angry,My husband's sister was living with us. She was acting rude_comma_ and we ended up kicking her out. ,152,My husband's sister was living with us. She was acting rude so we had to kick her out.,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:2097_conv:4194,2,angry,My husband's sister was living with us. She was acting rude_comma_ and we ended up kicking her out. ,13,Oh no that is terrible. Are you guys still talking now?,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:2097_conv:4194,3,angry,My husband's sister was living with us. She was acting rude_comma_ and we ended up kicking her out. ,152,No not at all it's a little tense.,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:2097_conv:4194,4,angry,My husband's sister was living with us. She was acting rude_comma_ and we ended up kicking her out. ,13,Well that is not good. What did she do that was so bad?,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:2097_conv:4194,5,angry,My husband's sister was living with us. She was acting rude_comma_ and we ended up kicking her out. ,152,She wanted to try to use all of the money she had saved up (only a few hundred after two months) to go visit a friend in California even though she was supposed to be saving up for her own place or school_comma_ and when we said no she started insulting us. ,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:3104_conv:6209,1,annoyed,My cat threw up a hairball on my bed yesterday. I was so peeved at her.,209,My cat threw up a hairball on bed yesterday. I was so peeved!,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:3104_conv:6209,2,annoyed,My cat threw up a hairball on my bed yesterday. I was so peeved at her.,27,Those are so gross.,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:3104_conv:6209,3,annoyed,My cat threw up a hairball on my bed yesterday. I was so peeved at her.,209,I know! I was almost too afraid to pick it to throw it away.,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:3104_conv:6209,4,annoyed,My cat threw up a hairball on my bed yesterday. I was so peeved at her.,27,Did you put the cat in time out?,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:3931_conv:7863,1,embarrassed,I stole alcohol from my dad and got caught_comma_ I'm ashamed.,220,I stole alcohol from my dad and was caught and decided to lie instead of confessing. I'm ashamed.,5|5|5_4|5|5,,5.0,5.0,5.0,4.0,5.0,5.0
-hit:3931_conv:7863,2,embarrassed,I stole alcohol from my dad and got caught_comma_ I'm ashamed.,478,Hey it's ok. We all do stupid things when we are young. ,5|5|5_4|5|5,,5.0,5.0,5.0,4.0,5.0,5.0
-hit:3931_conv:7863,3,embarrassed,I stole alcohol from my dad and got caught_comma_ I'm ashamed.,220,Yeah but I don't know if he's ever gonna talk to me again.,5|5|5_4|5|5,,5.0,5.0,5.0,4.0,5.0,5.0
-hit:3931_conv:7863,4,embarrassed,I stole alcohol from my dad and got caught_comma_ I'm ashamed.,478,Give it time. I'm sure he will come around. ,5|5|5_4|5|5,,5.0,5.0,5.0,4.0,5.0,5.0
-hit:3961_conv:7922,1,devastated,I lost my ipad the other day. I can't believe it. I think it was stolen,27,I lost my ipad the othe day,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:3961_conv:7922,2,devastated,I lost my ipad the other day. I can't believe it. I think it was stolen,220,Have you found it?,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:3961_conv:7922,3,devastated,I lost my ipad the other day. I can't believe it. I think it was stolen,27,No I think it was stolen. We went to the park and i dont know what happened.,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:3961_conv:7922,4,devastated,I lost my ipad the other day. I can't believe it. I think it was stolen,220,It very well could have been. I'm sorry_comma_ that sucks.,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:3961_conv:7922,5,devastated,I lost my ipad the other day. I can't believe it. I think it was stolen,27,IT does. I am wondering if it will turn up. Trying to be optimistic,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:4090_conv:8181,1,embarrassed,I forgot my wallet in the car and took like 200 dollars worth of clothes to the counter at macys,262,I took like 200 dollars worth of clothes to the counter at macys,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:4090_conv:8181,2,embarrassed,I forgot my wallet in the car and took like 200 dollars worth of clothes to the counter at macys,448,Wow_comma_ and you just walked out the store with them?,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:4090_conv:8181,3,embarrassed,I forgot my wallet in the car and took like 200 dollars worth of clothes to the counter at macys,262,I left my wallet. I was so embarassed I didnt go back after I made it to the counter.,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:4090_conv:8181,4,embarrassed,I forgot my wallet in the car and took like 200 dollars worth of clothes to the counter at macys,448,Oh_comma_ I thought you stole them_comma_ but I've done that before too. Not to that extent though.,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:4090_conv:8181,5,embarrassed,I forgot my wallet in the car and took like 200 dollars worth of clothes to the counter at macys,262,Lol I didn't steal them... not this time,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:4233_conv:8466,1,disappointed,I asked my brother to bring me a gift from his trip. He didn't bring anything.,7,I asked my brother to bring me a gift from his trip. He didn't bring anything.,5|5|5_4|4|5,,5.0,5.0,5.0,4.0,4.0,5.0
-hit:4233_conv:8466,2,disappointed,I asked my brother to bring me a gift from his trip. He didn't bring anything.,322,I'm sorry to hear that.  Maybe next time?,5|5|5_4|4|5,,5.0,5.0,5.0,4.0,4.0,5.0
-hit:4233_conv:8466,3,disappointed,I asked my brother to bring me a gift from his trip. He didn't bring anything.,7,I don't know. He disappointed me.,5|5|5_4|4|5,,5.0,5.0,5.0,4.0,4.0,5.0
-hit:4233_conv:8466,4,disappointed,I asked my brother to bring me a gift from his trip. He didn't bring anything.,322,I hope you feel better about it.,5|5|5_4|4|5,,5.0,5.0,5.0,4.0,4.0,5.0
-hit:4345_conv:8691,1,annoyed,My mom makes me babysit my nephew all the time. I am sick of it. He is a brat.,243,My mom makes me babysit my nephew all the time.,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:4345_conv:8691,2,annoyed,My mom makes me babysit my nephew all the time. I am sick of it. He is a brat.,284,I would not want to be in your position it's ok to help but all the time it can be dreadful. ,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:4345_conv:8691,3,annoyed,My mom makes me babysit my nephew all the time. I am sick of it. He is a brat.,243,I am sick of it. He is a brat.,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:4345_conv:8691,4,annoyed,My mom makes me babysit my nephew all the time. I am sick of it. He is a brat.,284,It will get better put your foot down and maybe say no in a nice way to not step on any ones toes.,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:4722_conv:9445,1,sad,Robin williams was my hero_comma_ still so sad he passed,271,i miss robin williams so much,5|5|4_5|5|5,,5.0,5.0,4.0,5.0,5.0,5.0
-hit:4722_conv:9445,2,sad,Robin williams was my hero_comma_ still so sad he passed,10,I get that_comma_ he was a very funny fellow_comma_ sad story,5|5|4_5|5|5,,5.0,5.0,4.0,5.0,5.0,5.0
-hit:4722_conv:9445,3,sad,Robin williams was my hero_comma_ still so sad he passed,271,i grew up watchim him,5|5|4_5|5|5,,5.0,5.0,4.0,5.0,5.0,5.0
-hit:4722_conv:9445,4,sad,Robin williams was my hero_comma_ still so sad he passed,10,I did not really_comma_ so I see how you would be more attached,5|5|4_5|5|5,,5.0,5.0,4.0,5.0,5.0,5.0
-hit:4844_conv:9689,1,disappointed,I found out that the vacation I planned for had to be cancelled. My friend got sick and is not able to go with me.,282,I found out that I had to cancel my vacation.  I am pretty bummed.,5|5|5_4|4|5,,5.0,5.0,5.0,4.0,4.0,5.0
-hit:4844_conv:9689,2,disappointed,I found out that the vacation I planned for had to be cancelled. My friend got sick and is not able to go with me.,44,that is awful_comma_ hopefully you can plan another one soon,5|5|5_4|4|5,,5.0,5.0,5.0,4.0,4.0,5.0
-hit:4844_conv:9689,3,disappointed,I found out that the vacation I planned for had to be cancelled. My friend got sick and is not able to go with me.,282,I hope so.  My friend had to back out at the last minute_comma_ so my plans had to change. ,5|5|5_4|4|5,,5.0,5.0,5.0,4.0,4.0,5.0
-hit:4844_conv:9689,4,disappointed,I found out that the vacation I planned for had to be cancelled. My friend got sick and is not able to go with me.,44,im sorry_comma_ thats the worst,5|5|5_4|4|5,,5.0,5.0,5.0,4.0,4.0,5.0
-hit:5323_conv:10646,1,ashamed,I was ashamed that I failed my LSAT and couldn't get into law school so I had to rethink what I wanted to do. ,164,I'm so upset and embarrassed that I failed my LSATs and now I can't get into law school. ,2|4|5_5|5|5,,2.0,4.0,5.0,5.0,5.0,5.0
-hit:5323_conv:10646,2,ashamed,I was ashamed that I failed my LSAT and couldn't get into law school so I had to rethink what I wanted to do. ,244,Can you re-take the test?,2|4|5_5|5|5,,2.0,4.0,5.0,5.0,5.0,5.0
-hit:5323_conv:10646,3,ashamed,I was ashamed that I failed my LSAT and couldn't get into law school so I had to rethink what I wanted to do. ,164,I can but it's only given a few times a year and the next one isn't for another 4 months. ,2|4|5_5|5|5,,2.0,4.0,5.0,5.0,5.0,5.0
-hit:5323_conv:10646,4,ashamed,I was ashamed that I failed my LSAT and couldn't get into law school so I had to rethink what I wanted to do. ,244,Ouch that's bad.  Study hard. I'm sure youll do better next time,2|4|5_5|5|5,,2.0,4.0,5.0,5.0,5.0,5.0
-hit:5574_conv:11149,1,ashamed,I should be helping chip in on a friend's birthday_comma_ but I only put in $5.,1,I should be helping chip in on a friend's birthday_comma_ but I only put in $5,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:5574_conv:11149,2,ashamed,I should be helping chip in on a friend's birthday_comma_ but I only put in $5.,284,Atleast you gave something it's the thought that counts right.,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:5574_conv:11149,3,ashamed,I should be helping chip in on a friend's birthday_comma_ but I only put in $5.,1,I wish I could give more. ,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:5574_conv:11149,4,ashamed,I should be helping chip in on a friend's birthday_comma_ but I only put in $5.,284,As long as she knows where your intentions are the amount doesn't matter we all wish we can do more but we do what we can don't be down.,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:5579_conv:11158,1,disappointed,came home to find my leftovers gone,514,i was thinking about my leftover Chinese food_comma_ came home and someone had eaten it,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:5579_conv:11158,2,disappointed,came home to find my leftovers gone,139,I hate it when that happens. You should get a lock for the fridge.,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:5579_conv:11158,3,disappointed,came home to find my leftovers gone,514,yeah i though about it,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:5579_conv:11158,4,disappointed,came home to find my leftovers gone,139,Some people just have no consideration. You deserve to eat your leftover Chinese.,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:6053_conv:12106,1,jealous,I'm jealous of my friend's new house.  For his age_comma_ it's really nice!,448,I'm jealous of my friend's new house. For his age_comma_ it's really nice!,4|4|5_4|4|4,,4.0,4.0,5.0,4.0,4.0,4.0
-hit:6053_conv:12106,2,jealous,I'm jealous of my friend's new house.  For his age_comma_ it's really nice!,25,how old is he or she?,4|4|5_4|4|4,,4.0,4.0,5.0,4.0,4.0,4.0
-hit:6053_conv:12106,3,jealous,I'm jealous of my friend's new house.  For his age_comma_ it's really nice!,448,He's 25_comma_ and the house is at least 250k!,4|4|5_4|4|4,,4.0,4.0,5.0,4.0,4.0,4.0
-hit:6053_conv:12106,4,jealous,I'm jealous of my friend's new house.  For his age_comma_ it's really nice!,25,he must be a great achiever,4|4|5_4|4|4,,4.0,4.0,5.0,4.0,4.0,4.0
-hit:6367_conv:12734,1,furious,My daughter is at the age where she lies about everything,27,MY daughter lies about everything now,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:6367_conv:12734,2,furious,My daughter is at the age where she lies about everything,117,Raising children is hard_comma_ to say the least. What did she lie about most recently?,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:6367_conv:12734,3,furious,My daughter is at the age where she lies about everything,27,being asleep. The are also dumb lies lol,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:6367_conv:12734,4,furious,My daughter is at the age where she lies about everything,117,Well that's a relief. It actually sounds fairly amusing!,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:6367_conv:12734,5,furious,My daughter is at the age where she lies about everything,27,Sometimes I jst shake my head lol,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:6613_conv:13226,1,sad,I do not want my vacation to end. I would like to stay here forever,506,I do not want my vacation to end.,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:6613_conv:13226,2,sad,I do not want my vacation to end. I would like to stay here forever,271,where are you vacationing,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:6613_conv:13226,3,sad,I do not want my vacation to end. I would like to stay here forever,506,I am in Bali_comma_ I would like to stay here forever_comma_ I will shed some tears for sure.,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:6613_conv:13226,4,sad,I do not want my vacation to end. I would like to stay here forever,271,OMG my dream vacation,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:6759_conv:13519,1,sad,When my father went into hospital_comma_ after he fell down the stairs_comma_ we had no idea he had cancer.,577,It was terminal_comma_ and the doctor said they caught it too late.,3|3|4_5|5|5,,3.0,3.0,4.0,5.0,5.0,5.0
-hit:6759_conv:13519,2,sad,When my father went into hospital_comma_ after he fell down the stairs_comma_ we had no idea he had cancer.,247,What?! Are you sick or your family member?,3|3|4_5|5|5,,3.0,3.0,4.0,5.0,5.0,5.0
-hit:6759_conv:13519,3,sad,When my father went into hospital_comma_ after he fell down the stairs_comma_ we had no idea he had cancer.,577,It was my father who was sick. He passed not too long ago.,3|3|4_5|5|5,,3.0,3.0,4.0,5.0,5.0,5.0
-hit:6759_conv:13519,4,sad,When my father went into hospital_comma_ after he fell down the stairs_comma_ we had no idea he had cancer.,247,Oh no_comma_ I'm so sorry to hear that_comma_ it must have been hard on you,3|3|4_5|5|5,,3.0,3.0,4.0,5.0,5.0,5.0
-hit:8012_conv:16024,1,disgusted,I took a bus trip to Philadelphia today. It seemed like they hadn't ever remembered to actually clean the bus. The floors were all sticky and there was a bad smell permiating the entire bus.,217,I took a bus trip to Philadelphia today. The bus was totally gross. There was sticky stuff on the floors and there was a horrible smell too.,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:8012_conv:16024,2,disgusted,I took a bus trip to Philadelphia today. It seemed like they hadn't ever remembered to actually clean the bus. The floors were all sticky and there was a bad smell permiating the entire bus.,616,Oh that sounds horrible. I hope it wasn't a long ride on the bus. ,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:8012_conv:16024,3,disgusted,I took a bus trip to Philadelphia today. It seemed like they hadn't ever remembered to actually clean the bus. The floors were all sticky and there was a bad smell permiating the entire bus.,217,It was about 4 hours lots of time to enjoy it.,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:8012_conv:16024,4,disgusted,I took a bus trip to Philadelphia today. It seemed like they hadn't ever remembered to actually clean the bus. The floors were all sticky and there was a bad smell permiating the entire bus.,616,Oh no_comma_ that is a long time to be sitting in trash basically.,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:8290_conv:16581,1,anxious,waiting for my new car to arrive,514,my new 2018 subaru WRX is going to be delivered today!! i CANT WAIT!!,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:8290_conv:16581,2,anxious,waiting for my new car to arrive,448,Woohoo! That sounds like it'll be a blast to drive!,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:8290_conv:16581,3,anxious,waiting for my new car to arrive,514,it is so much fun! ,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:8290_conv:16581,4,anxious,waiting for my new car to arrive,448,Just make sure you drive safely! :),5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:8311_conv:16622,1,jealous,I'm jealous with people who have a washer and dryer.  Going to the laundromat stinks!,448,I'm jealous with people who have a washer and dryer. Going to the laundromat stinks!,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:8311_conv:16622,2,jealous,I'm jealous with people who have a washer and dryer.  Going to the laundromat stinks!,27,I know. I just went yesterday!,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:8311_conv:16622,3,jealous,I'm jealous with people who have a washer and dryer.  Going to the laundromat stinks!,448,It's such a hassle_comma_ would be nice just to walk into the other room and do it!,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:8311_conv:16622,4,jealous,I'm jealous with people who have a washer and dryer.  Going to the laundromat stinks!,27,I can't wait to move and have a hook up.,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:9338_conv:18676,1,devastated,I met this girl on Tinder this one time. She was really into me but then she randomly denied the hell outta me.,55,I met this girl on Tinder one time and she gave me such mixed signals.,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:9338_conv:18676,2,devastated,I met this girl on Tinder this one time. She was really into me but then she randomly denied the hell outta me.,469,haha_comma_ welcome to Tinder! It's the app of mixed signals. Did things work out finally?,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:9338_conv:18676,3,devastated,I met this girl on Tinder this one time. She was really into me but then she randomly denied the hell outta me.,55,Not really_comma_ but I got used to it ahaha.,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:9338_conv:18676,4,devastated,I met this girl on Tinder this one time. She was really into me but then she randomly denied the hell outta me.,469,Yeah_comma_ usually you just move on. There are plenty more fish in the sea!,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:9772_conv:19545,1,afraid,Amusement park this weekend,389,Man this weekend might be weird,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:9772_conv:19545,2,afraid,Amusement park this weekend,119,Why weird,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:9772_conv:19545,3,afraid,Amusement park this weekend,389,We're taking the kids to the amusement park and I'm scared of the coasters haha,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:9772_conv:19545,4,afraid,Amusement park this weekend,119,Oh haha well that'll be interesting...at least the kids will feel good that they were braver than Mommy hahaha,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:9772_conv:19545,5,afraid,Amusement park this weekend,389,I guess I just need to try one.  I still haven't rode on one.,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:10145_conv:20290,1,apprehensive,About a year ago_comma_ I was about to run my first 50 mile race.  I had broken my toe a few weeks prior and was very nervous that it wasn't going to hold up through the race.,609,Last year I was about to run my first 50 mile race.  I had broken my toes a few weeks before and wasn't sure I was going to make it.,4|5|5_5|5|5,,4.0,5.0,5.0,5.0,5.0,5.0
-hit:10145_conv:20290,2,apprehensive,About a year ago_comma_ I was about to run my first 50 mile race.  I had broken my toe a few weeks prior and was very nervous that it wasn't going to hold up through the race.,290,Ouch_comma_ that's unfortunate. Hopefully it turned out okay though?,4|5|5_5|5|5,,4.0,5.0,5.0,5.0,5.0,5.0
-hit:10145_conv:20290,3,apprehensive,About a year ago_comma_ I was about to run my first 50 mile race.  I had broken my toe a few weeks prior and was very nervous that it wasn't going to hold up through the race.,609,It did_comma_ thankfully I had listened to my doctor's recommendations and it healed up just enough.  It was still a pretty nerve wracking start though.,4|5|5_5|5|5,,4.0,5.0,5.0,5.0,5.0,5.0
-hit:10145_conv:20290,4,apprehensive,About a year ago_comma_ I was about to run my first 50 mile race.  I had broken my toe a few weeks prior and was very nervous that it wasn't going to hold up through the race.,290,I can imagine_comma_ talk about bad timing injuring your toes!,4|5|5_5|5|5,,4.0,5.0,5.0,5.0,5.0,5.0
-hit:10264_conv:20529,1,apprehensive,I remember when I was younger_comma_ our teachers would provide us with pancakes every Tuesday. I miss those days.,631,I miss the good old days when we would be given pancakes on Tuesdays at school. I loved pancake Tuesdays. ,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:10264_conv:20529,2,apprehensive,I remember when I was younger_comma_ our teachers would provide us with pancakes every Tuesday. I miss those days.,77,Mmm that sounds delicious. There is always time to make pancake Tuesdays at home!,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:10264_conv:20529,3,apprehensive,I remember when I was younger_comma_ our teachers would provide us with pancakes every Tuesday. I miss those days.,631,Haha yeah_comma_ but it doesn't feel the same because I miss being able to enjoy it with all my classmates. It was always a great time full of laughter and chatter,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:10264_conv:20529,4,apprehensive,I remember when I was younger_comma_ our teachers would provide us with pancakes every Tuesday. I miss those days.,77,I see_comma_ memories will always stay_comma_ sometimes good old days just can't come back.,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:11090_conv:22181,1,ashamed,Back in the school_comma_ I got zero in one of the important exam. Everyone expected that I would at least pass. I was embarrassed at that time,261,Back in the school_comma_ I got zero marks in one of the important exam,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:11090_conv:22181,2,ashamed,Back in the school_comma_ I got zero in one of the important exam. Everyone expected that I would at least pass. I was embarrassed at that time,479,Oh no sorry to hear that _comma_ were you able to retake it?,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:11090_conv:22181,3,ashamed,Back in the school_comma_ I got zero in one of the important exam. Everyone expected that I would at least pass. I was embarrassed at that time,261,Yes_comma_ but at that time everyone expected that I would at least pass. I was very embarrassed at that time,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:11090_conv:22181,4,ashamed,Back in the school_comma_ I got zero in one of the important exam. Everyone expected that I would at least pass. I was embarrassed at that time,479,I can only imagine. Its one of those things that would embarass anyone but it happens to us all at some time,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:11786_conv:23572,1,anxious,I kept thinking I had left the front door unlocked whilst I was on vacation,59,I kept thinking I had left the front door unlocked whilst I was on vacation!,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:11786_conv:23572,2,anxious,I kept thinking I had left the front door unlocked whilst I was on vacation,139,That is a terrible feeling. I saw a movie where a family actually left their kid at home. That would be the worst.,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:11786_conv:23572,3,anxious,I kept thinking I had left the front door unlocked whilst I was on vacation,59,Sounds like Home Alone! Yes I was so anxious the entire time that I could not even enjoy myself.,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:11786_conv:23572,4,anxious,I kept thinking I had left the front door unlocked whilst I was on vacation,139,Well I hope everything turned out ok. Maybe you can send a friend to check your door.,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:11794_conv:23589,1,disappointed,I am not happy with how the Eagles played yesterday_comma_ they lost to the browns of all teams,10,5,5|3|4_5|3|3,<UNIGRAM> <NUMERAL>,5.0,3.0,4.0,5.0,3.0,3.0
-hit:11794_conv:23589,2,disappointed,I am not happy with how the Eagles played yesterday_comma_ they lost to the browns of all teams,748,Interesting...lol,5|3|4_5|3|3,<UNIGRAM>,5.0,3.0,4.0,5.0,3.0,3.0
-hit:11794_conv:23589,3,disappointed,I am not happy with how the Eagles played yesterday_comma_ they lost to the browns of all teams,10,I am not happy with how the Eagles played yesterday_comma_ they lost to the browns of all teams- by 5 points_comma_ 5-0_comma_ what a lame game,5|3|4_5|3|3,,5.0,3.0,4.0,5.0,3.0,3.0
-hit:11794_conv:23589,4,disappointed,I am not happy with how the Eagles played yesterday_comma_ they lost to the browns of all teams,748,I can't believe i made this much money with bitcoin.,5|3|4_5|3|3,,5.0,3.0,4.0,5.0,3.0,3.0
-hit:12267_conv:24535,1,anxious,I am expecting a very big settlement. I can not wait,524,I am expecting a settlement i cant wait,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:12267_conv:24535,2,anxious,I am expecting a very big settlement. I can not wait,438,Nice!  Hope something horrible didn't happen to you just to get it.  You getting a lot?,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:12267_conv:24535,3,anxious,I am expecting a very big settlement. I can not wait,524,it is supposed to be half a million_comma_ a sewage pipe busted over me while i was in a store,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:12267_conv:24535,4,anxious,I am expecting a very big settlement. I can not wait,438,Wow!  That seems worth it!!!!  Wish it had happened to me! ha ha.  Hope you're healthy still and congratulations!,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:12276_conv:24553,1,devastated,Our little chihuahua was diagnosed with an auto-immune disease.  She got pancreatitis last August and then passed away in February.,56,Our little chihuahua was diagnosed with an auto-immune disease when she was just a puppy.,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:12276_conv:24553,2,devastated,Our little chihuahua was diagnosed with an auto-immune disease.  She got pancreatitis last August and then passed away in February.,277,Oh no!  Were you able to take care of him with medicine or treatments?,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:12276_conv:24553,3,devastated,Our little chihuahua was diagnosed with an auto-immune disease.  She got pancreatitis last August and then passed away in February.,56,Yes_comma_ for about 6 years.  Then she got pancreatitis and kinda went downhill from there.  We just lost her in February.,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
-hit:12276_conv:24553,4,devastated,Our little chihuahua was diagnosed with an auto-immune disease.  She got pancreatitis last August and then passed away in February.,277,I'm so sorry!  I know how hard it is to lose a pet!  I hope you are not sad for too long.  It sounds like you did everything you could to give it a great life. ,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0
+conv_id,utterance_idx,context,prompt,speaker_idx,utterance,selfeval,tags,empathy1,relevance1,fluency1,empathy2,relevance2,fluency2,full_conversation,response_length
+hit:401_conv:803,1,anxious,The result of my final college exams was to be published the next day_comma_I could hardly sleep due to expectations,25,The night WS the longest to me back then_comma_eager to know my score!,4|3|4_2|4|3,,4.0,3.0,4.0,2.0,4.0,3.0,"Seeker: The result of my final college exams was to be published the next day_comma_I could hardly sleep due to expectations 
+ Seeker: The night WS the longest to me back then_comma_eager to know my score! 
+ Supporter: Did you think you did well? 
+ Seeker: Sure_comma_I put in my best ! I was positive! 
+ Supporter: That's awesome! It can be nerve racking 
+",13
+hit:401_conv:803,2,anxious,The result of my final college exams was to be published the next day_comma_I could hardly sleep due to expectations,135,Did you think you did well?,4|3|4_2|4|3,,4.0,3.0,4.0,2.0,4.0,3.0,"Seeker: The result of my final college exams was to be published the next day_comma_I could hardly sleep due to expectations 
+ Seeker: The night WS the longest to me back then_comma_eager to know my score! 
+ Supporter: Did you think you did well? 
+ Seeker: Sure_comma_I put in my best ! I was positive! 
+ Supporter: That's awesome! It can be nerve racking 
+",13
+hit:401_conv:803,3,anxious,The result of my final college exams was to be published the next day_comma_I could hardly sleep due to expectations,25,Sure_comma_I put in my best ! I was positive!,4|3|4_2|4|3,,4.0,3.0,4.0,2.0,4.0,3.0,"Seeker: The result of my final college exams was to be published the next day_comma_I could hardly sleep due to expectations 
+ Seeker: The night WS the longest to me back then_comma_eager to know my score! 
+ Supporter: Did you think you did well? 
+ Seeker: Sure_comma_I put in my best ! I was positive! 
+ Supporter: That's awesome! It can be nerve racking 
+",13
+hit:401_conv:803,4,anxious,The result of my final college exams was to be published the next day_comma_I could hardly sleep due to expectations,135,That's awesome! It can be nerve racking,4|3|4_2|4|3,,4.0,3.0,4.0,2.0,4.0,3.0,"Seeker: The result of my final college exams was to be published the next day_comma_I could hardly sleep due to expectations 
+ Seeker: The night WS the longest to me back then_comma_eager to know my score! 
+ Supporter: Did you think you did well? 
+ Seeker: Sure_comma_I put in my best ! I was positive! 
+ Supporter: That's awesome! It can be nerve racking 
+",13
+hit:478_conv:956,1,afraid,when i was going for an interview i was so afraid as i could not tell the end results,171,it was just yesterday when i was going for an interview and personally i was so afraid because i did not know what were the end results,3|4|5_4|4|3,,3.0,4.0,5.0,4.0,4.0,3.0,"Seeker: when i was going for an interview i was so afraid as i could not tell the end results 
+ Seeker: it was just yesterday when i was going for an interview and personally i was so afraid because i did not know what were the end results 
+ Supporter: Yea I know how you feel_comma_ you just feel like you are in purgatory waiting for your demise. 
+ Seeker: actually i woke up early in the morning and prepared my self fully for the task ahead of me 
+ Supporter: Yea but i mean afterwards you dont know if you passed the interview 
+ Seeker: i just received a call that i did good in my interview and i qualified to work with them. this made me so happy 
+",31
+hit:478_conv:956,2,afraid,when i was going for an interview i was so afraid as i could not tell the end results,63,Yea I know how you feel_comma_ you just feel like you are in purgatory waiting for your demise.,3|4|5_4|4|3,,3.0,4.0,5.0,4.0,4.0,3.0,"Seeker: when i was going for an interview i was so afraid as i could not tell the end results 
+ Seeker: it was just yesterday when i was going for an interview and personally i was so afraid because i did not know what were the end results 
+ Supporter: Yea I know how you feel_comma_ you just feel like you are in purgatory waiting for your demise. 
+ Seeker: actually i woke up early in the morning and prepared my self fully for the task ahead of me 
+ Supporter: Yea but i mean afterwards you dont know if you passed the interview 
+ Seeker: i just received a call that i did good in my interview and i qualified to work with them. this made me so happy 
+",31
+hit:478_conv:956,3,afraid,when i was going for an interview i was so afraid as i could not tell the end results,171,actually i woke up early in the morning and prepared my self fully for the task ahead of me,3|4|5_4|4|3,,3.0,4.0,5.0,4.0,4.0,3.0,"Seeker: when i was going for an interview i was so afraid as i could not tell the end results 
+ Seeker: it was just yesterday when i was going for an interview and personally i was so afraid because i did not know what were the end results 
+ Supporter: Yea I know how you feel_comma_ you just feel like you are in purgatory waiting for your demise. 
+ Seeker: actually i woke up early in the morning and prepared my self fully for the task ahead of me 
+ Supporter: Yea but i mean afterwards you dont know if you passed the interview 
+ Seeker: i just received a call that i did good in my interview and i qualified to work with them. this made me so happy 
+",31
+hit:478_conv:956,4,afraid,when i was going for an interview i was so afraid as i could not tell the end results,63,Yea but i mean afterwards you dont know if you passed the interview,3|4|5_4|4|3,,3.0,4.0,5.0,4.0,4.0,3.0,"Seeker: when i was going for an interview i was so afraid as i could not tell the end results 
+ Seeker: it was just yesterday when i was going for an interview and personally i was so afraid because i did not know what were the end results 
+ Supporter: Yea I know how you feel_comma_ you just feel like you are in purgatory waiting for your demise. 
+ Seeker: actually i woke up early in the morning and prepared my self fully for the task ahead of me 
+ Supporter: Yea but i mean afterwards you dont know if you passed the interview 
+ Seeker: i just received a call that i did good in my interview and i qualified to work with them. this made me so happy 
+",31
+hit:478_conv:956,5,afraid,when i was going for an interview i was so afraid as i could not tell the end results,171,i just received a call that i did good in my interview and i qualified to work with them. this made me so happy,3|4|5_4|4|3,,3.0,4.0,5.0,4.0,4.0,3.0,"Seeker: when i was going for an interview i was so afraid as i could not tell the end results 
+ Seeker: it was just yesterday when i was going for an interview and personally i was so afraid because i did not know what were the end results 
+ Supporter: Yea I know how you feel_comma_ you just feel like you are in purgatory waiting for your demise. 
+ Seeker: actually i woke up early in the morning and prepared my self fully for the task ahead of me 
+ Supporter: Yea but i mean afterwards you dont know if you passed the interview 
+ Seeker: i just received a call that i did good in my interview and i qualified to work with them. this made me so happy 
+",31
+hit:887_conv:1775,1,jealous,I felt really left out when my friends went to a theme park without me. It really bothers me that they didn't even tell me they were going. I really wish I could have gone,251,My friends left me to go to the theme park. I feel really left out. ,3|5|5_5|5|5,,3.0,5.0,5.0,5.0,5.0,5.0,"Seeker: I felt really left out when my friends went to a theme park without me. It really bothers me that they didn't even tell me they were going. I really wish I could have gone 
+ Seeker: My friends left me to go to the theme park. I feel really left out.  
+ Supporter: You still consider them your friends after that? 
+ Seeker: I've been friends with them for a long time_comma_ but I don't know they never even told me. 
+ Supporter: That's messed up. 
+",11
+hit:887_conv:1775,2,jealous,I felt really left out when my friends went to a theme park without me. It really bothers me that they didn't even tell me they were going. I really wish I could have gone,250,You still consider them your friends after that?,3|5|5_5|5|5,,3.0,5.0,5.0,5.0,5.0,5.0,"Seeker: I felt really left out when my friends went to a theme park without me. It really bothers me that they didn't even tell me they were going. I really wish I could have gone 
+ Seeker: My friends left me to go to the theme park. I feel really left out.  
+ Supporter: You still consider them your friends after that? 
+ Seeker: I've been friends with them for a long time_comma_ but I don't know they never even told me. 
+ Supporter: That's messed up. 
+",11
+hit:887_conv:1775,3,jealous,I felt really left out when my friends went to a theme park without me. It really bothers me that they didn't even tell me they were going. I really wish I could have gone,251,I've been friends with them for a long time_comma_ but I don't know they never even told me.,3|5|5_5|5|5,,3.0,5.0,5.0,5.0,5.0,5.0,"Seeker: I felt really left out when my friends went to a theme park without me. It really bothers me that they didn't even tell me they were going. I really wish I could have gone 
+ Seeker: My friends left me to go to the theme park. I feel really left out.  
+ Supporter: You still consider them your friends after that? 
+ Seeker: I've been friends with them for a long time_comma_ but I don't know they never even told me. 
+ Supporter: That's messed up. 
+",11
+hit:887_conv:1775,4,jealous,I felt really left out when my friends went to a theme park without me. It really bothers me that they didn't even tell me they were going. I really wish I could have gone,250,That's messed up.,3|5|5_5|5|5,,3.0,5.0,5.0,5.0,5.0,5.0,"Seeker: I felt really left out when my friends went to a theme park without me. It really bothers me that they didn't even tell me they were going. I really wish I could have gone 
+ Seeker: My friends left me to go to the theme park. I feel really left out.  
+ Supporter: You still consider them your friends after that? 
+ Seeker: I've been friends with them for a long time_comma_ but I don't know they never even told me. 
+ Supporter: That's messed up. 
+",11
+hit:965_conv:1930,1,afraid,I saw a shark in the water last week.,4,I saw a shark in the water last week.,5|5|5_3|4|4,,5.0,5.0,5.0,3.0,4.0,4.0,"Seeker: I saw a shark in the water last week. 
+ Seeker: I saw a shark in the water last week. 
+ Supporter: Were you afraid or thrilled or both? 
+ Seeker: I was afraid. 
+ Supporter: Were you in the water? 
+",12
+hit:965_conv:1930,2,afraid,I saw a shark in the water last week.,226,Were you afraid or thrilled or both?,5|5|5_3|4|4,,5.0,5.0,5.0,3.0,4.0,4.0,"Seeker: I saw a shark in the water last week. 
+ Seeker: I saw a shark in the water last week. 
+ Supporter: Were you afraid or thrilled or both? 
+ Seeker: I was afraid. 
+ Supporter: Were you in the water? 
+",12
+hit:965_conv:1930,3,afraid,I saw a shark in the water last week.,4,I was afraid.,5|5|5_3|4|4,,5.0,5.0,5.0,3.0,4.0,4.0,"Seeker: I saw a shark in the water last week. 
+ Seeker: I saw a shark in the water last week. 
+ Supporter: Were you afraid or thrilled or both? 
+ Seeker: I was afraid. 
+ Supporter: Were you in the water? 
+",12
+hit:965_conv:1930,4,afraid,I saw a shark in the water last week.,226,Were you in the water?,5|5|5_3|4|4,,5.0,5.0,5.0,3.0,4.0,4.0,"Seeker: I saw a shark in the water last week. 
+ Seeker: I saw a shark in the water last week. 
+ Supporter: Were you afraid or thrilled or both? 
+ Seeker: I was afraid. 
+ Supporter: Were you in the water? 
+",12
+hit:3379_conv:6758,1,ashamed,During a work meeting_comma_ I was presenting and then suddenly my pant dropped. I felt so bad.,7,During a work meeting_comma_ I was presenting and then suddenly my pant dropped. I felt so bad.,5|5|5_3|3|4,,5.0,5.0,5.0,3.0,3.0,4.0,"Seeker: During a work meeting_comma_ I was presenting and then suddenly my pant dropped. I felt so bad. 
+ Seeker: During a work meeting_comma_ I was presenting and then suddenly my pant dropped. I felt so bad. 
+ Supporter: Oh my gosh. Why did your pants fall? 
+ Seeker: The pant button broke. After it felt. I was holding it up with my hands. 
+ Supporter: Were you able to laugh it off or were you so mortified you wanted to crawl out of the room? 
+",28
+hit:3379_conv:6758,2,ashamed,During a work meeting_comma_ I was presenting and then suddenly my pant dropped. I felt so bad.,226,Oh my gosh. Why did your pants fall?,5|5|5_3|3|4,,5.0,5.0,5.0,3.0,3.0,4.0,"Seeker: During a work meeting_comma_ I was presenting and then suddenly my pant dropped. I felt so bad. 
+ Seeker: During a work meeting_comma_ I was presenting and then suddenly my pant dropped. I felt so bad. 
+ Supporter: Oh my gosh. Why did your pants fall? 
+ Seeker: The pant button broke. After it felt. I was holding it up with my hands. 
+ Supporter: Were you able to laugh it off or were you so mortified you wanted to crawl out of the room? 
+",28
+hit:3379_conv:6758,3,ashamed,During a work meeting_comma_ I was presenting and then suddenly my pant dropped. I felt so bad.,7,The pant button broke. After it felt. I was holding it up with my hands.,5|5|5_3|3|4,,5.0,5.0,5.0,3.0,3.0,4.0,"Seeker: During a work meeting_comma_ I was presenting and then suddenly my pant dropped. I felt so bad. 
+ Seeker: During a work meeting_comma_ I was presenting and then suddenly my pant dropped. I felt so bad. 
+ Supporter: Oh my gosh. Why did your pants fall? 
+ Seeker: The pant button broke. After it felt. I was holding it up with my hands. 
+ Supporter: Were you able to laugh it off or were you so mortified you wanted to crawl out of the room? 
+",28
+hit:3379_conv:6758,4,ashamed,During a work meeting_comma_ I was presenting and then suddenly my pant dropped. I felt so bad.,226,Were you able to laugh it off or were you so mortified you wanted to crawl out of the room?,5|5|5_3|3|4,,5.0,5.0,5.0,3.0,3.0,4.0,"Seeker: During a work meeting_comma_ I was presenting and then suddenly my pant dropped. I felt so bad. 
+ Seeker: During a work meeting_comma_ I was presenting and then suddenly my pant dropped. I felt so bad. 
+ Supporter: Oh my gosh. Why did your pants fall? 
+ Seeker: The pant button broke. After it felt. I was holding it up with my hands. 
+ Supporter: Were you able to laugh it off or were you so mortified you wanted to crawl out of the room? 
+",28
+hit:3636_conv:7272,1,anxious,I hate being in public by myself. It gets me super nervous and I turn bright red.,269,I hate being in public by myself. It gets me super nervous and I turn bright red.,5|5|5_2|4|5,,5.0,5.0,5.0,2.0,4.0,5.0,"Seeker: I hate being in public by myself. It gets me super nervous and I turn bright red. 
+ Seeker: I hate being in public by myself. It gets me super nervous and I turn bright red. 
+ Supporter: Oh_comma_ that must be so stressful. Does it happen all the time - like even at the grocery store? 
+ Seeker: Sometimes_comma_ only when I am by myself. I am just an anxious person in general so there's that. 
+ Supporter: Do you have someone to go places with you? Or do you just have to power through it? 
+",37
+hit:3636_conv:7272,2,anxious,I hate being in public by myself. It gets me super nervous and I turn bright red.,462,Oh_comma_ that must be so stressful. Does it happen all the time - like even at the grocery store?,5|5|5_2|4|5,,5.0,5.0,5.0,2.0,4.0,5.0,"Seeker: I hate being in public by myself. It gets me super nervous and I turn bright red. 
+ Seeker: I hate being in public by myself. It gets me super nervous and I turn bright red. 
+ Supporter: Oh_comma_ that must be so stressful. Does it happen all the time - like even at the grocery store? 
+ Seeker: Sometimes_comma_ only when I am by myself. I am just an anxious person in general so there's that. 
+ Supporter: Do you have someone to go places with you? Or do you just have to power through it? 
+",37
+hit:3636_conv:7272,3,anxious,I hate being in public by myself. It gets me super nervous and I turn bright red.,269,Sometimes_comma_ only when I am by myself. I am just an anxious person in general so there's that.,5|5|5_2|4|5,,5.0,5.0,5.0,2.0,4.0,5.0,"Seeker: I hate being in public by myself. It gets me super nervous and I turn bright red. 
+ Seeker: I hate being in public by myself. It gets me super nervous and I turn bright red. 
+ Supporter: Oh_comma_ that must be so stressful. Does it happen all the time - like even at the grocery store? 
+ Seeker: Sometimes_comma_ only when I am by myself. I am just an anxious person in general so there's that. 
+ Supporter: Do you have someone to go places with you? Or do you just have to power through it? 
+",37
+hit:3636_conv:7272,4,anxious,I hate being in public by myself. It gets me super nervous and I turn bright red.,462,Do you have someone to go places with you? Or do you just have to power through it?,5|5|5_2|4|5,,5.0,5.0,5.0,2.0,4.0,5.0,"Seeker: I hate being in public by myself. It gets me super nervous and I turn bright red. 
+ Seeker: I hate being in public by myself. It gets me super nervous and I turn bright red. 
+ Supporter: Oh_comma_ that must be so stressful. Does it happen all the time - like even at the grocery store? 
+ Seeker: Sometimes_comma_ only when I am by myself. I am just an anxious person in general so there's that. 
+ Supporter: Do you have someone to go places with you? Or do you just have to power through it? 
+",37
+hit:7112_conv:14224,1,afraid,When my mom was in the ER,516,Last week my mom was in the ER_comma_ it was a horrible feeling,3|4|5_5|5|5,,3.0,4.0,5.0,5.0,5.0,5.0,"Seeker: When my mom was in the ER 
+ Seeker: Last week my mom was in the ER_comma_ it was a horrible feeling 
+ Supporter: wow thats so horrible 
+ Seeker: Yes_comma_ and I don't know how it will all pay out 
+ Supporter: hopefully well 
+ Seeker: I gues so 
+",6
+hit:7112_conv:14224,2,afraid,When my mom was in the ER,63,wow thats so horrible,3|4|5_5|5|5,,3.0,4.0,5.0,5.0,5.0,5.0,"Seeker: When my mom was in the ER 
+ Seeker: Last week my mom was in the ER_comma_ it was a horrible feeling 
+ Supporter: wow thats so horrible 
+ Seeker: Yes_comma_ and I don't know how it will all pay out 
+ Supporter: hopefully well 
+ Seeker: I gues so 
+",6
+hit:7112_conv:14224,3,afraid,When my mom was in the ER,516,Yes_comma_ and I don't know how it will all pay out,3|4|5_5|5|5,,3.0,4.0,5.0,5.0,5.0,5.0,"Seeker: When my mom was in the ER 
+ Seeker: Last week my mom was in the ER_comma_ it was a horrible feeling 
+ Supporter: wow thats so horrible 
+ Seeker: Yes_comma_ and I don't know how it will all pay out 
+ Supporter: hopefully well 
+ Seeker: I gues so 
+",6
+hit:7112_conv:14224,4,afraid,When my mom was in the ER,63,hopefully well,3|4|5_5|5|5,,3.0,4.0,5.0,5.0,5.0,5.0,"Seeker: When my mom was in the ER 
+ Seeker: Last week my mom was in the ER_comma_ it was a horrible feeling 
+ Supporter: wow thats so horrible 
+ Seeker: Yes_comma_ and I don't know how it will all pay out 
+ Supporter: hopefully well 
+ Seeker: I gues so 
+",6
+hit:7112_conv:14224,5,afraid,When my mom was in the ER,516,I gues so,3|4|5_5|5|5,,3.0,4.0,5.0,5.0,5.0,5.0,"Seeker: When my mom was in the ER 
+ Seeker: Last week my mom was in the ER_comma_ it was a horrible feeling 
+ Supporter: wow thats so horrible 
+ Seeker: Yes_comma_ and I don't know how it will all pay out 
+ Supporter: hopefully well 
+ Seeker: I gues so 
+",6
+hit:8681_conv:17362,1,embarrassed,I farted at work today. I never have been mortified in my life.,209,I let out a moist_comma_ warm fart today in front of all of my co-workers today.,5|5|5_2|3|4,,5.0,5.0,5.0,2.0,3.0,4.0,"Seeker: I farted at work today. I never have been mortified in my life. 
+ Seeker: I let out a moist_comma_ warm fart today in front of all of my co-workers today. 
+ Supporter: You must be very comfortable in your office! How did they react? 
+ Seeker: Some ran away in terror. Others in disgust. I think I sent one to the ER even. At any rate_comma_ I was mortified and I am sure I won't ever live this tragedy down. 
+ Supporter: I am sorry that you now live in infamy. Maybe_comma_ with time_comma_ they can learn to forgive you. 
+",30
+hit:8681_conv:17362,2,embarrassed,I farted at work today. I never have been mortified in my life.,117,You must be very comfortable in your office! How did they react?,5|5|5_2|3|4,,5.0,5.0,5.0,2.0,3.0,4.0,"Seeker: I farted at work today. I never have been mortified in my life. 
+ Seeker: I let out a moist_comma_ warm fart today in front of all of my co-workers today. 
+ Supporter: You must be very comfortable in your office! How did they react? 
+ Seeker: Some ran away in terror. Others in disgust. I think I sent one to the ER even. At any rate_comma_ I was mortified and I am sure I won't ever live this tragedy down. 
+ Supporter: I am sorry that you now live in infamy. Maybe_comma_ with time_comma_ they can learn to forgive you. 
+",30
+hit:8681_conv:17362,3,embarrassed,I farted at work today. I never have been mortified in my life.,209,Some ran away in terror. Others in disgust. I think I sent one to the ER even. At any rate_comma_ I was mortified and I am sure I won't ever live this tragedy down.,5|5|5_2|3|4,,5.0,5.0,5.0,2.0,3.0,4.0,"Seeker: I farted at work today. I never have been mortified in my life. 
+ Seeker: I let out a moist_comma_ warm fart today in front of all of my co-workers today. 
+ Supporter: You must be very comfortable in your office! How did they react? 
+ Seeker: Some ran away in terror. Others in disgust. I think I sent one to the ER even. At any rate_comma_ I was mortified and I am sure I won't ever live this tragedy down. 
+ Supporter: I am sorry that you now live in infamy. Maybe_comma_ with time_comma_ they can learn to forgive you. 
+",30
+hit:8681_conv:17362,4,embarrassed,I farted at work today. I never have been mortified in my life.,117,I am sorry that you now live in infamy. Maybe_comma_ with time_comma_ they can learn to forgive you.,5|5|5_2|3|4,,5.0,5.0,5.0,2.0,3.0,4.0,"Seeker: I farted at work today. I never have been mortified in my life. 
+ Seeker: I let out a moist_comma_ warm fart today in front of all of my co-workers today. 
+ Supporter: You must be very comfortable in your office! How did they react? 
+ Seeker: Some ran away in terror. Others in disgust. I think I sent one to the ER even. At any rate_comma_ I was mortified and I am sure I won't ever live this tragedy down. 
+ Supporter: I am sorry that you now live in infamy. Maybe_comma_ with time_comma_ they can learn to forgive you. 
+",30
+hit:11447_conv:22894,1,jealous,When I was in middle school my sister left for college. I visited her dorm room and it was so cool. I wanted to be in college too.,652,When I was in middle school_comma_ my older sister went to college_comma_ and I saw her dorm after she moved in.,1|2|5_4|4|4,,1.0,2.0,5.0,4.0,4.0,4.0,"Seeker: When I was in middle school my sister left for college. I visited her dorm room and it was so cool. I wanted to be in college too. 
+ Seeker: When I was in middle school_comma_ my older sister went to college_comma_ and I saw her dorm after she moved in. 
+ Supporter: What was it like I have always wanted to live in a dorm and go to colledge? 
+ Seeker: It was so cool. I really wanted to go to college just like her. 
+ Supporter: Well you should have why didn't you? 
+ Seeker: I was still in middle school! I wasn't old enough_comma_ but I really wished I could be there. 
+",24
+hit:11447_conv:22894,2,jealous,When I was in middle school my sister left for college. I visited her dorm room and it was so cool. I wanted to be in college too.,650,What was it like I have always wanted to live in a dorm and go to colledge?,1|2|5_4|4|4,,1.0,2.0,5.0,4.0,4.0,4.0,"Seeker: When I was in middle school my sister left for college. I visited her dorm room and it was so cool. I wanted to be in college too. 
+ Seeker: When I was in middle school_comma_ my older sister went to college_comma_ and I saw her dorm after she moved in. 
+ Supporter: What was it like I have always wanted to live in a dorm and go to colledge? 
+ Seeker: It was so cool. I really wanted to go to college just like her. 
+ Supporter: Well you should have why didn't you? 
+ Seeker: I was still in middle school! I wasn't old enough_comma_ but I really wished I could be there. 
+",24
+hit:11447_conv:22894,3,jealous,When I was in middle school my sister left for college. I visited her dorm room and it was so cool. I wanted to be in college too.,652,It was so cool. I really wanted to go to college just like her.,1|2|5_4|4|4,,1.0,2.0,5.0,4.0,4.0,4.0,"Seeker: When I was in middle school my sister left for college. I visited her dorm room and it was so cool. I wanted to be in college too. 
+ Seeker: When I was in middle school_comma_ my older sister went to college_comma_ and I saw her dorm after she moved in. 
+ Supporter: What was it like I have always wanted to live in a dorm and go to colledge? 
+ Seeker: It was so cool. I really wanted to go to college just like her. 
+ Supporter: Well you should have why didn't you? 
+ Seeker: I was still in middle school! I wasn't old enough_comma_ but I really wished I could be there. 
+",24
+hit:11447_conv:22894,4,jealous,When I was in middle school my sister left for college. I visited her dorm room and it was so cool. I wanted to be in college too.,650,Well you should have why didn't you?,1|2|5_4|4|4,,1.0,2.0,5.0,4.0,4.0,4.0,"Seeker: When I was in middle school my sister left for college. I visited her dorm room and it was so cool. I wanted to be in college too. 
+ Seeker: When I was in middle school_comma_ my older sister went to college_comma_ and I saw her dorm after she moved in. 
+ Supporter: What was it like I have always wanted to live in a dorm and go to colledge? 
+ Seeker: It was so cool. I really wanted to go to college just like her. 
+ Supporter: Well you should have why didn't you? 
+ Seeker: I was still in middle school! I wasn't old enough_comma_ but I really wished I could be there. 
+",24
+hit:11447_conv:22894,5,jealous,When I was in middle school my sister left for college. I visited her dorm room and it was so cool. I wanted to be in college too.,652,I was still in middle school! I wasn't old enough_comma_ but I really wished I could be there.,1|2|5_4|4|4,,1.0,2.0,5.0,4.0,4.0,4.0,"Seeker: When I was in middle school my sister left for college. I visited her dorm room and it was so cool. I wanted to be in college too. 
+ Seeker: When I was in middle school_comma_ my older sister went to college_comma_ and I saw her dorm after she moved in. 
+ Supporter: What was it like I have always wanted to live in a dorm and go to colledge? 
+ Seeker: It was so cool. I really wanted to go to college just like her. 
+ Supporter: Well you should have why didn't you? 
+ Seeker: I was still in middle school! I wasn't old enough_comma_ but I really wished I could be there. 
+",24
+hit:12057_conv:24115,1,embarrassed,I accidentally dropped a dumbell on my toe at the gym. I felt so stupid.,53,I accidentally droped a dumbell on my toe at the gym. I felt so freaking stupid.,5|5|5_3|3|4,,5.0,5.0,5.0,3.0,3.0,4.0,"Seeker: I accidentally dropped a dumbell on my toe at the gym. I felt so stupid. 
+ Seeker: I accidentally droped a dumbell on my toe at the gym. I felt so freaking stupid. 
+ Supporter: Did it hurt though 
+ Seeker: Yeah it hurt and I was listening to music so I might have yelled a cuss word loudly. 
+ Supporter: I am sorry_comma_ I would cuss too if it happened to me 
+ Seeker: It hurt my pride more though lol 
+",16
+hit:12057_conv:24115,2,embarrassed,I accidentally dropped a dumbell on my toe at the gym. I felt so stupid.,126,Did it hurt though,5|5|5_3|3|4,,5.0,5.0,5.0,3.0,3.0,4.0,"Seeker: I accidentally dropped a dumbell on my toe at the gym. I felt so stupid. 
+ Seeker: I accidentally droped a dumbell on my toe at the gym. I felt so freaking stupid. 
+ Supporter: Did it hurt though 
+ Seeker: Yeah it hurt and I was listening to music so I might have yelled a cuss word loudly. 
+ Supporter: I am sorry_comma_ I would cuss too if it happened to me 
+ Seeker: It hurt my pride more though lol 
+",16
+hit:12057_conv:24115,3,embarrassed,I accidentally dropped a dumbell on my toe at the gym. I felt so stupid.,53,Yeah it hurt and I was listening to music so I might have yelled a cuss word loudly.,5|5|5_3|3|4,,5.0,5.0,5.0,3.0,3.0,4.0,"Seeker: I accidentally dropped a dumbell on my toe at the gym. I felt so stupid. 
+ Seeker: I accidentally droped a dumbell on my toe at the gym. I felt so freaking stupid. 
+ Supporter: Did it hurt though 
+ Seeker: Yeah it hurt and I was listening to music so I might have yelled a cuss word loudly. 
+ Supporter: I am sorry_comma_ I would cuss too if it happened to me 
+ Seeker: It hurt my pride more though lol 
+",16
+hit:12057_conv:24115,4,embarrassed,I accidentally dropped a dumbell on my toe at the gym. I felt so stupid.,126,I am sorry_comma_ I would cuss too if it happened to me,5|5|5_3|3|4,,5.0,5.0,5.0,3.0,3.0,4.0,"Seeker: I accidentally dropped a dumbell on my toe at the gym. I felt so stupid. 
+ Seeker: I accidentally droped a dumbell on my toe at the gym. I felt so freaking stupid. 
+ Supporter: Did it hurt though 
+ Seeker: Yeah it hurt and I was listening to music so I might have yelled a cuss word loudly. 
+ Supporter: I am sorry_comma_ I would cuss too if it happened to me 
+ Seeker: It hurt my pride more though lol 
+",16
+hit:12057_conv:24115,5,embarrassed,I accidentally dropped a dumbell on my toe at the gym. I felt so stupid.,53,It hurt my pride more though lol,5|5|5_3|3|4,,5.0,5.0,5.0,3.0,3.0,4.0,"Seeker: I accidentally dropped a dumbell on my toe at the gym. I felt so stupid. 
+ Seeker: I accidentally droped a dumbell on my toe at the gym. I felt so freaking stupid. 
+ Supporter: Did it hurt though 
+ Seeker: Yeah it hurt and I was listening to music so I might have yelled a cuss word loudly. 
+ Supporter: I am sorry_comma_ I would cuss too if it happened to me 
+ Seeker: It hurt my pride more though lol 
+",16
+hit:529_conv:1059,1,guilty,I ate the last one of my wife's favorite cookies.,167,I ate the last one of my wife's favorite cookies.,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: I ate the last one of my wife's favorite cookies. 
+ Seeker: I ate the last one of my wife's favorite cookies. 
+ Supporter: hahah yea i have done that more than once. 
+ Seeker: She was not happy after she told me to save her some. I could not resist. 
+ Supporter: what flavor was the cookie? 
+ Seeker: White chocolate macadamia. 
+",14
+hit:529_conv:1059,2,guilty,I ate the last one of my wife's favorite cookies.,175,hahah yea i have done that more than once.,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: I ate the last one of my wife's favorite cookies. 
+ Seeker: I ate the last one of my wife's favorite cookies. 
+ Supporter: hahah yea i have done that more than once. 
+ Seeker: She was not happy after she told me to save her some. I could not resist. 
+ Supporter: what flavor was the cookie? 
+ Seeker: White chocolate macadamia. 
+",14
+hit:529_conv:1059,3,guilty,I ate the last one of my wife's favorite cookies.,167,She was not happy after she told me to save her some. I could not resist.,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: I ate the last one of my wife's favorite cookies. 
+ Seeker: I ate the last one of my wife's favorite cookies. 
+ Supporter: hahah yea i have done that more than once. 
+ Seeker: She was not happy after she told me to save her some. I could not resist. 
+ Supporter: what flavor was the cookie? 
+ Seeker: White chocolate macadamia. 
+",14
+hit:529_conv:1059,4,guilty,I ate the last one of my wife's favorite cookies.,175,what flavor was the cookie?,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: I ate the last one of my wife's favorite cookies. 
+ Seeker: I ate the last one of my wife's favorite cookies. 
+ Supporter: hahah yea i have done that more than once. 
+ Seeker: She was not happy after she told me to save her some. I could not resist. 
+ Supporter: what flavor was the cookie? 
+ Seeker: White chocolate macadamia. 
+",14
+hit:529_conv:1059,5,guilty,I ate the last one of my wife's favorite cookies.,167,White chocolate macadamia.,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: I ate the last one of my wife's favorite cookies. 
+ Seeker: I ate the last one of my wife's favorite cookies. 
+ Supporter: hahah yea i have done that more than once. 
+ Seeker: She was not happy after she told me to save her some. I could not resist. 
+ Supporter: what flavor was the cookie? 
+ Seeker: White chocolate macadamia. 
+",14
+hit:1670_conv:3341,1,terrified,I was terrified when I heard a knock at my door late at night,267,I was terrified when I heard a knock at my door late at night,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: I was terrified when I heard a knock at my door late at night 
+ Seeker: I was terrified when I heard a knock at my door late at night 
+ Supporter: Who was it? 
+ Seeker: It was my neighbor letting me know I left the garage open 
+ Supporter: That was nice of them. 
+",8
+hit:1670_conv:3341,2,terrified,I was terrified when I heard a knock at my door late at night,4,Who was it?,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: I was terrified when I heard a knock at my door late at night 
+ Seeker: I was terrified when I heard a knock at my door late at night 
+ Supporter: Who was it? 
+ Seeker: It was my neighbor letting me know I left the garage open 
+ Supporter: That was nice of them. 
+",8
+hit:1670_conv:3341,3,terrified,I was terrified when I heard a knock at my door late at night,267,It was my neighbor letting me know I left the garage open,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: I was terrified when I heard a knock at my door late at night 
+ Seeker: I was terrified when I heard a knock at my door late at night 
+ Supporter: Who was it? 
+ Seeker: It was my neighbor letting me know I left the garage open 
+ Supporter: That was nice of them. 
+",8
+hit:1670_conv:3341,4,terrified,I was terrified when I heard a knock at my door late at night,4,That was nice of them.,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: I was terrified when I heard a knock at my door late at night 
+ Seeker: I was terrified when I heard a knock at my door late at night 
+ Supporter: Who was it? 
+ Seeker: It was my neighbor letting me know I left the garage open 
+ Supporter: That was nice of them. 
+",8
+hit:2088_conv:4177,1,embarrassed,I was at the store the other day and I bumped in to a wine rack and knocked over a bunch of bottles_comma_ and people were staring which was so embarrassing. ,152,I was shopping at the store the other day and I bumped into a rack and spilled wine bottles everywhere. Everyone was staring. ,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: I was at the store the other day and I bumped in to a wine rack and knocked over a bunch of bottles_comma_ and people were staring which was so embarrassing.  
+ Seeker: I was shopping at the store the other day and I bumped into a rack and spilled wine bottles everywhere. Everyone was staring.  
+ Supporter: Oh geez_comma_ that sounds pretty embarrassing. Did any of the bottles break? 
+ Seeker: No luckily haha but it made me blush for sure. 
+ Supporter: That's a shame. If they did_comma_ you could've reversed the situation and summoned everybody over to throw down and have a supremo wine fest. 
+",36
+hit:2088_conv:4177,2,embarrassed,I was at the store the other day and I bumped in to a wine rack and knocked over a bunch of bottles_comma_ and people were staring which was so embarrassing. ,209,Oh geez_comma_ that sounds pretty embarrassing. Did any of the bottles break?,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: I was at the store the other day and I bumped in to a wine rack and knocked over a bunch of bottles_comma_ and people were staring which was so embarrassing.  
+ Seeker: I was shopping at the store the other day and I bumped into a rack and spilled wine bottles everywhere. Everyone was staring.  
+ Supporter: Oh geez_comma_ that sounds pretty embarrassing. Did any of the bottles break? 
+ Seeker: No luckily haha but it made me blush for sure. 
+ Supporter: That's a shame. If they did_comma_ you could've reversed the situation and summoned everybody over to throw down and have a supremo wine fest. 
+",36
+hit:2088_conv:4177,3,embarrassed,I was at the store the other day and I bumped in to a wine rack and knocked over a bunch of bottles_comma_ and people were staring which was so embarrassing. ,152,No luckily haha but it made me blush for sure.,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: I was at the store the other day and I bumped in to a wine rack and knocked over a bunch of bottles_comma_ and people were staring which was so embarrassing.  
+ Seeker: I was shopping at the store the other day and I bumped into a rack and spilled wine bottles everywhere. Everyone was staring.  
+ Supporter: Oh geez_comma_ that sounds pretty embarrassing. Did any of the bottles break? 
+ Seeker: No luckily haha but it made me blush for sure. 
+ Supporter: That's a shame. If they did_comma_ you could've reversed the situation and summoned everybody over to throw down and have a supremo wine fest. 
+",36
+hit:2088_conv:4177,4,embarrassed,I was at the store the other day and I bumped in to a wine rack and knocked over a bunch of bottles_comma_ and people were staring which was so embarrassing. ,209,That's a shame. If they did_comma_ you could've reversed the situation and summoned everybody over to throw down and have a supremo wine fest.,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: I was at the store the other day and I bumped in to a wine rack and knocked over a bunch of bottles_comma_ and people were staring which was so embarrassing.  
+ Seeker: I was shopping at the store the other day and I bumped into a rack and spilled wine bottles everywhere. Everyone was staring.  
+ Supporter: Oh geez_comma_ that sounds pretty embarrassing. Did any of the bottles break? 
+ Seeker: No luckily haha but it made me blush for sure. 
+ Supporter: That's a shame. If they did_comma_ you could've reversed the situation and summoned everybody over to throw down and have a supremo wine fest. 
+",36
+hit:3735_conv:7470,1,sad,Yesterday my pet hamster died. He just turned two and was not moving very much. I was tearful when I felt his body and it was cold.,139,Yesterday my hamster passed away. He was barely two years old :(.,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: Yesterday my pet hamster died. He just turned two and was not moving very much. I was tearful when I felt his body and it was cold. 
+ Seeker: Yesterday my hamster passed away. He was barely two years old :(. 
+ Supporter: What was your hamster's name? 
+ Seeker: His name was Sparky. I reached into his cage to pick him up because he was not moving. His poor body was cold. I was so tearful. 
+ Supporter: Do you know what it was that happened to kill him? 
+",16
+hit:3735_conv:7470,2,sad,Yesterday my pet hamster died. He just turned two and was not moving very much. I was tearful when I felt his body and it was cold.,291,What was your hamster's name?,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: Yesterday my pet hamster died. He just turned two and was not moving very much. I was tearful when I felt his body and it was cold. 
+ Seeker: Yesterday my hamster passed away. He was barely two years old :(. 
+ Supporter: What was your hamster's name? 
+ Seeker: His name was Sparky. I reached into his cage to pick him up because he was not moving. His poor body was cold. I was so tearful. 
+ Supporter: Do you know what it was that happened to kill him? 
+",16
+hit:3735_conv:7470,3,sad,Yesterday my pet hamster died. He just turned two and was not moving very much. I was tearful when I felt his body and it was cold.,139,His name was Sparky. I reached into his cage to pick him up because he was not moving. His poor body was cold. I was so tearful.,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: Yesterday my pet hamster died. He just turned two and was not moving very much. I was tearful when I felt his body and it was cold. 
+ Seeker: Yesterday my hamster passed away. He was barely two years old :(. 
+ Supporter: What was your hamster's name? 
+ Seeker: His name was Sparky. I reached into his cage to pick him up because he was not moving. His poor body was cold. I was so tearful. 
+ Supporter: Do you know what it was that happened to kill him? 
+",16
+hit:3735_conv:7470,4,sad,Yesterday my pet hamster died. He just turned two and was not moving very much. I was tearful when I felt his body and it was cold.,291,Do you know what it was that happened to kill him?,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: Yesterday my pet hamster died. He just turned two and was not moving very much. I was tearful when I felt his body and it was cold. 
+ Seeker: Yesterday my hamster passed away. He was barely two years old :(. 
+ Supporter: What was your hamster's name? 
+ Seeker: His name was Sparky. I reached into his cage to pick him up because he was not moving. His poor body was cold. I was so tearful. 
+ Supporter: Do you know what it was that happened to kill him? 
+",16
+hit:4103_conv:8207,1,embarrassed,I walked around my office with my dress shoved in my underwear!,220,I can't believe I'm even sharing this with anyone because I want to forget it but earlier I was walking around the office with my dress shoved in my underwear!,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: I walked around my office with my dress shoved in my underwear! 
+ Seeker: I can't believe I'm even sharing this with anyone because I want to forget it but earlier I was walking around the office with my dress shoved in my underwear! 
+ Supporter: Oh man! I've been there. That is hard. I hope it wasn't too long! 
+ Seeker: I have no idea! I don't even know if anyone noticed because they didn't tell me! I figured it out myself when I went to the bathroom again. 
+ Supporter: Don't you hate that when people don't tell you? Well now you know your co-workers can't be trusted! But maybe they were busy and just didn't notice- which is goo! 
+ Seeker: You have a way of making me feel a little better_comma_ thank you! 
+ Supporter: Aw so sweet! Your very welcome. We've all been there! I completely understand. I don't think anyone saw :) 
+",63
+hit:4103_conv:8207,2,embarrassed,I walked around my office with my dress shoved in my underwear!,296,Oh man! I've been there. That is hard. I hope it wasn't too long!,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: I walked around my office with my dress shoved in my underwear! 
+ Seeker: I can't believe I'm even sharing this with anyone because I want to forget it but earlier I was walking around the office with my dress shoved in my underwear! 
+ Supporter: Oh man! I've been there. That is hard. I hope it wasn't too long! 
+ Seeker: I have no idea! I don't even know if anyone noticed because they didn't tell me! I figured it out myself when I went to the bathroom again. 
+ Supporter: Don't you hate that when people don't tell you? Well now you know your co-workers can't be trusted! But maybe they were busy and just didn't notice- which is goo! 
+ Seeker: You have a way of making me feel a little better_comma_ thank you! 
+ Supporter: Aw so sweet! Your very welcome. We've all been there! I completely understand. I don't think anyone saw :) 
+",63
+hit:4103_conv:8207,3,embarrassed,I walked around my office with my dress shoved in my underwear!,220,I have no idea! I don't even know if anyone noticed because they didn't tell me! I figured it out myself when I went to the bathroom again.,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: I walked around my office with my dress shoved in my underwear! 
+ Seeker: I can't believe I'm even sharing this with anyone because I want to forget it but earlier I was walking around the office with my dress shoved in my underwear! 
+ Supporter: Oh man! I've been there. That is hard. I hope it wasn't too long! 
+ Seeker: I have no idea! I don't even know if anyone noticed because they didn't tell me! I figured it out myself when I went to the bathroom again. 
+ Supporter: Don't you hate that when people don't tell you? Well now you know your co-workers can't be trusted! But maybe they were busy and just didn't notice- which is goo! 
+ Seeker: You have a way of making me feel a little better_comma_ thank you! 
+ Supporter: Aw so sweet! Your very welcome. We've all been there! I completely understand. I don't think anyone saw :) 
+",63
+hit:4103_conv:8207,4,embarrassed,I walked around my office with my dress shoved in my underwear!,296,Don't you hate that when people don't tell you? Well now you know your co-workers can't be trusted! But maybe they were busy and just didn't notice- which is goo!,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: I walked around my office with my dress shoved in my underwear! 
+ Seeker: I can't believe I'm even sharing this with anyone because I want to forget it but earlier I was walking around the office with my dress shoved in my underwear! 
+ Supporter: Oh man! I've been there. That is hard. I hope it wasn't too long! 
+ Seeker: I have no idea! I don't even know if anyone noticed because they didn't tell me! I figured it out myself when I went to the bathroom again. 
+ Supporter: Don't you hate that when people don't tell you? Well now you know your co-workers can't be trusted! But maybe they were busy and just didn't notice- which is goo! 
+ Seeker: You have a way of making me feel a little better_comma_ thank you! 
+ Supporter: Aw so sweet! Your very welcome. We've all been there! I completely understand. I don't think anyone saw :) 
+",63
+hit:4103_conv:8207,5,embarrassed,I walked around my office with my dress shoved in my underwear!,220,You have a way of making me feel a little better_comma_ thank you!,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: I walked around my office with my dress shoved in my underwear! 
+ Seeker: I can't believe I'm even sharing this with anyone because I want to forget it but earlier I was walking around the office with my dress shoved in my underwear! 
+ Supporter: Oh man! I've been there. That is hard. I hope it wasn't too long! 
+ Seeker: I have no idea! I don't even know if anyone noticed because they didn't tell me! I figured it out myself when I went to the bathroom again. 
+ Supporter: Don't you hate that when people don't tell you? Well now you know your co-workers can't be trusted! But maybe they were busy and just didn't notice- which is goo! 
+ Seeker: You have a way of making me feel a little better_comma_ thank you! 
+ Supporter: Aw so sweet! Your very welcome. We've all been there! I completely understand. I don't think anyone saw :) 
+",63
+hit:4103_conv:8207,6,embarrassed,I walked around my office with my dress shoved in my underwear!,296,Aw so sweet! Your very welcome. We've all been there! I completely understand. I don't think anyone saw :),5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: I walked around my office with my dress shoved in my underwear! 
+ Seeker: I can't believe I'm even sharing this with anyone because I want to forget it but earlier I was walking around the office with my dress shoved in my underwear! 
+ Supporter: Oh man! I've been there. That is hard. I hope it wasn't too long! 
+ Seeker: I have no idea! I don't even know if anyone noticed because they didn't tell me! I figured it out myself when I went to the bathroom again. 
+ Supporter: Don't you hate that when people don't tell you? Well now you know your co-workers can't be trusted! But maybe they were busy and just didn't notice- which is goo! 
+ Seeker: You have a way of making me feel a little better_comma_ thank you! 
+ Supporter: Aw so sweet! Your very welcome. We've all been there! I completely understand. I don't think anyone saw :) 
+",63
+hit:7797_conv:15594,1,terrified,Young children need to stay far away from me!,9,Kids need to stay away from me_comma_ they are too loud!,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: Young children need to stay far away from me! 
+ Seeker: Kids need to stay away from me_comma_ they are too loud! 
+ Supporter: That's funny! I agree and it's worse when they aren't your kids. 
+ Seeker: I dont even want my own kids. 
+ Supporter: To each their own. I have 3 and to be honest_comma_ I'm glad they are getting older. Babies suck.",31
+hit:7797_conv:15594,2,terrified,Young children need to stay far away from me!,53,That's funny! I agree and it's worse when they aren't your kids.,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: Young children need to stay far away from me! 
+ Seeker: Kids need to stay away from me_comma_ they are too loud! 
+ Supporter: That's funny! I agree and it's worse when they aren't your kids. 
+ Seeker: I dont even want my own kids. 
+ Supporter: To each their own. I have 3 and to be honest_comma_ I'm glad they are getting older. Babies suck.",31
+hit:7797_conv:15594,3,terrified,Young children need to stay far away from me!,9,I dont even want my own kids.,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: Young children need to stay far away from me! 
+ Seeker: Kids need to stay away from me_comma_ they are too loud! 
+ Supporter: That's funny! I agree and it's worse when they aren't your kids. 
+ Seeker: I dont even want my own kids. 
+ Supporter: To each their own. I have 3 and to be honest_comma_ I'm glad they are getting older. Babies suck.",31
+hit:7797_conv:15594,4,terrified,Young children need to stay far away from me!,53,To each their own. I have 3 and to be honest_comma_ I'm glad they are getting older. Babies suck.,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: Young children need to stay far away from me! 
+ Seeker: Kids need to stay away from me_comma_ they are too loud! 
+ Supporter: That's funny! I agree and it's worse when they aren't your kids. 
+ Seeker: I dont even want my own kids. 
+ Supporter: To each their own. I have 3 and to be honest_comma_ I'm glad they are getting older. Babies suck.",31
+hit:8986_conv:17972,1,furious,I saw someone throw trash from a moving car yesterday.,332,I saw someone throw some trash from a moving car yesterday. I was so angry.,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: I saw someone throw trash from a moving car yesterday. 
+ Seeker: I saw someone throw some trash from a moving car yesterday. I was so angry. 
+ Supporter: That is infuriating. I dont see how some people are so unaware. 
+ Seeker: I know_comma_ right? I wish I got their license plate. I would've reported them. 
+ Supporter: I feel you. Some people just suck. 
+",19
+hit:8986_conv:17972,2,furious,I saw someone throw trash from a moving car yesterday.,297,That is infuriating. I dont see how some people are so unaware.,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: I saw someone throw trash from a moving car yesterday. 
+ Seeker: I saw someone throw some trash from a moving car yesterday. I was so angry. 
+ Supporter: That is infuriating. I dont see how some people are so unaware. 
+ Seeker: I know_comma_ right? I wish I got their license plate. I would've reported them. 
+ Supporter: I feel you. Some people just suck. 
+",19
+hit:8986_conv:17972,3,furious,I saw someone throw trash from a moving car yesterday.,332,I know_comma_ right? I wish I got their license plate. I would've reported them.,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: I saw someone throw trash from a moving car yesterday. 
+ Seeker: I saw someone throw some trash from a moving car yesterday. I was so angry. 
+ Supporter: That is infuriating. I dont see how some people are so unaware. 
+ Seeker: I know_comma_ right? I wish I got their license plate. I would've reported them. 
+ Supporter: I feel you. Some people just suck. 
+",19
+hit:8986_conv:17972,4,furious,I saw someone throw trash from a moving car yesterday.,297,I feel you. Some people just suck.,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: I saw someone throw trash from a moving car yesterday. 
+ Seeker: I saw someone throw some trash from a moving car yesterday. I was so angry. 
+ Supporter: That is infuriating. I dont see how some people are so unaware. 
+ Seeker: I know_comma_ right? I wish I got their license plate. I would've reported them. 
+ Supporter: I feel you. Some people just suck. 
+",19
+hit:9116_conv:18233,1,ashamed,I ate my son's birthday ice cream cake.  I feel so guilty for my behavior.,322,I ate my son's birthday ice cream cake.,4|4|5_4|5|5,,4.0,4.0,5.0,4.0,5.0,5.0,"Seeker: I ate my son's birthday ice cream cake.  I feel so guilty for my behavior. 
+ Seeker: I ate my son's birthday ice cream cake. 
+ Supporter: I love ice cream cake_comma_ did you enjoy it? 
+ Seeker: Yes_comma_ but I feel so guilty for my behavior.  
+ Supporter: Its just cake_comma_ there will always be another cake 
+",18
+hit:9116_conv:18233,2,ashamed,I ate my son's birthday ice cream cake.  I feel so guilty for my behavior.,126,I love ice cream cake_comma_ did you enjoy it?,4|4|5_4|5|5,,4.0,4.0,5.0,4.0,5.0,5.0,"Seeker: I ate my son's birthday ice cream cake.  I feel so guilty for my behavior. 
+ Seeker: I ate my son's birthday ice cream cake. 
+ Supporter: I love ice cream cake_comma_ did you enjoy it? 
+ Seeker: Yes_comma_ but I feel so guilty for my behavior.  
+ Supporter: Its just cake_comma_ there will always be another cake 
+",18
+hit:9116_conv:18233,3,ashamed,I ate my son's birthday ice cream cake.  I feel so guilty for my behavior.,322,Yes_comma_ but I feel so guilty for my behavior. ,4|4|5_4|5|5,,4.0,4.0,5.0,4.0,5.0,5.0,"Seeker: I ate my son's birthday ice cream cake.  I feel so guilty for my behavior. 
+ Seeker: I ate my son's birthday ice cream cake. 
+ Supporter: I love ice cream cake_comma_ did you enjoy it? 
+ Seeker: Yes_comma_ but I feel so guilty for my behavior.  
+ Supporter: Its just cake_comma_ there will always be another cake 
+",18
+hit:9116_conv:18233,4,ashamed,I ate my son's birthday ice cream cake.  I feel so guilty for my behavior.,126,Its just cake_comma_ there will always be another cake,4|4|5_4|5|5,,4.0,4.0,5.0,4.0,5.0,5.0,"Seeker: I ate my son's birthday ice cream cake.  I feel so guilty for my behavior. 
+ Seeker: I ate my son's birthday ice cream cake. 
+ Supporter: I love ice cream cake_comma_ did you enjoy it? 
+ Seeker: Yes_comma_ but I feel so guilty for my behavior.  
+ Supporter: Its just cake_comma_ there will always be another cake 
+",18
+hit:9349_conv:18698,1,embarrassed,I had a huge mustard stain on my shirt all day at work. And none of my coworkers let me know about it!,366,I felt so bad when I got home from work because I saw a huge mustard stain on my shirt!,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: I had a huge mustard stain on my shirt all day at work. And none of my coworkers let me know about it! 
+ Seeker: I felt so bad when I got home from work because I saw a huge mustard stain on my shirt! 
+ Supporter: Aw that's the worst_comma_ especially when the clothes are new! 
+ Seeker: Yes! I couldn't believe that none of my coworkers were willing to let me know about it. 
+ Supporter: That's pretty annoying that nobody told you! 
+",17
+hit:9349_conv:18698,2,embarrassed,I had a huge mustard stain on my shirt all day at work. And none of my coworkers let me know about it!,55,Aw that's the worst_comma_ especially when the clothes are new!,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: I had a huge mustard stain on my shirt all day at work. And none of my coworkers let me know about it! 
+ Seeker: I felt so bad when I got home from work because I saw a huge mustard stain on my shirt! 
+ Supporter: Aw that's the worst_comma_ especially when the clothes are new! 
+ Seeker: Yes! I couldn't believe that none of my coworkers were willing to let me know about it. 
+ Supporter: That's pretty annoying that nobody told you! 
+",17
+hit:9349_conv:18698,3,embarrassed,I had a huge mustard stain on my shirt all day at work. And none of my coworkers let me know about it!,366,Yes! I couldn't believe that none of my coworkers were willing to let me know about it.,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: I had a huge mustard stain on my shirt all day at work. And none of my coworkers let me know about it! 
+ Seeker: I felt so bad when I got home from work because I saw a huge mustard stain on my shirt! 
+ Supporter: Aw that's the worst_comma_ especially when the clothes are new! 
+ Seeker: Yes! I couldn't believe that none of my coworkers were willing to let me know about it. 
+ Supporter: That's pretty annoying that nobody told you! 
+",17
+hit:9349_conv:18698,4,embarrassed,I had a huge mustard stain on my shirt all day at work. And none of my coworkers let me know about it!,55,That's pretty annoying that nobody told you!,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: I had a huge mustard stain on my shirt all day at work. And none of my coworkers let me know about it! 
+ Seeker: I felt so bad when I got home from work because I saw a huge mustard stain on my shirt! 
+ Supporter: Aw that's the worst_comma_ especially when the clothes are new! 
+ Seeker: Yes! I couldn't believe that none of my coworkers were willing to let me know about it. 
+ Supporter: That's pretty annoying that nobody told you! 
+",17
+hit:9988_conv:19976,1,terrified,I was so scared to go on my first roller coaster. I am deathly afraid of heights.,209,I was so afraid to go on my first roller coaster this year. ,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: I was so scared to go on my first roller coaster. I am deathly afraid of heights. 
+ Seeker: I was so afraid to go on my first roller coaster this year.  
+ Supporter: Did you have fun? It's always great to face your fears! 
+ Seeker: I did! But it was so hard overcoming my fear of heights. I thought I was going to die on the way up! 
+ Supporter: Yay! I always find myself really nervous before the ride_comma_ but once I'm off of it_comma_ I want to go again!  
+",32
+hit:9988_conv:19976,2,terrified,I was so scared to go on my first roller coaster. I am deathly afraid of heights.,670,Did you have fun? It's always great to face your fears!,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: I was so scared to go on my first roller coaster. I am deathly afraid of heights. 
+ Seeker: I was so afraid to go on my first roller coaster this year.  
+ Supporter: Did you have fun? It's always great to face your fears! 
+ Seeker: I did! But it was so hard overcoming my fear of heights. I thought I was going to die on the way up! 
+ Supporter: Yay! I always find myself really nervous before the ride_comma_ but once I'm off of it_comma_ I want to go again!  
+",32
+hit:9988_conv:19976,3,terrified,I was so scared to go on my first roller coaster. I am deathly afraid of heights.,209,I did! But it was so hard overcoming my fear of heights. I thought I was going to die on the way up!,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: I was so scared to go on my first roller coaster. I am deathly afraid of heights. 
+ Seeker: I was so afraid to go on my first roller coaster this year.  
+ Supporter: Did you have fun? It's always great to face your fears! 
+ Seeker: I did! But it was so hard overcoming my fear of heights. I thought I was going to die on the way up! 
+ Supporter: Yay! I always find myself really nervous before the ride_comma_ but once I'm off of it_comma_ I want to go again!  
+",32
+hit:9988_conv:19976,4,terrified,I was so scared to go on my first roller coaster. I am deathly afraid of heights.,670,Yay! I always find myself really nervous before the ride_comma_ but once I'm off of it_comma_ I want to go again! ,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: I was so scared to go on my first roller coaster. I am deathly afraid of heights. 
+ Seeker: I was so afraid to go on my first roller coaster this year.  
+ Supporter: Did you have fun? It's always great to face your fears! 
+ Seeker: I did! But it was so hard overcoming my fear of heights. I thought I was going to die on the way up! 
+ Supporter: Yay! I always find myself really nervous before the ride_comma_ but once I'm off of it_comma_ I want to go again!  
+",32
+hit:1490_conv:2981,1,guilty,I felt bad when I lied to a cousin about missing his wedding. I made up an excuse,126,I felt bad when I lied to my cousin. I mad up an excuse when I missed his wedding,4|5|4_5|5|5,,4.0,5.0,4.0,5.0,5.0,5.0,"Seeker: I felt bad when I lied to a cousin about missing his wedding. I made up an excuse 
+ Seeker: I felt bad when I lied to my cousin. I mad up an excuse when I missed his wedding 
+ Supporter: Dang_comma_ that's kinda hurtful. Why did you miss the wedding? 
+ Seeker: I was hungover and sick 
+ Supporter: I've had those days before. I would just take it as a lesson and try to control your drinking next time when important events are in the near future. 
+",39
+hit:1490_conv:2981,2,guilty,I felt bad when I lied to a cousin about missing his wedding. I made up an excuse,209,Dang_comma_ that's kinda hurtful. Why did you miss the wedding?,4|5|4_5|5|5,,4.0,5.0,4.0,5.0,5.0,5.0,"Seeker: I felt bad when I lied to a cousin about missing his wedding. I made up an excuse 
+ Seeker: I felt bad when I lied to my cousin. I mad up an excuse when I missed his wedding 
+ Supporter: Dang_comma_ that's kinda hurtful. Why did you miss the wedding? 
+ Seeker: I was hungover and sick 
+ Supporter: I've had those days before. I would just take it as a lesson and try to control your drinking next time when important events are in the near future. 
+",39
+hit:1490_conv:2981,3,guilty,I felt bad when I lied to a cousin about missing his wedding. I made up an excuse,126,I was hungover and sick,4|5|4_5|5|5,,4.0,5.0,4.0,5.0,5.0,5.0,"Seeker: I felt bad when I lied to a cousin about missing his wedding. I made up an excuse 
+ Seeker: I felt bad when I lied to my cousin. I mad up an excuse when I missed his wedding 
+ Supporter: Dang_comma_ that's kinda hurtful. Why did you miss the wedding? 
+ Seeker: I was hungover and sick 
+ Supporter: I've had those days before. I would just take it as a lesson and try to control your drinking next time when important events are in the near future. 
+",39
+hit:1490_conv:2981,4,guilty,I felt bad when I lied to a cousin about missing his wedding. I made up an excuse,209,I've had those days before. I would just take it as a lesson and try to control your drinking next time when important events are in the near future.,4|5|4_5|5|5,,4.0,5.0,4.0,5.0,5.0,5.0,"Seeker: I felt bad when I lied to a cousin about missing his wedding. I made up an excuse 
+ Seeker: I felt bad when I lied to my cousin. I mad up an excuse when I missed his wedding 
+ Supporter: Dang_comma_ that's kinda hurtful. Why did you miss the wedding? 
+ Seeker: I was hungover and sick 
+ Supporter: I've had those days before. I would just take it as a lesson and try to control your drinking next time when important events are in the near future. 
+",39
+hit:1502_conv:3005,1,disgusted,I saw a piece of dried poop in my closet that I had no clue about. My dog sure is sneaky.,269,I saw a piece of dried poop in my closet that I had no clue about. My dog sure is sneaky,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: I saw a piece of dried poop in my closet that I had no clue about. My dog sure is sneaky. 
+ Seeker: I saw a piece of dried poop in my closet that I had no clue about. My dog sure is sneaky 
+ Supporter: I have a pesky_comma_ sneaky little dog like that too! Did you clean it up? 
+ Seeker: Of course_comma_ I picked it up and sprayed some disinfectant in the area. 
+ Supporter: That's good. Was she guilty when she saw you cleaning it up? 
+",27
+hit:1502_conv:3005,2,disgusted,I saw a piece of dried poop in my closet that I had no clue about. My dog sure is sneaky.,209,I have a pesky_comma_ sneaky little dog like that too! Did you clean it up?,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: I saw a piece of dried poop in my closet that I had no clue about. My dog sure is sneaky. 
+ Seeker: I saw a piece of dried poop in my closet that I had no clue about. My dog sure is sneaky 
+ Supporter: I have a pesky_comma_ sneaky little dog like that too! Did you clean it up? 
+ Seeker: Of course_comma_ I picked it up and sprayed some disinfectant in the area. 
+ Supporter: That's good. Was she guilty when she saw you cleaning it up? 
+",27
+hit:1502_conv:3005,3,disgusted,I saw a piece of dried poop in my closet that I had no clue about. My dog sure is sneaky.,269,Of course_comma_ I picked it up and sprayed some disinfectant in the area.,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: I saw a piece of dried poop in my closet that I had no clue about. My dog sure is sneaky. 
+ Seeker: I saw a piece of dried poop in my closet that I had no clue about. My dog sure is sneaky 
+ Supporter: I have a pesky_comma_ sneaky little dog like that too! Did you clean it up? 
+ Seeker: Of course_comma_ I picked it up and sprayed some disinfectant in the area. 
+ Supporter: That's good. Was she guilty when she saw you cleaning it up? 
+",27
+hit:1502_conv:3005,4,disgusted,I saw a piece of dried poop in my closet that I had no clue about. My dog sure is sneaky.,209,That's good. Was she guilty when she saw you cleaning it up?,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: I saw a piece of dried poop in my closet that I had no clue about. My dog sure is sneaky. 
+ Seeker: I saw a piece of dried poop in my closet that I had no clue about. My dog sure is sneaky 
+ Supporter: I have a pesky_comma_ sneaky little dog like that too! Did you clean it up? 
+ Seeker: Of course_comma_ I picked it up and sprayed some disinfectant in the area. 
+ Supporter: That's good. Was she guilty when she saw you cleaning it up? 
+",27
+hit:2097_conv:4194,1,angry,My husband's sister was living with us. She was acting rude_comma_ and we ended up kicking her out. ,152,My husband's sister was living with us. She was acting rude so we had to kick her out.,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: My husband's sister was living with us. She was acting rude_comma_ and we ended up kicking her out.  
+ Seeker: My husband's sister was living with us. She was acting rude so we had to kick her out. 
+ Supporter: Oh no that is terrible. Are you guys still talking now? 
+ Seeker: No not at all it's a little tense. 
+ Supporter: Well that is not good. What did she do that was so bad? 
+ Seeker: She wanted to try to use all of the money she had saved up (only a few hundred after two months) to go visit a friend in California even though she was supposed to be saving up for her own place or school_comma_ and when we said no she started insulting us.  
+",24
+hit:2097_conv:4194,2,angry,My husband's sister was living with us. She was acting rude_comma_ and we ended up kicking her out. ,13,Oh no that is terrible. Are you guys still talking now?,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: My husband's sister was living with us. She was acting rude_comma_ and we ended up kicking her out.  
+ Seeker: My husband's sister was living with us. She was acting rude so we had to kick her out. 
+ Supporter: Oh no that is terrible. Are you guys still talking now? 
+ Seeker: No not at all it's a little tense. 
+ Supporter: Well that is not good. What did she do that was so bad? 
+ Seeker: She wanted to try to use all of the money she had saved up (only a few hundred after two months) to go visit a friend in California even though she was supposed to be saving up for her own place or school_comma_ and when we said no she started insulting us.  
+",24
+hit:2097_conv:4194,3,angry,My husband's sister was living with us. She was acting rude_comma_ and we ended up kicking her out. ,152,No not at all it's a little tense.,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: My husband's sister was living with us. She was acting rude_comma_ and we ended up kicking her out.  
+ Seeker: My husband's sister was living with us. She was acting rude so we had to kick her out. 
+ Supporter: Oh no that is terrible. Are you guys still talking now? 
+ Seeker: No not at all it's a little tense. 
+ Supporter: Well that is not good. What did she do that was so bad? 
+ Seeker: She wanted to try to use all of the money she had saved up (only a few hundred after two months) to go visit a friend in California even though she was supposed to be saving up for her own place or school_comma_ and when we said no she started insulting us.  
+",24
+hit:2097_conv:4194,4,angry,My husband's sister was living with us. She was acting rude_comma_ and we ended up kicking her out. ,13,Well that is not good. What did she do that was so bad?,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: My husband's sister was living with us. She was acting rude_comma_ and we ended up kicking her out.  
+ Seeker: My husband's sister was living with us. She was acting rude so we had to kick her out. 
+ Supporter: Oh no that is terrible. Are you guys still talking now? 
+ Seeker: No not at all it's a little tense. 
+ Supporter: Well that is not good. What did she do that was so bad? 
+ Seeker: She wanted to try to use all of the money she had saved up (only a few hundred after two months) to go visit a friend in California even though she was supposed to be saving up for her own place or school_comma_ and when we said no she started insulting us.  
+",24
+hit:2097_conv:4194,5,angry,My husband's sister was living with us. She was acting rude_comma_ and we ended up kicking her out. ,152,She wanted to try to use all of the money she had saved up (only a few hundred after two months) to go visit a friend in California even though she was supposed to be saving up for her own place or school_comma_ and when we said no she started insulting us. ,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: My husband's sister was living with us. She was acting rude_comma_ and we ended up kicking her out.  
+ Seeker: My husband's sister was living with us. She was acting rude so we had to kick her out. 
+ Supporter: Oh no that is terrible. Are you guys still talking now? 
+ Seeker: No not at all it's a little tense. 
+ Supporter: Well that is not good. What did she do that was so bad? 
+ Seeker: She wanted to try to use all of the money she had saved up (only a few hundred after two months) to go visit a friend in California even though she was supposed to be saving up for her own place or school_comma_ and when we said no she started insulting us.  
+",24
+hit:3104_conv:6209,1,annoyed,My cat threw up a hairball on my bed yesterday. I was so peeved at her.,209,My cat threw up a hairball on bed yesterday. I was so peeved!,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: My cat threw up a hairball on my bed yesterday. I was so peeved at her. 
+ Seeker: My cat threw up a hairball on bed yesterday. I was so peeved! 
+ Supporter: Those are so gross. 
+ Seeker: I know! I was almost too afraid to pick it to throw it away. 
+ Supporter: Did you put the cat in time out? 
+",12
+hit:3104_conv:6209,2,annoyed,My cat threw up a hairball on my bed yesterday. I was so peeved at her.,27,Those are so gross.,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: My cat threw up a hairball on my bed yesterday. I was so peeved at her. 
+ Seeker: My cat threw up a hairball on bed yesterday. I was so peeved! 
+ Supporter: Those are so gross. 
+ Seeker: I know! I was almost too afraid to pick it to throw it away. 
+ Supporter: Did you put the cat in time out? 
+",12
+hit:3104_conv:6209,3,annoyed,My cat threw up a hairball on my bed yesterday. I was so peeved at her.,209,I know! I was almost too afraid to pick it to throw it away.,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: My cat threw up a hairball on my bed yesterday. I was so peeved at her. 
+ Seeker: My cat threw up a hairball on bed yesterday. I was so peeved! 
+ Supporter: Those are so gross. 
+ Seeker: I know! I was almost too afraid to pick it to throw it away. 
+ Supporter: Did you put the cat in time out? 
+",12
+hit:3104_conv:6209,4,annoyed,My cat threw up a hairball on my bed yesterday. I was so peeved at her.,27,Did you put the cat in time out?,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: My cat threw up a hairball on my bed yesterday. I was so peeved at her. 
+ Seeker: My cat threw up a hairball on bed yesterday. I was so peeved! 
+ Supporter: Those are so gross. 
+ Seeker: I know! I was almost too afraid to pick it to throw it away. 
+ Supporter: Did you put the cat in time out? 
+",12
+hit:3931_conv:7863,1,embarrassed,I stole alcohol from my dad and got caught_comma_ I'm ashamed.,220,I stole alcohol from my dad and was caught and decided to lie instead of confessing. I'm ashamed.,5|5|5_4|5|5,,5.0,5.0,5.0,4.0,5.0,5.0,"Seeker: I stole alcohol from my dad and got caught_comma_ I'm ashamed. 
+ Seeker: I stole alcohol from my dad and was caught and decided to lie instead of confessing. I'm ashamed. 
+ Supporter: Hey it's ok. We all do stupid things when we are young.  
+ Seeker: Yeah but I don't know if he's ever gonna talk to me again. 
+ Supporter: Give it time. I'm sure he will come around.  
+",21
+hit:3931_conv:7863,2,embarrassed,I stole alcohol from my dad and got caught_comma_ I'm ashamed.,478,Hey it's ok. We all do stupid things when we are young. ,5|5|5_4|5|5,,5.0,5.0,5.0,4.0,5.0,5.0,"Seeker: I stole alcohol from my dad and got caught_comma_ I'm ashamed. 
+ Seeker: I stole alcohol from my dad and was caught and decided to lie instead of confessing. I'm ashamed. 
+ Supporter: Hey it's ok. We all do stupid things when we are young.  
+ Seeker: Yeah but I don't know if he's ever gonna talk to me again. 
+ Supporter: Give it time. I'm sure he will come around.  
+",21
+hit:3931_conv:7863,3,embarrassed,I stole alcohol from my dad and got caught_comma_ I'm ashamed.,220,Yeah but I don't know if he's ever gonna talk to me again.,5|5|5_4|5|5,,5.0,5.0,5.0,4.0,5.0,5.0,"Seeker: I stole alcohol from my dad and got caught_comma_ I'm ashamed. 
+ Seeker: I stole alcohol from my dad and was caught and decided to lie instead of confessing. I'm ashamed. 
+ Supporter: Hey it's ok. We all do stupid things when we are young.  
+ Seeker: Yeah but I don't know if he's ever gonna talk to me again. 
+ Supporter: Give it time. I'm sure he will come around.  
+",21
+hit:3931_conv:7863,4,embarrassed,I stole alcohol from my dad and got caught_comma_ I'm ashamed.,478,Give it time. I'm sure he will come around. ,5|5|5_4|5|5,,5.0,5.0,5.0,4.0,5.0,5.0,"Seeker: I stole alcohol from my dad and got caught_comma_ I'm ashamed. 
+ Seeker: I stole alcohol from my dad and was caught and decided to lie instead of confessing. I'm ashamed. 
+ Supporter: Hey it's ok. We all do stupid things when we are young.  
+ Seeker: Yeah but I don't know if he's ever gonna talk to me again. 
+ Supporter: Give it time. I'm sure he will come around.  
+",21
+hit:3961_conv:7922,1,devastated,I lost my ipad the other day. I can't believe it. I think it was stolen,27,I lost my ipad the othe day,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: I lost my ipad the other day. I can't believe it. I think it was stolen 
+ Seeker: I lost my ipad the othe day 
+ Supporter: Have you found it? 
+ Seeker: No I think it was stolen. We went to the park and i dont know what happened. 
+ Supporter: It very well could have been. I'm sorry_comma_ that sucks. 
+ Seeker: IT does. I am wondering if it will turn up. Trying to be optimistic 
+",14
+hit:3961_conv:7922,2,devastated,I lost my ipad the other day. I can't believe it. I think it was stolen,220,Have you found it?,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: I lost my ipad the other day. I can't believe it. I think it was stolen 
+ Seeker: I lost my ipad the othe day 
+ Supporter: Have you found it? 
+ Seeker: No I think it was stolen. We went to the park and i dont know what happened. 
+ Supporter: It very well could have been. I'm sorry_comma_ that sucks. 
+ Seeker: IT does. I am wondering if it will turn up. Trying to be optimistic 
+",14
+hit:3961_conv:7922,3,devastated,I lost my ipad the other day. I can't believe it. I think it was stolen,27,No I think it was stolen. We went to the park and i dont know what happened.,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: I lost my ipad the other day. I can't believe it. I think it was stolen 
+ Seeker: I lost my ipad the othe day 
+ Supporter: Have you found it? 
+ Seeker: No I think it was stolen. We went to the park and i dont know what happened. 
+ Supporter: It very well could have been. I'm sorry_comma_ that sucks. 
+ Seeker: IT does. I am wondering if it will turn up. Trying to be optimistic 
+",14
+hit:3961_conv:7922,4,devastated,I lost my ipad the other day. I can't believe it. I think it was stolen,220,It very well could have been. I'm sorry_comma_ that sucks.,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: I lost my ipad the other day. I can't believe it. I think it was stolen 
+ Seeker: I lost my ipad the othe day 
+ Supporter: Have you found it? 
+ Seeker: No I think it was stolen. We went to the park and i dont know what happened. 
+ Supporter: It very well could have been. I'm sorry_comma_ that sucks. 
+ Seeker: IT does. I am wondering if it will turn up. Trying to be optimistic 
+",14
+hit:3961_conv:7922,5,devastated,I lost my ipad the other day. I can't believe it. I think it was stolen,27,IT does. I am wondering if it will turn up. Trying to be optimistic,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: I lost my ipad the other day. I can't believe it. I think it was stolen 
+ Seeker: I lost my ipad the othe day 
+ Supporter: Have you found it? 
+ Seeker: No I think it was stolen. We went to the park and i dont know what happened. 
+ Supporter: It very well could have been. I'm sorry_comma_ that sucks. 
+ Seeker: IT does. I am wondering if it will turn up. Trying to be optimistic 
+",14
+hit:4090_conv:8181,1,embarrassed,I forgot my wallet in the car and took like 200 dollars worth of clothes to the counter at macys,262,I took like 200 dollars worth of clothes to the counter at macys,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: I forgot my wallet in the car and took like 200 dollars worth of clothes to the counter at macys 
+ Seeker: I took like 200 dollars worth of clothes to the counter at macys 
+ Supporter: Wow_comma_ and you just walked out the store with them? 
+ Seeker: I left my wallet. I was so embarassed I didnt go back after I made it to the counter. 
+ Supporter: Oh_comma_ I thought you stole them_comma_ but I've done that before too. Not to that extent though. 
+ Seeker: Lol I didn't steal them... not this time",27
+hit:4090_conv:8181,2,embarrassed,I forgot my wallet in the car and took like 200 dollars worth of clothes to the counter at macys,448,Wow_comma_ and you just walked out the store with them?,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: I forgot my wallet in the car and took like 200 dollars worth of clothes to the counter at macys 
+ Seeker: I took like 200 dollars worth of clothes to the counter at macys 
+ Supporter: Wow_comma_ and you just walked out the store with them? 
+ Seeker: I left my wallet. I was so embarassed I didnt go back after I made it to the counter. 
+ Supporter: Oh_comma_ I thought you stole them_comma_ but I've done that before too. Not to that extent though. 
+ Seeker: Lol I didn't steal them... not this time",27
+hit:4090_conv:8181,3,embarrassed,I forgot my wallet in the car and took like 200 dollars worth of clothes to the counter at macys,262,I left my wallet. I was so embarassed I didnt go back after I made it to the counter.,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: I forgot my wallet in the car and took like 200 dollars worth of clothes to the counter at macys 
+ Seeker: I took like 200 dollars worth of clothes to the counter at macys 
+ Supporter: Wow_comma_ and you just walked out the store with them? 
+ Seeker: I left my wallet. I was so embarassed I didnt go back after I made it to the counter. 
+ Supporter: Oh_comma_ I thought you stole them_comma_ but I've done that before too. Not to that extent though. 
+ Seeker: Lol I didn't steal them... not this time",27
+hit:4090_conv:8181,4,embarrassed,I forgot my wallet in the car and took like 200 dollars worth of clothes to the counter at macys,448,Oh_comma_ I thought you stole them_comma_ but I've done that before too. Not to that extent though.,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: I forgot my wallet in the car and took like 200 dollars worth of clothes to the counter at macys 
+ Seeker: I took like 200 dollars worth of clothes to the counter at macys 
+ Supporter: Wow_comma_ and you just walked out the store with them? 
+ Seeker: I left my wallet. I was so embarassed I didnt go back after I made it to the counter. 
+ Supporter: Oh_comma_ I thought you stole them_comma_ but I've done that before too. Not to that extent though. 
+ Seeker: Lol I didn't steal them... not this time",27
+hit:4090_conv:8181,5,embarrassed,I forgot my wallet in the car and took like 200 dollars worth of clothes to the counter at macys,262,Lol I didn't steal them... not this time,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: I forgot my wallet in the car and took like 200 dollars worth of clothes to the counter at macys 
+ Seeker: I took like 200 dollars worth of clothes to the counter at macys 
+ Supporter: Wow_comma_ and you just walked out the store with them? 
+ Seeker: I left my wallet. I was so embarassed I didnt go back after I made it to the counter. 
+ Supporter: Oh_comma_ I thought you stole them_comma_ but I've done that before too. Not to that extent though. 
+ Seeker: Lol I didn't steal them... not this time",27
+hit:4233_conv:8466,1,disappointed,I asked my brother to bring me a gift from his trip. He didn't bring anything.,7,I asked my brother to bring me a gift from his trip. He didn't bring anything.,5|5|5_4|4|5,,5.0,5.0,5.0,4.0,4.0,5.0,"Seeker: I asked my brother to bring me a gift from his trip. He didn't bring anything. 
+ Seeker: I asked my brother to bring me a gift from his trip. He didn't bring anything. 
+ Supporter: I'm sorry to hear that.  Maybe next time? 
+ Seeker: I don't know. He disappointed me. 
+ Supporter: I hope you feel better about it. 
+",15
+hit:4233_conv:8466,2,disappointed,I asked my brother to bring me a gift from his trip. He didn't bring anything.,322,I'm sorry to hear that.  Maybe next time?,5|5|5_4|4|5,,5.0,5.0,5.0,4.0,4.0,5.0,"Seeker: I asked my brother to bring me a gift from his trip. He didn't bring anything. 
+ Seeker: I asked my brother to bring me a gift from his trip. He didn't bring anything. 
+ Supporter: I'm sorry to hear that.  Maybe next time? 
+ Seeker: I don't know. He disappointed me. 
+ Supporter: I hope you feel better about it. 
+",15
+hit:4233_conv:8466,3,disappointed,I asked my brother to bring me a gift from his trip. He didn't bring anything.,7,I don't know. He disappointed me.,5|5|5_4|4|5,,5.0,5.0,5.0,4.0,4.0,5.0,"Seeker: I asked my brother to bring me a gift from his trip. He didn't bring anything. 
+ Seeker: I asked my brother to bring me a gift from his trip. He didn't bring anything. 
+ Supporter: I'm sorry to hear that.  Maybe next time? 
+ Seeker: I don't know. He disappointed me. 
+ Supporter: I hope you feel better about it. 
+",15
+hit:4233_conv:8466,4,disappointed,I asked my brother to bring me a gift from his trip. He didn't bring anything.,322,I hope you feel better about it.,5|5|5_4|4|5,,5.0,5.0,5.0,4.0,4.0,5.0,"Seeker: I asked my brother to bring me a gift from his trip. He didn't bring anything. 
+ Seeker: I asked my brother to bring me a gift from his trip. He didn't bring anything. 
+ Supporter: I'm sorry to hear that.  Maybe next time? 
+ Seeker: I don't know. He disappointed me. 
+ Supporter: I hope you feel better about it. 
+",15
+hit:4345_conv:8691,1,annoyed,My mom makes me babysit my nephew all the time. I am sick of it. He is a brat.,243,My mom makes me babysit my nephew all the time.,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: My mom makes me babysit my nephew all the time. I am sick of it. He is a brat. 
+ Seeker: My mom makes me babysit my nephew all the time. 
+ Supporter: I would not want to be in your position it's ok to help but all the time it can be dreadful.  
+ Seeker: I am sick of it. He is a brat. 
+ Supporter: It will get better put your foot down and maybe say no in a nice way to not step on any ones toes. 
+",44
+hit:4345_conv:8691,2,annoyed,My mom makes me babysit my nephew all the time. I am sick of it. He is a brat.,284,I would not want to be in your position it's ok to help but all the time it can be dreadful. ,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: My mom makes me babysit my nephew all the time. I am sick of it. He is a brat. 
+ Seeker: My mom makes me babysit my nephew all the time. 
+ Supporter: I would not want to be in your position it's ok to help but all the time it can be dreadful.  
+ Seeker: I am sick of it. He is a brat. 
+ Supporter: It will get better put your foot down and maybe say no in a nice way to not step on any ones toes. 
+",44
+hit:4345_conv:8691,3,annoyed,My mom makes me babysit my nephew all the time. I am sick of it. He is a brat.,243,I am sick of it. He is a brat.,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: My mom makes me babysit my nephew all the time. I am sick of it. He is a brat. 
+ Seeker: My mom makes me babysit my nephew all the time. 
+ Supporter: I would not want to be in your position it's ok to help but all the time it can be dreadful.  
+ Seeker: I am sick of it. He is a brat. 
+ Supporter: It will get better put your foot down and maybe say no in a nice way to not step on any ones toes. 
+",44
+hit:4345_conv:8691,4,annoyed,My mom makes me babysit my nephew all the time. I am sick of it. He is a brat.,284,It will get better put your foot down and maybe say no in a nice way to not step on any ones toes.,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: My mom makes me babysit my nephew all the time. I am sick of it. He is a brat. 
+ Seeker: My mom makes me babysit my nephew all the time. 
+ Supporter: I would not want to be in your position it's ok to help but all the time it can be dreadful.  
+ Seeker: I am sick of it. He is a brat. 
+ Supporter: It will get better put your foot down and maybe say no in a nice way to not step on any ones toes. 
+",44
+hit:4722_conv:9445,1,sad,Robin williams was my hero_comma_ still so sad he passed,271,i miss robin williams so much,5|5|4_5|5|5,,5.0,5.0,4.0,5.0,5.0,5.0,"Seeker: Robin williams was my hero_comma_ still so sad he passed 
+ Seeker: i miss robin williams so much 
+ Supporter: I get that_comma_ he was a very funny fellow_comma_ sad story 
+ Seeker: i grew up watchim him 
+ Supporter: I did not really_comma_ so I see how you would be more attached 
+",24
+hit:4722_conv:9445,2,sad,Robin williams was my hero_comma_ still so sad he passed,10,I get that_comma_ he was a very funny fellow_comma_ sad story,5|5|4_5|5|5,,5.0,5.0,4.0,5.0,5.0,5.0,"Seeker: Robin williams was my hero_comma_ still so sad he passed 
+ Seeker: i miss robin williams so much 
+ Supporter: I get that_comma_ he was a very funny fellow_comma_ sad story 
+ Seeker: i grew up watchim him 
+ Supporter: I did not really_comma_ so I see how you would be more attached 
+",24
+hit:4722_conv:9445,3,sad,Robin williams was my hero_comma_ still so sad he passed,271,i grew up watchim him,5|5|4_5|5|5,,5.0,5.0,4.0,5.0,5.0,5.0,"Seeker: Robin williams was my hero_comma_ still so sad he passed 
+ Seeker: i miss robin williams so much 
+ Supporter: I get that_comma_ he was a very funny fellow_comma_ sad story 
+ Seeker: i grew up watchim him 
+ Supporter: I did not really_comma_ so I see how you would be more attached 
+",24
+hit:4722_conv:9445,4,sad,Robin williams was my hero_comma_ still so sad he passed,10,I did not really_comma_ so I see how you would be more attached,5|5|4_5|5|5,,5.0,5.0,4.0,5.0,5.0,5.0,"Seeker: Robin williams was my hero_comma_ still so sad he passed 
+ Seeker: i miss robin williams so much 
+ Supporter: I get that_comma_ he was a very funny fellow_comma_ sad story 
+ Seeker: i grew up watchim him 
+ Supporter: I did not really_comma_ so I see how you would be more attached 
+",24
+hit:4844_conv:9689,1,disappointed,I found out that the vacation I planned for had to be cancelled. My friend got sick and is not able to go with me.,282,I found out that I had to cancel my vacation.  I am pretty bummed.,5|5|5_4|4|5,,5.0,5.0,5.0,4.0,4.0,5.0,"Seeker: I found out that the vacation I planned for had to be cancelled. My friend got sick and is not able to go with me. 
+ Seeker: I found out that I had to cancel my vacation.  I am pretty bummed. 
+ Supporter: that is awful_comma_ hopefully you can plan another one soon 
+ Seeker: I hope so.  My friend had to back out at the last minute_comma_ so my plans had to change.  
+ Supporter: im sorry_comma_ thats the worst 
+",15
+hit:4844_conv:9689,2,disappointed,I found out that the vacation I planned for had to be cancelled. My friend got sick and is not able to go with me.,44,that is awful_comma_ hopefully you can plan another one soon,5|5|5_4|4|5,,5.0,5.0,5.0,4.0,4.0,5.0,"Seeker: I found out that the vacation I planned for had to be cancelled. My friend got sick and is not able to go with me. 
+ Seeker: I found out that I had to cancel my vacation.  I am pretty bummed. 
+ Supporter: that is awful_comma_ hopefully you can plan another one soon 
+ Seeker: I hope so.  My friend had to back out at the last minute_comma_ so my plans had to change.  
+ Supporter: im sorry_comma_ thats the worst 
+",15
+hit:4844_conv:9689,3,disappointed,I found out that the vacation I planned for had to be cancelled. My friend got sick and is not able to go with me.,282,I hope so.  My friend had to back out at the last minute_comma_ so my plans had to change. ,5|5|5_4|4|5,,5.0,5.0,5.0,4.0,4.0,5.0,"Seeker: I found out that the vacation I planned for had to be cancelled. My friend got sick and is not able to go with me. 
+ Seeker: I found out that I had to cancel my vacation.  I am pretty bummed. 
+ Supporter: that is awful_comma_ hopefully you can plan another one soon 
+ Seeker: I hope so.  My friend had to back out at the last minute_comma_ so my plans had to change.  
+ Supporter: im sorry_comma_ thats the worst 
+",15
+hit:4844_conv:9689,4,disappointed,I found out that the vacation I planned for had to be cancelled. My friend got sick and is not able to go with me.,44,im sorry_comma_ thats the worst,5|5|5_4|4|5,,5.0,5.0,5.0,4.0,4.0,5.0,"Seeker: I found out that the vacation I planned for had to be cancelled. My friend got sick and is not able to go with me. 
+ Seeker: I found out that I had to cancel my vacation.  I am pretty bummed. 
+ Supporter: that is awful_comma_ hopefully you can plan another one soon 
+ Seeker: I hope so.  My friend had to back out at the last minute_comma_ so my plans had to change.  
+ Supporter: im sorry_comma_ thats the worst 
+",15
+hit:5323_conv:10646,1,ashamed,I was ashamed that I failed my LSAT and couldn't get into law school so I had to rethink what I wanted to do. ,164,I'm so upset and embarrassed that I failed my LSATs and now I can't get into law school. ,2|4|5_5|5|5,,2.0,4.0,5.0,5.0,5.0,5.0,"Seeker: I was ashamed that I failed my LSAT and couldn't get into law school so I had to rethink what I wanted to do.  
+ Seeker: I'm so upset and embarrassed that I failed my LSATs and now I can't get into law school.  
+ Supporter: Can you re-take the test? 
+ Seeker: I can but it's only given a few times a year and the next one isn't for another 4 months.  
+ Supporter: Ouch that's bad.  Study hard. I'm sure youll do better next time",17
+hit:5323_conv:10646,2,ashamed,I was ashamed that I failed my LSAT and couldn't get into law school so I had to rethink what I wanted to do. ,244,Can you re-take the test?,2|4|5_5|5|5,,2.0,4.0,5.0,5.0,5.0,5.0,"Seeker: I was ashamed that I failed my LSAT and couldn't get into law school so I had to rethink what I wanted to do.  
+ Seeker: I'm so upset and embarrassed that I failed my LSATs and now I can't get into law school.  
+ Supporter: Can you re-take the test? 
+ Seeker: I can but it's only given a few times a year and the next one isn't for another 4 months.  
+ Supporter: Ouch that's bad.  Study hard. I'm sure youll do better next time",17
+hit:5323_conv:10646,3,ashamed,I was ashamed that I failed my LSAT and couldn't get into law school so I had to rethink what I wanted to do. ,164,I can but it's only given a few times a year and the next one isn't for another 4 months. ,2|4|5_5|5|5,,2.0,4.0,5.0,5.0,5.0,5.0,"Seeker: I was ashamed that I failed my LSAT and couldn't get into law school so I had to rethink what I wanted to do.  
+ Seeker: I'm so upset and embarrassed that I failed my LSATs and now I can't get into law school.  
+ Supporter: Can you re-take the test? 
+ Seeker: I can but it's only given a few times a year and the next one isn't for another 4 months.  
+ Supporter: Ouch that's bad.  Study hard. I'm sure youll do better next time",17
+hit:5323_conv:10646,4,ashamed,I was ashamed that I failed my LSAT and couldn't get into law school so I had to rethink what I wanted to do. ,244,Ouch that's bad.  Study hard. I'm sure youll do better next time,2|4|5_5|5|5,,2.0,4.0,5.0,5.0,5.0,5.0,"Seeker: I was ashamed that I failed my LSAT and couldn't get into law school so I had to rethink what I wanted to do.  
+ Seeker: I'm so upset and embarrassed that I failed my LSATs and now I can't get into law school.  
+ Supporter: Can you re-take the test? 
+ Seeker: I can but it's only given a few times a year and the next one isn't for another 4 months.  
+ Supporter: Ouch that's bad.  Study hard. I'm sure youll do better next time",17
+hit:5574_conv:11149,1,ashamed,I should be helping chip in on a friend's birthday_comma_ but I only put in $5.,1,I should be helping chip in on a friend's birthday_comma_ but I only put in $5,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: I should be helping chip in on a friend's birthday_comma_ but I only put in $5. 
+ Seeker: I should be helping chip in on a friend's birthday_comma_ but I only put in $5 
+ Supporter: Atleast you gave something it's the thought that counts right. 
+ Seeker: I wish I could give more.  
+ Supporter: As long as she knows where your intentions are the amount doesn't matter we all wish we can do more but we do what we can don't be down.",39
+hit:5574_conv:11149,2,ashamed,I should be helping chip in on a friend's birthday_comma_ but I only put in $5.,284,Atleast you gave something it's the thought that counts right.,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: I should be helping chip in on a friend's birthday_comma_ but I only put in $5. 
+ Seeker: I should be helping chip in on a friend's birthday_comma_ but I only put in $5 
+ Supporter: Atleast you gave something it's the thought that counts right. 
+ Seeker: I wish I could give more.  
+ Supporter: As long as she knows where your intentions are the amount doesn't matter we all wish we can do more but we do what we can don't be down.",39
+hit:5574_conv:11149,3,ashamed,I should be helping chip in on a friend's birthday_comma_ but I only put in $5.,1,I wish I could give more. ,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: I should be helping chip in on a friend's birthday_comma_ but I only put in $5. 
+ Seeker: I should be helping chip in on a friend's birthday_comma_ but I only put in $5 
+ Supporter: Atleast you gave something it's the thought that counts right. 
+ Seeker: I wish I could give more.  
+ Supporter: As long as she knows where your intentions are the amount doesn't matter we all wish we can do more but we do what we can don't be down.",39
+hit:5574_conv:11149,4,ashamed,I should be helping chip in on a friend's birthday_comma_ but I only put in $5.,284,As long as she knows where your intentions are the amount doesn't matter we all wish we can do more but we do what we can don't be down.,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: I should be helping chip in on a friend's birthday_comma_ but I only put in $5. 
+ Seeker: I should be helping chip in on a friend's birthday_comma_ but I only put in $5 
+ Supporter: Atleast you gave something it's the thought that counts right. 
+ Seeker: I wish I could give more.  
+ Supporter: As long as she knows where your intentions are the amount doesn't matter we all wish we can do more but we do what we can don't be down.",39
+hit:5579_conv:11158,1,disappointed,came home to find my leftovers gone,514,i was thinking about my leftover Chinese food_comma_ came home and someone had eaten it,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: came home to find my leftovers gone 
+ Seeker: i was thinking about my leftover Chinese food_comma_ came home and someone had eaten it 
+ Supporter: I hate it when that happens. You should get a lock for the fridge. 
+ Seeker: yeah i though about it 
+ Supporter: Some people just have no consideration. You deserve to eat your leftover Chinese. 
+",27
+hit:5579_conv:11158,2,disappointed,came home to find my leftovers gone,139,I hate it when that happens. You should get a lock for the fridge.,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: came home to find my leftovers gone 
+ Seeker: i was thinking about my leftover Chinese food_comma_ came home and someone had eaten it 
+ Supporter: I hate it when that happens. You should get a lock for the fridge. 
+ Seeker: yeah i though about it 
+ Supporter: Some people just have no consideration. You deserve to eat your leftover Chinese. 
+",27
+hit:5579_conv:11158,3,disappointed,came home to find my leftovers gone,514,yeah i though about it,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: came home to find my leftovers gone 
+ Seeker: i was thinking about my leftover Chinese food_comma_ came home and someone had eaten it 
+ Supporter: I hate it when that happens. You should get a lock for the fridge. 
+ Seeker: yeah i though about it 
+ Supporter: Some people just have no consideration. You deserve to eat your leftover Chinese. 
+",27
+hit:5579_conv:11158,4,disappointed,came home to find my leftovers gone,139,Some people just have no consideration. You deserve to eat your leftover Chinese.,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: came home to find my leftovers gone 
+ Seeker: i was thinking about my leftover Chinese food_comma_ came home and someone had eaten it 
+ Supporter: I hate it when that happens. You should get a lock for the fridge. 
+ Seeker: yeah i though about it 
+ Supporter: Some people just have no consideration. You deserve to eat your leftover Chinese. 
+",27
+hit:6053_conv:12106,1,jealous,I'm jealous of my friend's new house.  For his age_comma_ it's really nice!,448,I'm jealous of my friend's new house. For his age_comma_ it's really nice!,4|4|5_4|4|4,,4.0,4.0,5.0,4.0,4.0,4.0,"Seeker: I'm jealous of my friend's new house.  For his age_comma_ it's really nice! 
+ Seeker: I'm jealous of my friend's new house. For his age_comma_ it's really nice! 
+ Supporter: how old is he or she? 
+ Seeker: He's 25_comma_ and the house is at least 250k! 
+ Supporter: he must be a great achiever",12
+hit:6053_conv:12106,2,jealous,I'm jealous of my friend's new house.  For his age_comma_ it's really nice!,25,how old is he or she?,4|4|5_4|4|4,,4.0,4.0,5.0,4.0,4.0,4.0,"Seeker: I'm jealous of my friend's new house.  For his age_comma_ it's really nice! 
+ Seeker: I'm jealous of my friend's new house. For his age_comma_ it's really nice! 
+ Supporter: how old is he or she? 
+ Seeker: He's 25_comma_ and the house is at least 250k! 
+ Supporter: he must be a great achiever",12
+hit:6053_conv:12106,3,jealous,I'm jealous of my friend's new house.  For his age_comma_ it's really nice!,448,He's 25_comma_ and the house is at least 250k!,4|4|5_4|4|4,,4.0,4.0,5.0,4.0,4.0,4.0,"Seeker: I'm jealous of my friend's new house.  For his age_comma_ it's really nice! 
+ Seeker: I'm jealous of my friend's new house. For his age_comma_ it's really nice! 
+ Supporter: how old is he or she? 
+ Seeker: He's 25_comma_ and the house is at least 250k! 
+ Supporter: he must be a great achiever",12
+hit:6053_conv:12106,4,jealous,I'm jealous of my friend's new house.  For his age_comma_ it's really nice!,25,he must be a great achiever,4|4|5_4|4|4,,4.0,4.0,5.0,4.0,4.0,4.0,"Seeker: I'm jealous of my friend's new house.  For his age_comma_ it's really nice! 
+ Seeker: I'm jealous of my friend's new house. For his age_comma_ it's really nice! 
+ Supporter: how old is he or she? 
+ Seeker: He's 25_comma_ and the house is at least 250k! 
+ Supporter: he must be a great achiever",12
+hit:6367_conv:12734,1,furious,My daughter is at the age where she lies about everything,27,MY daughter lies about everything now,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: My daughter is at the age where she lies about everything 
+ Seeker: MY daughter lies about everything now 
+ Supporter: Raising children is hard_comma_ to say the least. What did she lie about most recently? 
+ Seeker: being asleep. The are also dumb lies lol 
+ Supporter: Well that's a relief. It actually sounds fairly amusing! 
+ Seeker: Sometimes I jst shake my head lol 
+",24
+hit:6367_conv:12734,2,furious,My daughter is at the age where she lies about everything,117,Raising children is hard_comma_ to say the least. What did she lie about most recently?,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: My daughter is at the age where she lies about everything 
+ Seeker: MY daughter lies about everything now 
+ Supporter: Raising children is hard_comma_ to say the least. What did she lie about most recently? 
+ Seeker: being asleep. The are also dumb lies lol 
+ Supporter: Well that's a relief. It actually sounds fairly amusing! 
+ Seeker: Sometimes I jst shake my head lol 
+",24
+hit:6367_conv:12734,3,furious,My daughter is at the age where she lies about everything,27,being asleep. The are also dumb lies lol,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: My daughter is at the age where she lies about everything 
+ Seeker: MY daughter lies about everything now 
+ Supporter: Raising children is hard_comma_ to say the least. What did she lie about most recently? 
+ Seeker: being asleep. The are also dumb lies lol 
+ Supporter: Well that's a relief. It actually sounds fairly amusing! 
+ Seeker: Sometimes I jst shake my head lol 
+",24
+hit:6367_conv:12734,4,furious,My daughter is at the age where she lies about everything,117,Well that's a relief. It actually sounds fairly amusing!,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: My daughter is at the age where she lies about everything 
+ Seeker: MY daughter lies about everything now 
+ Supporter: Raising children is hard_comma_ to say the least. What did she lie about most recently? 
+ Seeker: being asleep. The are also dumb lies lol 
+ Supporter: Well that's a relief. It actually sounds fairly amusing! 
+ Seeker: Sometimes I jst shake my head lol 
+",24
+hit:6367_conv:12734,5,furious,My daughter is at the age where she lies about everything,27,Sometimes I jst shake my head lol,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: My daughter is at the age where she lies about everything 
+ Seeker: MY daughter lies about everything now 
+ Supporter: Raising children is hard_comma_ to say the least. What did she lie about most recently? 
+ Seeker: being asleep. The are also dumb lies lol 
+ Supporter: Well that's a relief. It actually sounds fairly amusing! 
+ Seeker: Sometimes I jst shake my head lol 
+",24
+hit:6613_conv:13226,1,sad,I do not want my vacation to end. I would like to stay here forever,506,I do not want my vacation to end.,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: I do not want my vacation to end. I would like to stay here forever 
+ Seeker: I do not want my vacation to end. 
+ Supporter: where are you vacationing 
+ Seeker: I am in Bali_comma_ I would like to stay here forever_comma_ I will shed some tears for sure. 
+ Supporter: OMG my dream vacation 
+",8
+hit:6613_conv:13226,2,sad,I do not want my vacation to end. I would like to stay here forever,271,where are you vacationing,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: I do not want my vacation to end. I would like to stay here forever 
+ Seeker: I do not want my vacation to end. 
+ Supporter: where are you vacationing 
+ Seeker: I am in Bali_comma_ I would like to stay here forever_comma_ I will shed some tears for sure. 
+ Supporter: OMG my dream vacation 
+",8
+hit:6613_conv:13226,3,sad,I do not want my vacation to end. I would like to stay here forever,506,I am in Bali_comma_ I would like to stay here forever_comma_ I will shed some tears for sure.,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: I do not want my vacation to end. I would like to stay here forever 
+ Seeker: I do not want my vacation to end. 
+ Supporter: where are you vacationing 
+ Seeker: I am in Bali_comma_ I would like to stay here forever_comma_ I will shed some tears for sure. 
+ Supporter: OMG my dream vacation 
+",8
+hit:6613_conv:13226,4,sad,I do not want my vacation to end. I would like to stay here forever,271,OMG my dream vacation,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: I do not want my vacation to end. I would like to stay here forever 
+ Seeker: I do not want my vacation to end. 
+ Supporter: where are you vacationing 
+ Seeker: I am in Bali_comma_ I would like to stay here forever_comma_ I will shed some tears for sure. 
+ Supporter: OMG my dream vacation 
+",8
+hit:6759_conv:13519,1,sad,When my father went into hospital_comma_ after he fell down the stairs_comma_ we had no idea he had cancer.,577,It was terminal_comma_ and the doctor said they caught it too late.,3|3|4_5|5|5,,3.0,3.0,4.0,5.0,5.0,5.0,"Seeker: When my father went into hospital_comma_ after he fell down the stairs_comma_ we had no idea he had cancer. 
+ Seeker: It was terminal_comma_ and the doctor said they caught it too late. 
+ Supporter: What?! Are you sick or your family member? 
+ Seeker: It was my father who was sick. He passed not too long ago. 
+ Supporter: Oh no_comma_ I'm so sorry to hear that_comma_ it must have been hard on you 
+",23
+hit:6759_conv:13519,2,sad,When my father went into hospital_comma_ after he fell down the stairs_comma_ we had no idea he had cancer.,247,What?! Are you sick or your family member?,3|3|4_5|5|5,,3.0,3.0,4.0,5.0,5.0,5.0,"Seeker: When my father went into hospital_comma_ after he fell down the stairs_comma_ we had no idea he had cancer. 
+ Seeker: It was terminal_comma_ and the doctor said they caught it too late. 
+ Supporter: What?! Are you sick or your family member? 
+ Seeker: It was my father who was sick. He passed not too long ago. 
+ Supporter: Oh no_comma_ I'm so sorry to hear that_comma_ it must have been hard on you 
+",23
+hit:6759_conv:13519,3,sad,When my father went into hospital_comma_ after he fell down the stairs_comma_ we had no idea he had cancer.,577,It was my father who was sick. He passed not too long ago.,3|3|4_5|5|5,,3.0,3.0,4.0,5.0,5.0,5.0,"Seeker: When my father went into hospital_comma_ after he fell down the stairs_comma_ we had no idea he had cancer. 
+ Seeker: It was terminal_comma_ and the doctor said they caught it too late. 
+ Supporter: What?! Are you sick or your family member? 
+ Seeker: It was my father who was sick. He passed not too long ago. 
+ Supporter: Oh no_comma_ I'm so sorry to hear that_comma_ it must have been hard on you 
+",23
+hit:6759_conv:13519,4,sad,When my father went into hospital_comma_ after he fell down the stairs_comma_ we had no idea he had cancer.,247,Oh no_comma_ I'm so sorry to hear that_comma_ it must have been hard on you,3|3|4_5|5|5,,3.0,3.0,4.0,5.0,5.0,5.0,"Seeker: When my father went into hospital_comma_ after he fell down the stairs_comma_ we had no idea he had cancer. 
+ Seeker: It was terminal_comma_ and the doctor said they caught it too late. 
+ Supporter: What?! Are you sick or your family member? 
+ Seeker: It was my father who was sick. He passed not too long ago. 
+ Supporter: Oh no_comma_ I'm so sorry to hear that_comma_ it must have been hard on you 
+",23
+hit:8012_conv:16024,1,disgusted,I took a bus trip to Philadelphia today. It seemed like they hadn't ever remembered to actually clean the bus. The floors were all sticky and there was a bad smell permiating the entire bus.,217,I took a bus trip to Philadelphia today. The bus was totally gross. There was sticky stuff on the floors and there was a horrible smell too.,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: I took a bus trip to Philadelphia today. It seemed like they hadn't ever remembered to actually clean the bus. The floors were all sticky and there was a bad smell permiating the entire bus. 
+ Seeker: I took a bus trip to Philadelphia today. The bus was totally gross. There was sticky stuff on the floors and there was a horrible smell too. 
+ Supporter: Oh that sounds horrible. I hope it wasn't a long ride on the bus.  
+ Seeker: It was about 4 hours lots of time to enjoy it. 
+ Supporter: Oh no_comma_ that is a long time to be sitting in trash basically.",27
+hit:8012_conv:16024,2,disgusted,I took a bus trip to Philadelphia today. It seemed like they hadn't ever remembered to actually clean the bus. The floors were all sticky and there was a bad smell permiating the entire bus.,616,Oh that sounds horrible. I hope it wasn't a long ride on the bus. ,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: I took a bus trip to Philadelphia today. It seemed like they hadn't ever remembered to actually clean the bus. The floors were all sticky and there was a bad smell permiating the entire bus. 
+ Seeker: I took a bus trip to Philadelphia today. The bus was totally gross. There was sticky stuff on the floors and there was a horrible smell too. 
+ Supporter: Oh that sounds horrible. I hope it wasn't a long ride on the bus.  
+ Seeker: It was about 4 hours lots of time to enjoy it. 
+ Supporter: Oh no_comma_ that is a long time to be sitting in trash basically.",27
+hit:8012_conv:16024,3,disgusted,I took a bus trip to Philadelphia today. It seemed like they hadn't ever remembered to actually clean the bus. The floors were all sticky and there was a bad smell permiating the entire bus.,217,It was about 4 hours lots of time to enjoy it.,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: I took a bus trip to Philadelphia today. It seemed like they hadn't ever remembered to actually clean the bus. The floors were all sticky and there was a bad smell permiating the entire bus. 
+ Seeker: I took a bus trip to Philadelphia today. The bus was totally gross. There was sticky stuff on the floors and there was a horrible smell too. 
+ Supporter: Oh that sounds horrible. I hope it wasn't a long ride on the bus.  
+ Seeker: It was about 4 hours lots of time to enjoy it. 
+ Supporter: Oh no_comma_ that is a long time to be sitting in trash basically.",27
+hit:8012_conv:16024,4,disgusted,I took a bus trip to Philadelphia today. It seemed like they hadn't ever remembered to actually clean the bus. The floors were all sticky and there was a bad smell permiating the entire bus.,616,Oh no_comma_ that is a long time to be sitting in trash basically.,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: I took a bus trip to Philadelphia today. It seemed like they hadn't ever remembered to actually clean the bus. The floors were all sticky and there was a bad smell permiating the entire bus. 
+ Seeker: I took a bus trip to Philadelphia today. The bus was totally gross. There was sticky stuff on the floors and there was a horrible smell too. 
+ Supporter: Oh that sounds horrible. I hope it wasn't a long ride on the bus.  
+ Seeker: It was about 4 hours lots of time to enjoy it. 
+ Supporter: Oh no_comma_ that is a long time to be sitting in trash basically.",27
+hit:8290_conv:16581,1,anxious,waiting for my new car to arrive,514,my new 2018 subaru WRX is going to be delivered today!! i CANT WAIT!!,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: waiting for my new car to arrive 
+ Seeker: my new 2018 subaru WRX is going to be delivered today!! i CANT WAIT!! 
+ Supporter: Woohoo! That sounds like it'll be a blast to drive! 
+ Seeker: it is so much fun!  
+ Supporter: Just make sure you drive safely! :)",17
+hit:8290_conv:16581,2,anxious,waiting for my new car to arrive,448,Woohoo! That sounds like it'll be a blast to drive!,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: waiting for my new car to arrive 
+ Seeker: my new 2018 subaru WRX is going to be delivered today!! i CANT WAIT!! 
+ Supporter: Woohoo! That sounds like it'll be a blast to drive! 
+ Seeker: it is so much fun!  
+ Supporter: Just make sure you drive safely! :)",17
+hit:8290_conv:16581,3,anxious,waiting for my new car to arrive,514,it is so much fun! ,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: waiting for my new car to arrive 
+ Seeker: my new 2018 subaru WRX is going to be delivered today!! i CANT WAIT!! 
+ Supporter: Woohoo! That sounds like it'll be a blast to drive! 
+ Seeker: it is so much fun!  
+ Supporter: Just make sure you drive safely! :)",17
+hit:8290_conv:16581,4,anxious,waiting for my new car to arrive,448,Just make sure you drive safely! :),5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: waiting for my new car to arrive 
+ Seeker: my new 2018 subaru WRX is going to be delivered today!! i CANT WAIT!! 
+ Supporter: Woohoo! That sounds like it'll be a blast to drive! 
+ Seeker: it is so much fun!  
+ Supporter: Just make sure you drive safely! :)",17
+hit:8311_conv:16622,1,jealous,I'm jealous with people who have a washer and dryer.  Going to the laundromat stinks!,448,I'm jealous with people who have a washer and dryer. Going to the laundromat stinks!,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: I'm jealous with people who have a washer and dryer.  Going to the laundromat stinks! 
+ Seeker: I'm jealous with people who have a washer and dryer. Going to the laundromat stinks! 
+ Supporter: I know. I just went yesterday! 
+ Seeker: It's such a hassle_comma_ would be nice just to walk into the other room and do it! 
+ Supporter: I can't wait to move and have a hook up. 
+",16
+hit:8311_conv:16622,2,jealous,I'm jealous with people who have a washer and dryer.  Going to the laundromat stinks!,27,I know. I just went yesterday!,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: I'm jealous with people who have a washer and dryer.  Going to the laundromat stinks! 
+ Seeker: I'm jealous with people who have a washer and dryer. Going to the laundromat stinks! 
+ Supporter: I know. I just went yesterday! 
+ Seeker: It's such a hassle_comma_ would be nice just to walk into the other room and do it! 
+ Supporter: I can't wait to move and have a hook up. 
+",16
+hit:8311_conv:16622,3,jealous,I'm jealous with people who have a washer and dryer.  Going to the laundromat stinks!,448,It's such a hassle_comma_ would be nice just to walk into the other room and do it!,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: I'm jealous with people who have a washer and dryer.  Going to the laundromat stinks! 
+ Seeker: I'm jealous with people who have a washer and dryer. Going to the laundromat stinks! 
+ Supporter: I know. I just went yesterday! 
+ Seeker: It's such a hassle_comma_ would be nice just to walk into the other room and do it! 
+ Supporter: I can't wait to move and have a hook up. 
+",16
+hit:8311_conv:16622,4,jealous,I'm jealous with people who have a washer and dryer.  Going to the laundromat stinks!,27,I can't wait to move and have a hook up.,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: I'm jealous with people who have a washer and dryer.  Going to the laundromat stinks! 
+ Seeker: I'm jealous with people who have a washer and dryer. Going to the laundromat stinks! 
+ Supporter: I know. I just went yesterday! 
+ Seeker: It's such a hassle_comma_ would be nice just to walk into the other room and do it! 
+ Supporter: I can't wait to move and have a hook up. 
+",16
+hit:9338_conv:18676,1,devastated,I met this girl on Tinder this one time. She was really into me but then she randomly denied the hell outta me.,55,I met this girl on Tinder one time and she gave me such mixed signals.,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: I met this girl on Tinder this one time. She was really into me but then she randomly denied the hell outta me. 
+ Seeker: I met this girl on Tinder one time and she gave me such mixed signals. 
+ Supporter: haha_comma_ welcome to Tinder! It's the app of mixed signals. Did things work out finally? 
+ Seeker: Not really_comma_ but I got used to it ahaha. 
+ Supporter: Yeah_comma_ usually you just move on. There are plenty more fish in the sea! 
+",29
+hit:9338_conv:18676,2,devastated,I met this girl on Tinder this one time. She was really into me but then she randomly denied the hell outta me.,469,haha_comma_ welcome to Tinder! It's the app of mixed signals. Did things work out finally?,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: I met this girl on Tinder this one time. She was really into me but then she randomly denied the hell outta me. 
+ Seeker: I met this girl on Tinder one time and she gave me such mixed signals. 
+ Supporter: haha_comma_ welcome to Tinder! It's the app of mixed signals. Did things work out finally? 
+ Seeker: Not really_comma_ but I got used to it ahaha. 
+ Supporter: Yeah_comma_ usually you just move on. There are plenty more fish in the sea! 
+",29
+hit:9338_conv:18676,3,devastated,I met this girl on Tinder this one time. She was really into me but then she randomly denied the hell outta me.,55,Not really_comma_ but I got used to it ahaha.,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: I met this girl on Tinder this one time. She was really into me but then she randomly denied the hell outta me. 
+ Seeker: I met this girl on Tinder one time and she gave me such mixed signals. 
+ Supporter: haha_comma_ welcome to Tinder! It's the app of mixed signals. Did things work out finally? 
+ Seeker: Not really_comma_ but I got used to it ahaha. 
+ Supporter: Yeah_comma_ usually you just move on. There are plenty more fish in the sea! 
+",29
+hit:9338_conv:18676,4,devastated,I met this girl on Tinder this one time. She was really into me but then she randomly denied the hell outta me.,469,Yeah_comma_ usually you just move on. There are plenty more fish in the sea!,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: I met this girl on Tinder this one time. She was really into me but then she randomly denied the hell outta me. 
+ Seeker: I met this girl on Tinder one time and she gave me such mixed signals. 
+ Supporter: haha_comma_ welcome to Tinder! It's the app of mixed signals. Did things work out finally? 
+ Seeker: Not really_comma_ but I got used to it ahaha. 
+ Supporter: Yeah_comma_ usually you just move on. There are plenty more fish in the sea! 
+",29
+hit:9772_conv:19545,1,afraid,Amusement park this weekend,389,Man this weekend might be weird,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: Amusement park this weekend 
+ Seeker: Man this weekend might be weird 
+ Supporter: Why weird 
+ Seeker: We're taking the kids to the amusement park and I'm scared of the coasters haha 
+ Supporter: Oh haha well that'll be interesting...at least the kids will feel good that they were braver than Mommy hahaha 
+ Seeker: I guess I just need to try one.  I still haven't rode on one. 
+",21
+hit:9772_conv:19545,2,afraid,Amusement park this weekend,119,Why weird,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: Amusement park this weekend 
+ Seeker: Man this weekend might be weird 
+ Supporter: Why weird 
+ Seeker: We're taking the kids to the amusement park and I'm scared of the coasters haha 
+ Supporter: Oh haha well that'll be interesting...at least the kids will feel good that they were braver than Mommy hahaha 
+ Seeker: I guess I just need to try one.  I still haven't rode on one. 
+",21
+hit:9772_conv:19545,3,afraid,Amusement park this weekend,389,We're taking the kids to the amusement park and I'm scared of the coasters haha,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: Amusement park this weekend 
+ Seeker: Man this weekend might be weird 
+ Supporter: Why weird 
+ Seeker: We're taking the kids to the amusement park and I'm scared of the coasters haha 
+ Supporter: Oh haha well that'll be interesting...at least the kids will feel good that they were braver than Mommy hahaha 
+ Seeker: I guess I just need to try one.  I still haven't rode on one. 
+",21
+hit:9772_conv:19545,4,afraid,Amusement park this weekend,119,Oh haha well that'll be interesting...at least the kids will feel good that they were braver than Mommy hahaha,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: Amusement park this weekend 
+ Seeker: Man this weekend might be weird 
+ Supporter: Why weird 
+ Seeker: We're taking the kids to the amusement park and I'm scared of the coasters haha 
+ Supporter: Oh haha well that'll be interesting...at least the kids will feel good that they were braver than Mommy hahaha 
+ Seeker: I guess I just need to try one.  I still haven't rode on one. 
+",21
+hit:9772_conv:19545,5,afraid,Amusement park this weekend,389,I guess I just need to try one.  I still haven't rode on one.,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: Amusement park this weekend 
+ Seeker: Man this weekend might be weird 
+ Supporter: Why weird 
+ Seeker: We're taking the kids to the amusement park and I'm scared of the coasters haha 
+ Supporter: Oh haha well that'll be interesting...at least the kids will feel good that they were braver than Mommy hahaha 
+ Seeker: I guess I just need to try one.  I still haven't rode on one. 
+",21
+hit:10145_conv:20290,1,apprehensive,About a year ago_comma_ I was about to run my first 50 mile race.  I had broken my toe a few weeks prior and was very nervous that it wasn't going to hold up through the race.,609,Last year I was about to run my first 50 mile race.  I had broken my toes a few weeks before and wasn't sure I was going to make it.,4|5|5_5|5|5,,4.0,5.0,5.0,5.0,5.0,5.0,"Seeker: About a year ago_comma_ I was about to run my first 50 mile race.  I had broken my toe a few weeks prior and was very nervous that it wasn't going to hold up through the race. 
+ Seeker: Last year I was about to run my first 50 mile race.  I had broken my toes a few weeks before and wasn't sure I was going to make it. 
+ Supporter: Ouch_comma_ that's unfortunate. Hopefully it turned out okay though? 
+ Seeker: It did_comma_ thankfully I had listened to my doctor's recommendations and it healed up just enough.  It was still a pretty nerve wracking start though. 
+ Supporter: I can imagine_comma_ talk about bad timing injuring your toes!",19
+hit:10145_conv:20290,2,apprehensive,About a year ago_comma_ I was about to run my first 50 mile race.  I had broken my toe a few weeks prior and was very nervous that it wasn't going to hold up through the race.,290,Ouch_comma_ that's unfortunate. Hopefully it turned out okay though?,4|5|5_5|5|5,,4.0,5.0,5.0,5.0,5.0,5.0,"Seeker: About a year ago_comma_ I was about to run my first 50 mile race.  I had broken my toe a few weeks prior and was very nervous that it wasn't going to hold up through the race. 
+ Seeker: Last year I was about to run my first 50 mile race.  I had broken my toes a few weeks before and wasn't sure I was going to make it. 
+ Supporter: Ouch_comma_ that's unfortunate. Hopefully it turned out okay though? 
+ Seeker: It did_comma_ thankfully I had listened to my doctor's recommendations and it healed up just enough.  It was still a pretty nerve wracking start though. 
+ Supporter: I can imagine_comma_ talk about bad timing injuring your toes!",19
+hit:10145_conv:20290,3,apprehensive,About a year ago_comma_ I was about to run my first 50 mile race.  I had broken my toe a few weeks prior and was very nervous that it wasn't going to hold up through the race.,609,It did_comma_ thankfully I had listened to my doctor's recommendations and it healed up just enough.  It was still a pretty nerve wracking start though.,4|5|5_5|5|5,,4.0,5.0,5.0,5.0,5.0,5.0,"Seeker: About a year ago_comma_ I was about to run my first 50 mile race.  I had broken my toe a few weeks prior and was very nervous that it wasn't going to hold up through the race. 
+ Seeker: Last year I was about to run my first 50 mile race.  I had broken my toes a few weeks before and wasn't sure I was going to make it. 
+ Supporter: Ouch_comma_ that's unfortunate. Hopefully it turned out okay though? 
+ Seeker: It did_comma_ thankfully I had listened to my doctor's recommendations and it healed up just enough.  It was still a pretty nerve wracking start though. 
+ Supporter: I can imagine_comma_ talk about bad timing injuring your toes!",19
+hit:10145_conv:20290,4,apprehensive,About a year ago_comma_ I was about to run my first 50 mile race.  I had broken my toe a few weeks prior and was very nervous that it wasn't going to hold up through the race.,290,I can imagine_comma_ talk about bad timing injuring your toes!,4|5|5_5|5|5,,4.0,5.0,5.0,5.0,5.0,5.0,"Seeker: About a year ago_comma_ I was about to run my first 50 mile race.  I had broken my toe a few weeks prior and was very nervous that it wasn't going to hold up through the race. 
+ Seeker: Last year I was about to run my first 50 mile race.  I had broken my toes a few weeks before and wasn't sure I was going to make it. 
+ Supporter: Ouch_comma_ that's unfortunate. Hopefully it turned out okay though? 
+ Seeker: It did_comma_ thankfully I had listened to my doctor's recommendations and it healed up just enough.  It was still a pretty nerve wracking start though. 
+ Supporter: I can imagine_comma_ talk about bad timing injuring your toes!",19
+hit:10264_conv:20529,1,apprehensive,I remember when I was younger_comma_ our teachers would provide us with pancakes every Tuesday. I miss those days.,631,I miss the good old days when we would be given pancakes on Tuesdays at school. I loved pancake Tuesdays. ,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: I remember when I was younger_comma_ our teachers would provide us with pancakes every Tuesday. I miss those days. 
+ Seeker: I miss the good old days when we would be given pancakes on Tuesdays at school. I loved pancake Tuesdays.  
+ Supporter: Mmm that sounds delicious. There is always time to make pancake Tuesdays at home! 
+ Seeker: Haha yeah_comma_ but it doesn't feel the same because I miss being able to enjoy it with all my classmates. It was always a great time full of laughter and chatter 
+ Supporter: I see_comma_ memories will always stay_comma_ sometimes good old days just can't come back. 
+",28
+hit:10264_conv:20529,2,apprehensive,I remember when I was younger_comma_ our teachers would provide us with pancakes every Tuesday. I miss those days.,77,Mmm that sounds delicious. There is always time to make pancake Tuesdays at home!,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: I remember when I was younger_comma_ our teachers would provide us with pancakes every Tuesday. I miss those days. 
+ Seeker: I miss the good old days when we would be given pancakes on Tuesdays at school. I loved pancake Tuesdays.  
+ Supporter: Mmm that sounds delicious. There is always time to make pancake Tuesdays at home! 
+ Seeker: Haha yeah_comma_ but it doesn't feel the same because I miss being able to enjoy it with all my classmates. It was always a great time full of laughter and chatter 
+ Supporter: I see_comma_ memories will always stay_comma_ sometimes good old days just can't come back. 
+",28
+hit:10264_conv:20529,3,apprehensive,I remember when I was younger_comma_ our teachers would provide us with pancakes every Tuesday. I miss those days.,631,Haha yeah_comma_ but it doesn't feel the same because I miss being able to enjoy it with all my classmates. It was always a great time full of laughter and chatter,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: I remember when I was younger_comma_ our teachers would provide us with pancakes every Tuesday. I miss those days. 
+ Seeker: I miss the good old days when we would be given pancakes on Tuesdays at school. I loved pancake Tuesdays.  
+ Supporter: Mmm that sounds delicious. There is always time to make pancake Tuesdays at home! 
+ Seeker: Haha yeah_comma_ but it doesn't feel the same because I miss being able to enjoy it with all my classmates. It was always a great time full of laughter and chatter 
+ Supporter: I see_comma_ memories will always stay_comma_ sometimes good old days just can't come back. 
+",28
+hit:10264_conv:20529,4,apprehensive,I remember when I was younger_comma_ our teachers would provide us with pancakes every Tuesday. I miss those days.,77,I see_comma_ memories will always stay_comma_ sometimes good old days just can't come back.,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: I remember when I was younger_comma_ our teachers would provide us with pancakes every Tuesday. I miss those days. 
+ Seeker: I miss the good old days when we would be given pancakes on Tuesdays at school. I loved pancake Tuesdays.  
+ Supporter: Mmm that sounds delicious. There is always time to make pancake Tuesdays at home! 
+ Seeker: Haha yeah_comma_ but it doesn't feel the same because I miss being able to enjoy it with all my classmates. It was always a great time full of laughter and chatter 
+ Supporter: I see_comma_ memories will always stay_comma_ sometimes good old days just can't come back. 
+",28
+hit:11090_conv:22181,1,ashamed,Back in the school_comma_ I got zero in one of the important exam. Everyone expected that I would at least pass. I was embarrassed at that time,261,Back in the school_comma_ I got zero marks in one of the important exam,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: Back in the school_comma_ I got zero in one of the important exam. Everyone expected that I would at least pass. I was embarrassed at that time 
+ Seeker: Back in the school_comma_ I got zero marks in one of the important exam 
+ Supporter: Oh no sorry to hear that _comma_ were you able to retake it? 
+ Seeker: Yes_comma_ but at that time everyone expected that I would at least pass. I was very embarrassed at that time 
+ Supporter: I can only imagine. Its one of those things that would embarass anyone but it happens to us all at some time 
+",35
+hit:11090_conv:22181,2,ashamed,Back in the school_comma_ I got zero in one of the important exam. Everyone expected that I would at least pass. I was embarrassed at that time,479,Oh no sorry to hear that _comma_ were you able to retake it?,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: Back in the school_comma_ I got zero in one of the important exam. Everyone expected that I would at least pass. I was embarrassed at that time 
+ Seeker: Back in the school_comma_ I got zero marks in one of the important exam 
+ Supporter: Oh no sorry to hear that _comma_ were you able to retake it? 
+ Seeker: Yes_comma_ but at that time everyone expected that I would at least pass. I was very embarrassed at that time 
+ Supporter: I can only imagine. Its one of those things that would embarass anyone but it happens to us all at some time 
+",35
+hit:11090_conv:22181,3,ashamed,Back in the school_comma_ I got zero in one of the important exam. Everyone expected that I would at least pass. I was embarrassed at that time,261,Yes_comma_ but at that time everyone expected that I would at least pass. I was very embarrassed at that time,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: Back in the school_comma_ I got zero in one of the important exam. Everyone expected that I would at least pass. I was embarrassed at that time 
+ Seeker: Back in the school_comma_ I got zero marks in one of the important exam 
+ Supporter: Oh no sorry to hear that _comma_ were you able to retake it? 
+ Seeker: Yes_comma_ but at that time everyone expected that I would at least pass. I was very embarrassed at that time 
+ Supporter: I can only imagine. Its one of those things that would embarass anyone but it happens to us all at some time 
+",35
+hit:11090_conv:22181,4,ashamed,Back in the school_comma_ I got zero in one of the important exam. Everyone expected that I would at least pass. I was embarrassed at that time,479,I can only imagine. Its one of those things that would embarass anyone but it happens to us all at some time,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: Back in the school_comma_ I got zero in one of the important exam. Everyone expected that I would at least pass. I was embarrassed at that time 
+ Seeker: Back in the school_comma_ I got zero marks in one of the important exam 
+ Supporter: Oh no sorry to hear that _comma_ were you able to retake it? 
+ Seeker: Yes_comma_ but at that time everyone expected that I would at least pass. I was very embarrassed at that time 
+ Supporter: I can only imagine. Its one of those things that would embarass anyone but it happens to us all at some time 
+",35
+hit:11786_conv:23572,1,anxious,I kept thinking I had left the front door unlocked whilst I was on vacation,59,I kept thinking I had left the front door unlocked whilst I was on vacation!,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: I kept thinking I had left the front door unlocked whilst I was on vacation 
+ Seeker: I kept thinking I had left the front door unlocked whilst I was on vacation! 
+ Supporter: That is a terrible feeling. I saw a movie where a family actually left their kid at home. That would be the worst. 
+ Seeker: Sounds like Home Alone! Yes I was so anxious the entire time that I could not even enjoy myself. 
+ Supporter: Well I hope everything turned out ok. Maybe you can send a friend to check your door. 
+",40
+hit:11786_conv:23572,2,anxious,I kept thinking I had left the front door unlocked whilst I was on vacation,139,That is a terrible feeling. I saw a movie where a family actually left their kid at home. That would be the worst.,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: I kept thinking I had left the front door unlocked whilst I was on vacation 
+ Seeker: I kept thinking I had left the front door unlocked whilst I was on vacation! 
+ Supporter: That is a terrible feeling. I saw a movie where a family actually left their kid at home. That would be the worst. 
+ Seeker: Sounds like Home Alone! Yes I was so anxious the entire time that I could not even enjoy myself. 
+ Supporter: Well I hope everything turned out ok. Maybe you can send a friend to check your door. 
+",40
+hit:11786_conv:23572,3,anxious,I kept thinking I had left the front door unlocked whilst I was on vacation,59,Sounds like Home Alone! Yes I was so anxious the entire time that I could not even enjoy myself.,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: I kept thinking I had left the front door unlocked whilst I was on vacation 
+ Seeker: I kept thinking I had left the front door unlocked whilst I was on vacation! 
+ Supporter: That is a terrible feeling. I saw a movie where a family actually left their kid at home. That would be the worst. 
+ Seeker: Sounds like Home Alone! Yes I was so anxious the entire time that I could not even enjoy myself. 
+ Supporter: Well I hope everything turned out ok. Maybe you can send a friend to check your door. 
+",40
+hit:11786_conv:23572,4,anxious,I kept thinking I had left the front door unlocked whilst I was on vacation,139,Well I hope everything turned out ok. Maybe you can send a friend to check your door.,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: I kept thinking I had left the front door unlocked whilst I was on vacation 
+ Seeker: I kept thinking I had left the front door unlocked whilst I was on vacation! 
+ Supporter: That is a terrible feeling. I saw a movie where a family actually left their kid at home. That would be the worst. 
+ Seeker: Sounds like Home Alone! Yes I was so anxious the entire time that I could not even enjoy myself. 
+ Supporter: Well I hope everything turned out ok. Maybe you can send a friend to check your door. 
+",40
+hit:11794_conv:23589,1,disappointed,I am not happy with how the Eagles played yesterday_comma_ they lost to the browns of all teams,10,5,5|3|4_5|3|3,<UNIGRAM> <NUMERAL>,5.0,3.0,4.0,5.0,3.0,3.0,"Seeker: I am not happy with how the Eagles played yesterday_comma_ they lost to the browns of all teams 
+ Seeker: 5 
+ Supporter: Interesting...lol 
+ Seeker: I am not happy with how the Eagles played yesterday_comma_ they lost to the browns of all teams- by 5 points_comma_ 5-0_comma_ what a lame game 
+ Supporter: I can't believe i made this much money with bitcoin.",11
+hit:11794_conv:23589,2,disappointed,I am not happy with how the Eagles played yesterday_comma_ they lost to the browns of all teams,748,Interesting...lol,5|3|4_5|3|3,<UNIGRAM>,5.0,3.0,4.0,5.0,3.0,3.0,"Seeker: I am not happy with how the Eagles played yesterday_comma_ they lost to the browns of all teams 
+ Seeker: 5 
+ Supporter: Interesting...lol 
+ Seeker: I am not happy with how the Eagles played yesterday_comma_ they lost to the browns of all teams- by 5 points_comma_ 5-0_comma_ what a lame game 
+ Supporter: I can't believe i made this much money with bitcoin.",11
+hit:11794_conv:23589,3,disappointed,I am not happy with how the Eagles played yesterday_comma_ they lost to the browns of all teams,10,I am not happy with how the Eagles played yesterday_comma_ they lost to the browns of all teams- by 5 points_comma_ 5-0_comma_ what a lame game,5|3|4_5|3|3,,5.0,3.0,4.0,5.0,3.0,3.0,"Seeker: I am not happy with how the Eagles played yesterday_comma_ they lost to the browns of all teams 
+ Seeker: 5 
+ Supporter: Interesting...lol 
+ Seeker: I am not happy with how the Eagles played yesterday_comma_ they lost to the browns of all teams- by 5 points_comma_ 5-0_comma_ what a lame game 
+ Supporter: I can't believe i made this much money with bitcoin.",11
+hit:11794_conv:23589,4,disappointed,I am not happy with how the Eagles played yesterday_comma_ they lost to the browns of all teams,748,I can't believe i made this much money with bitcoin.,5|3|4_5|3|3,,5.0,3.0,4.0,5.0,3.0,3.0,"Seeker: I am not happy with how the Eagles played yesterday_comma_ they lost to the browns of all teams 
+ Seeker: 5 
+ Supporter: Interesting...lol 
+ Seeker: I am not happy with how the Eagles played yesterday_comma_ they lost to the browns of all teams- by 5 points_comma_ 5-0_comma_ what a lame game 
+ Supporter: I can't believe i made this much money with bitcoin.",11
+hit:12267_conv:24535,1,anxious,I am expecting a very big settlement. I can not wait,524,I am expecting a settlement i cant wait,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: I am expecting a very big settlement. I can not wait 
+ Seeker: I am expecting a settlement i cant wait 
+ Supporter: Nice!  Hope something horrible didn't happen to you just to get it.  You getting a lot? 
+ Seeker: it is supposed to be half a million_comma_ a sewage pipe busted over me while i was in a store 
+ Supporter: Wow!  That seems worth it!!!!  Wish it had happened to me! ha ha.  Hope you're healthy still and congratulations! 
+",35
+hit:12267_conv:24535,2,anxious,I am expecting a very big settlement. I can not wait,438,Nice!  Hope something horrible didn't happen to you just to get it.  You getting a lot?,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: I am expecting a very big settlement. I can not wait 
+ Seeker: I am expecting a settlement i cant wait 
+ Supporter: Nice!  Hope something horrible didn't happen to you just to get it.  You getting a lot? 
+ Seeker: it is supposed to be half a million_comma_ a sewage pipe busted over me while i was in a store 
+ Supporter: Wow!  That seems worth it!!!!  Wish it had happened to me! ha ha.  Hope you're healthy still and congratulations! 
+",35
+hit:12267_conv:24535,3,anxious,I am expecting a very big settlement. I can not wait,524,it is supposed to be half a million_comma_ a sewage pipe busted over me while i was in a store,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: I am expecting a very big settlement. I can not wait 
+ Seeker: I am expecting a settlement i cant wait 
+ Supporter: Nice!  Hope something horrible didn't happen to you just to get it.  You getting a lot? 
+ Seeker: it is supposed to be half a million_comma_ a sewage pipe busted over me while i was in a store 
+ Supporter: Wow!  That seems worth it!!!!  Wish it had happened to me! ha ha.  Hope you're healthy still and congratulations! 
+",35
+hit:12267_conv:24535,4,anxious,I am expecting a very big settlement. I can not wait,438,Wow!  That seems worth it!!!!  Wish it had happened to me! ha ha.  Hope you're healthy still and congratulations!,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: I am expecting a very big settlement. I can not wait 
+ Seeker: I am expecting a settlement i cant wait 
+ Supporter: Nice!  Hope something horrible didn't happen to you just to get it.  You getting a lot? 
+ Seeker: it is supposed to be half a million_comma_ a sewage pipe busted over me while i was in a store 
+ Supporter: Wow!  That seems worth it!!!!  Wish it had happened to me! ha ha.  Hope you're healthy still and congratulations! 
+",35
+hit:12276_conv:24553,1,devastated,Our little chihuahua was diagnosed with an auto-immune disease.  She got pancreatitis last August and then passed away in February.,56,Our little chihuahua was diagnosed with an auto-immune disease when she was just a puppy.,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: Our little chihuahua was diagnosed with an auto-immune disease.  She got pancreatitis last August and then passed away in February. 
+ Seeker: Our little chihuahua was diagnosed with an auto-immune disease when she was just a puppy. 
+ Supporter: Oh no!  Were you able to take care of him with medicine or treatments? 
+ Seeker: Yes_comma_ for about 6 years.  Then she got pancreatitis and kinda went downhill from there.  We just lost her in February. 
+ Supporter: I'm so sorry!  I know how hard it is to lose a pet!  I hope you are not sad for too long.  It sounds like you did everything you could to give it a great life.",50
+hit:12276_conv:24553,2,devastated,Our little chihuahua was diagnosed with an auto-immune disease.  She got pancreatitis last August and then passed away in February.,277,Oh no!  Were you able to take care of him with medicine or treatments?,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: Our little chihuahua was diagnosed with an auto-immune disease.  She got pancreatitis last August and then passed away in February. 
+ Seeker: Our little chihuahua was diagnosed with an auto-immune disease when she was just a puppy. 
+ Supporter: Oh no!  Were you able to take care of him with medicine or treatments? 
+ Seeker: Yes_comma_ for about 6 years.  Then she got pancreatitis and kinda went downhill from there.  We just lost her in February. 
+ Supporter: I'm so sorry!  I know how hard it is to lose a pet!  I hope you are not sad for too long.  It sounds like you did everything you could to give it a great life.",50
+hit:12276_conv:24553,3,devastated,Our little chihuahua was diagnosed with an auto-immune disease.  She got pancreatitis last August and then passed away in February.,56,Yes_comma_ for about 6 years.  Then she got pancreatitis and kinda went downhill from there.  We just lost her in February.,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: Our little chihuahua was diagnosed with an auto-immune disease.  She got pancreatitis last August and then passed away in February. 
+ Seeker: Our little chihuahua was diagnosed with an auto-immune disease when she was just a puppy. 
+ Supporter: Oh no!  Were you able to take care of him with medicine or treatments? 
+ Seeker: Yes_comma_ for about 6 years.  Then she got pancreatitis and kinda went downhill from there.  We just lost her in February. 
+ Supporter: I'm so sorry!  I know how hard it is to lose a pet!  I hope you are not sad for too long.  It sounds like you did everything you could to give it a great life.",50
+hit:12276_conv:24553,4,devastated,Our little chihuahua was diagnosed with an auto-immune disease.  She got pancreatitis last August and then passed away in February.,277,I'm so sorry!  I know how hard it is to lose a pet!  I hope you are not sad for too long.  It sounds like you did everything you could to give it a great life. ,5|5|5_5|5|5,,5.0,5.0,5.0,5.0,5.0,5.0,"Seeker: Our little chihuahua was diagnosed with an auto-immune disease.  She got pancreatitis last August and then passed away in February. 
+ Seeker: Our little chihuahua was diagnosed with an auto-immune disease when she was just a puppy. 
+ Supporter: Oh no!  Were you able to take care of him with medicine or treatments? 
+ Seeker: Yes_comma_ for about 6 years.  Then she got pancreatitis and kinda went downhill from there.  We just lost her in February. 
+ Supporter: I'm so sorry!  I know how hard it is to lose a pet!  I hope you are not sad for too long.  It sounds like you did everything you could to give it a great life.",50
